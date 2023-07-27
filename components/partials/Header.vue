@@ -1,8 +1,8 @@
 <template>
     <header class="z-50 fixed top-0 left-0 w-full">
-        <div class="h-32 flex">
+        <div class="h-32 flex transition-all duration-300 ease-in-out" :class="{'opaque':isOpaque}">
             <div class="z-40 w-full flex justify-between py-4 px-8 md:justify-start md:gap-x-16">
-                <img class="w-[90px]" src="/images/logos/logo-black.svg" alt="" srcset="">
+                <img class="h-full"  src="/images/logos/logo-black.svg" alt="" srcset="">
                 <button  @click="showMenu = !showMenu" class="h-fit md:hidden">
                     <svg width="43" height="29" viewBox="0 0 43 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2.5 2.5H40.5" stroke="black" stroke-width="5" stroke-linecap="round"/>
@@ -50,39 +50,25 @@
 <script setup> 
 
 const showMenu = ref(false)
-
+const isOpaque = ref(false)
+function changeHeaderLook() {
+    if(window.scrollY > 128){
+        isOpaque.value = true
+    }else{
+        isOpaque.value = false
+    }
+}
+onMounted(() => {
+    window.addEventListener('scroll', changeHeaderLook)
+    
+})
 </script>
 
 <style scoped>
-#menu_btn span:first-child{
-    transform-origin: left;
-    transform: rotate(0);
-    transition: all 300ms ease-in-out;
-}
-#menu_btn span.cross:first-child{
-    transform: rotate(45deg) translateY(-2px);
-}
-
-#menu_btn span:last-child{
-    transform-origin: left;
-    transform: rotate(0);
-    transition: all 300ms ease-in-out;
-}
-#menu_btn span.cross:last-child{
-    transform: rotate(-45deg) translateY(2px);
-}
-
-
-
-@keyframes span_1_animation {
-    from {
-        background: black;
-        transform: rotate(0);
-        transform: translateY(0);
-
+    .opaque {
+        background: white;
+        box-shadow: 0 0 14px rgba(0, 0, 0, 0.2);
+        height: 5.75rem;
     }
-    to {
-        
-    }
-}
 </style>
+
