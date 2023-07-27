@@ -27,8 +27,8 @@
                         del Col·legi Oficial de Metges de Barcelona i altres entitats de referència del país, com CODINUCAT (Col·legi de Dietistes-Nutricionistes de Catalunya) i SENPE (Societat Espanyola de Nutrició Clínica i Metabolisme).
                     </p>
                 </div>
-                <div class=" w-full max-w-[37.5rem] h-[40rem]  bg-gray-500">
-
+                <div class=" w-full max-w-[37.5rem] h-[40rem] overflow-hidden">
+                    <img src="/images/alimentacio/Fundacio_Catalunya_laPedrera.svg" class=" w-full h-full object-cover" alt="ALIMENTACIÓ">
                 </div>
             </div>
         </div>
