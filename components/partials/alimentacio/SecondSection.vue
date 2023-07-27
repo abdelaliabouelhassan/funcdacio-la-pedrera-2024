@@ -1,9 +1,11 @@
 <template>
      <section class=" w-full  px-4 xl:px-0">
         <div class=" w-full max-w-[828.9px] mx-auto py-20 ">
-            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-y-0 items-center sm:justify-between">
-                 <div class=" w-full max-w-[20.75rem] h-[20.16rem]  bg-gray-500">
-
+            <div class=" sm:space-x-10 xl:space-x-0 w-full flex sm:flex-row flex-col space-y-16 sm:space-y-0 items-center sm:justify-between">
+                 <div class=" w-full max-w-[20.75rem] h-[20.16rem]">
+                     <CropedImage>
+                        <img src="/images/alimentacio/child.svg" alt="SALUT" srcset="">
+                    </CropedImage>
                 </div>
                 <div class=" w-full max-w-[27.5rem] space-y-4 border-t border-black">
                     <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-normal pt-4">SALUT I BONS HÀBITS ALIMENTARIS</h1>
@@ -16,7 +18,7 @@
             </div>
         </div>
         <div class=" w-full max-w-[828.9px] mx-auto py-20 ">
-            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-y-0 items-center sm:justify-between">
+            <div class=" sm:space-x-10 xl:space-x-0  w-full flex sm:flex-row flex-col space-y-16 sm:space-y-0 items-center sm:justify-between">
                 <div class=" w-full max-w-[27.5rem] space-y-4 border-t border-black">
                     <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-normal pt-4 sm:text-right">FORMACIÓ I TALLERS</h1>
                     <p class="  text-black sm:text-right text-lg font-normal font-super-grotesk-ot">
@@ -24,11 +26,18 @@
                         La divulgació de la importància de l’alimentació també es fa a través de grans esdeveniments, com va ser l’any 2022 la festa Alícia’t, celebrada a Món Sant Benet. Un total de 1.600 persones van poder gaudir de xerrades, tallers i demostracions al voltant del món de la cuina fàcil, sana i sostenible.
                     </p>
                 </div>
-                 <div class=" w-full max-w-[20.75rem] h-[20.16rem]  bg-gray-500">
-
+                 <div class=" w-full max-w-[20.75rem] h-[20.16rem]">
+                    <CropedImage>
+                        <img src="/images/alimentacio/formaci.svg" alt="FORMACIÓ" srcset="">
+                    </CropedImage>
                 </div>
                
             </div>
         </div>
     </section>
 </template>
+
+<script setup>
+import CropedImage from "@/components/UI/CropedImage.vue";
+
+</script>

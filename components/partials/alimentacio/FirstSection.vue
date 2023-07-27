@@ -15,7 +15,7 @@
         </div>
 
         <div class=" w-full max-w-[1097px] mx-auto py-20 ">
-            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-y-0 items-start sm:justify-between">
+            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
                 <div class=" w-full max-w-[27.5rem] space-y-8 border-t border-black px-4 xl:px-0">
                     <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-normal pt-4">ALIMENTACIÓ PER A PERSONES AMB NECESSITATS ESPECIALS</h1>
                     <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
