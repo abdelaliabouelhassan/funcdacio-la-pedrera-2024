@@ -1,6 +1,6 @@
 <template>
     <section class="h-screen max-h-[46.94rem] relative flex justify-center items-center">
-        <img class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/home/hero-background.svg" alt="" srcset="">
+        <img class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/home/hero-background.svg" alt="hero" srcset="">
         <img class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-left-top md:block" src="/images/alimentacio/hero.png" alt="" srcset="">
         
         <div class="flex z-10 flex-col items-center gap-y-8 text-center px-4 ">
