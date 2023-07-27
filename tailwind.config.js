@@ -15,7 +15,12 @@ module.exports = {
           'reenie-beanie': ['Reenie Beanie', 'sans-serif'],
         },
         colors:{
-          'Turquoise':'#99B5B6'
+          'Turquoise':'#99B5B6',
+          'Agave':'#A3BDBE',
+          'Brown':'#80676B',
+          'Olive-Green':'#9DA17C',
+          'Ocre':'#D2B569',
+          'Beige':'#DFD3BB',
         },
         
         

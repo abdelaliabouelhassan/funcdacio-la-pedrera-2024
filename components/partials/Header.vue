@@ -2,7 +2,7 @@
     <header class="z-50 fixed top-0 left-0 w-full">
         <div class="h-32 flex transition-all duration-300 ease-in-out" :class="{'opaque':isOpaque}">
             <div class="z-40 w-full flex justify-between py-4 px-8 md:justify-start md:gap-x-16">
-                <img class="h-full"  src="/images/logos/logo-black.svg" alt="" srcset="">
+                <img class="h-full w-[96.5px]"  src="/images/logos/logo-black.svg" alt="" srcset="">
                 <button  @click="showMenu = !showMenu" class="h-fit md:hidden">
                     <svg width="43" height="29" viewBox="0 0 43 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2.5 2.5H40.5" stroke="black" stroke-width="5" stroke-linecap="round"/>
@@ -60,7 +60,9 @@ function changeHeaderLook() {
 }
 onMounted(() => {
     window.addEventListener('scroll', changeHeaderLook)
-    
+})
+onUnmounted(()=>{
+    window.removeEventListener('scroll', changeHeaderLook)
 })
 </script>
 
