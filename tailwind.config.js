@@ -13,6 +13,8 @@ module.exports = {
         },
         fontFamily: {
           'reenie-beanie': ['Reenie Beanie', 'sans-serif'],
+          'super-rotesk-comp': ['sans-serif'],
+          'super-grotesk-ot':['sans-serif'],
         },
         colors:{
           'Turquoise':'#99B5B6',
