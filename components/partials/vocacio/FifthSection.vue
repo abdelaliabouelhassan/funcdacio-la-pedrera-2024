@@ -1,8 +1,8 @@
 <template>
     <section class="w-full max-w-[828.9px] mx-auto py-16">
         <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
-            <div class="bg-black/30 w-[330px] h-[380px] overflow-hidden text-white">
-            chart here
+            <div class="w-[330px] h-[380px] overflow-hidden text-white">
+                <ChartDoughnut />
             </div>
             <div class="w-full max-w-[27.5rem] space-y-10">
                 <div class=" w-full  space-y-8 border-t border-black px-4 xl:px-0">
@@ -15,3 +15,6 @@
         </div>
     </section>
 </template> 
+<script setup>
+import ChartDoughnut from '@/components/UI/ChartDoughnut.vue'
+</script>

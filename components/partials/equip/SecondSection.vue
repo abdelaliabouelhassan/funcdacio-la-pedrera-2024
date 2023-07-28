@@ -42,7 +42,7 @@
                 </article>
             </div>
             <article class="w-full border-t border-black pt-6 flex flex-col gap-y-6">
-                <h1 class="text-Turquoise">Món San Benet</h1>
+                <h1 class="text-Turquoise text-2xl">Món San Benet</h1>
                 <CollapsableContent>
                     <p>
                         Gonzalez Serra, Fernando. Guer- rero Pujol, Eva. Rodriguez Salinas, Helena. Batriu Font, Jordi. Corti- na Iglesias, Ramon Jordi. Garcia Uber, Eva. Lopez Cano, Angel. Massana Garcia, Silvia. Navarro
@@ -54,7 +54,7 @@
 
         <div class="w-full max-w-[56rem] mx-auto">
             <article v-collapsable class="collapsable grid grid-cols-1 gap-4 md:grid-cols-2">
-                <div class="w-full border-t border-black pt-6 ">
+                <div class="w-full border-t border-black pt-6  flex flex-col gap-y-6">
                     <h1 class="text-Turquoise text-2xl">SPT</h1>
                     <div class="collapsable-content">
                         <p>
