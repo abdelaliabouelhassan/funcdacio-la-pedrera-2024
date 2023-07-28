@@ -1,4 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+/* use this from /public/fonts/SuperGroteskComp-Bold.ttf */
+
+
+@font-face {
+  font-family: 'SuperGroteskComp';
+  src: url('/fonts/SuperGroteskComp-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* SuperGroteskComp.ttf/ */
+
+@font-face {
+  font-family: 'SuperGroteskComp';
+  src: url('/fonts/SuperGroteskComp.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} 
+
+/* SuperGroteskOT.otf */
+
+@font-face {
+  font-family: 'SuperGroteskOT';
+  src: url('/fonts/SuperGroteskOT.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 @tailwind base;
 @tailwind components;
@@ -12,6 +40,7 @@
       @apply text-[2rem] font-bold tracking-[0.2rem] leading-normal font-super-rotesk-comp;
     }
 }
+
 
 .collapsable .collapsable-content {
   overflow: hidden;
@@ -31,3 +60,4 @@ transition: height 0.3s ease;
 .collapsable .chevron {
 transition: all 0.2s ease;
 }
+
