@@ -18,11 +18,11 @@
 
         <div class=" w-full max-w-[827px] mx-auto py-20 ">
             <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
-                <div class=" w-full max-w-[37.5rem] h-[40rem] space-y-2 items-start flex flex-col">
+                <div class=" w-full max-w-[37.5rem] space-y-2 items-start flex flex-col px-4 xl:px-0">
                     <span class=" text-lg text-black font-normal font-super-grotesk-ot">Creixement de l’ocupació inclusiva:</span>
                     <h1 class=" text-xl font-bold text-black font-super-rotesk-comp leading-[1]">LLOCS DE TREBALL <br> COOPERATIVA MANS</h1>
-                    <div class=" w-full h-[16.46rem] bg-gray-500 sm:max-w-[20.62rem]">
-
+                    <div class=" w-full   sm:max-w-[22.62rem]">
+                        <ChartBar />
                     </div>
                    <div class=" w-full space-y-2 pt-4">
                         <div class=" w-full flex flex-wrap  items-center  gap-5">
@@ -62,3 +62,8 @@
         </div>
     </section>
 </template>
+
+
+<script setup>
+ import ChartBar from '@/components/UI/ChartBar.vue'
+</script>
