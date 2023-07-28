@@ -13,5 +13,9 @@
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.17.0",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.2",
+    "vue-chartjs": "^5.2.0"
   }
 }
