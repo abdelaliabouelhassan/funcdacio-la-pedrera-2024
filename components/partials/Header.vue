@@ -1,6 +1,6 @@
 <template>
-    <header class="z-50 fixed top-0 left-0 w-full">
-        <div class="h-32 flex transition-all duration-300 ease-in-out" :class="{'opaque':isOpaque}">
+    <header class="z-50 fixed top-0 left-0 w-full h-32 transition-all duration-300 ease-in-out" :class="{'opaque':isOpaque}">
+        <div class="h-full  w-full max-w-[90rem] mx-auto flex " >
             <div class="z-40 w-full flex justify-between py-4 px-8 md:justify-start md:gap-x-16">
                 <img class="h-full w-[96.5px]"  src="/images/logos/logo-black.svg" alt="" srcset="">
                 <button  @click="showMenu = !showMenu" class="h-fit md:hidden">
@@ -13,10 +13,10 @@
 
                 <!-- md screen menu -->
                 <nav class="hidden md:flex gap-x-8 h-fit">
-                    <router-link to="/" class="text-xl">Patronal</router-link>
-                    <router-link to="/" class="text-xl">Equip</router-link>
-                    <router-link to="/" class="text-xl">Balanç econòmic</router-link>
-                    <router-link to="/" class="text-xl">Impacte social</router-link>
+                    <router-link to="/patronat"  class="text-xl">Patronal</router-link>
+                    <router-link to="/equip" class="text-xl">Equip</router-link>
+                    <router-link to="/balanc" class="text-xl">Balanç econòmic</router-link>
+                    <router-link to="/impact" class="text-xl">Impacte social</router-link>
                 </nav>
             </div>
             <!-- small screen menu -->
@@ -33,11 +33,11 @@
                 </div>
 
                 <div class="md:hidden h-fit flex flex-col gap-y-8 text-white justify-center items-center px-4 grow">
-                    <router-link to="/" class="text-[2rem]">Inici</router-link>
-                    <router-link to="/" class="text-[2rem]">Patronal</router-link>
-                    <router-link to="/" class="text-[2rem]">Equip</router-link>
-                    <router-link to="/" class="text-[2rem]">Balanç econòmic</router-link>
-                    <router-link to="/" class="text-[2rem]">Impacte social</router-link>
+                    <router-link @click="showMenu = !showMenu" to="/" class="text-[2rem]">Inici</router-link>
+                    <router-link @click="showMenu = !showMenu" to="/patronat" class="text-[2rem]">patronat</router-link>
+                    <router-link @click="showMenu = !showMenu" to="/equip" class="text-[2rem]">Equip</router-link>
+                    <router-link @click="showMenu = !showMenu" to="/balanc" class="text-[2rem]">Balanç econòmic</router-link>
+                    <router-link @click="showMenu = !showMenu" to="/impact" class="text-[2rem]">Impacte social</router-link>
                 </div>
             </div>
 
