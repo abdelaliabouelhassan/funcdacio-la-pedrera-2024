@@ -18,7 +18,7 @@
             <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
                <div class="w-full max-w-[27.5rem] space-y-10">
                     <div class=" w-full  space-y-8 border-t border-black px-4 xl:px-0">
-                        <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-normal pt-4">PROGRAMA DE REFORÇ I ESTIMULACIÓ DE LA MEMÒRIA I LA SALUT</h1>
+                        <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">PROGRAMA DE REFORÇ I ESTIMULACIÓ DE LA MEMÒRIA I LA SALUT</h1>
                         <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
                        El Programa de Reforç i Estimulació de la Memòria i la Salut (REMS) s’adreça a persones grans que comencen a experimentar deficiències de memòria per causes diverses, com ara l’Alzheimer o altres demències en fases inicials. <br> <br>
                        L’any 2022 la Fundació Catalunya La Pedrera ha consolidat la seva aposta per fer que aquestes persones amb deteriorament cognitiu tinguin un envelliment el més digne possible. S’ha recuperat el total d’espais oberts que hi havia abans de la pandèmia de la COVID, amb la reobertura de l’espaiSocial de l’Hospitalet de Llobregat, restablint així la xarxa de 21 espais arreu de Catalunya.
