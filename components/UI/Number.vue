@@ -1,7 +1,7 @@
 <template>
-    <div ref="numberComponent">
+    <span ref="numberComponent">
         {{displayedNumber}}
-    </div>
+    </span>
 </template>
 <script setup>
 const props = defineProps({
