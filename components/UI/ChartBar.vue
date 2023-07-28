@@ -48,7 +48,7 @@ export default {
             backgroundColor: '#DFD3BB',
             data: [ 58, 62, 69, 79, 83 ]
           }
-        ]
+        ],
       },
       chartOptions: {
         responsive: true,
@@ -66,7 +66,8 @@ export default {
             labels: {
               font: {
                 size: 14,
-                family: 'SuperGroteskComp'
+                family: 'SuperGroteskComp',
+                weight: 'bold'
               }
             }
           }
