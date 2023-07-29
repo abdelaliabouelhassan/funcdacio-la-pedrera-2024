@@ -20,7 +20,6 @@
      width.value = window.innerWidth;
      window.addEventListener("resize", () => {
          width.value = window.innerWidth;
-         console.log(width.value);
      });
  });
 </script>

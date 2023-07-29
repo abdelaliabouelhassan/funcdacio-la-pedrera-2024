@@ -1,5 +1,5 @@
 <template>
-    <section class="py-58 px-4 md:px-12 py-14">
+    <section class="py-58 px-4 sm:px-8 md:px-12 py-14">
         <!-- article row -->
         <div class="w-full max-w-[56rem] mx-auto flex flex-col gap-4 md:flex-row">
             <article class="w-full border-t border-black pt-6 flex flex-col gap-y-6">
@@ -52,11 +52,11 @@
             </article>
         </div>
 
-        <div class="w-full max-w-[56rem] mx-auto">
-            <article v-collapsable class="collapsable grid grid-cols-1 gap-4 md:grid-cols-2">
+        <div v-collapsable  class="w-full collapsable">
+            <article class=" max-w-[56rem] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2">
                 <div class="w-full border-t border-black pt-6  flex flex-col gap-y-6">
                     <h1 class="text-Turquoise text-2xl">SPT</h1>
-                    <div class="collapsable-content">
+                    <div class="collapsable-content ">
                         <p>
                             Aguillo Green, Emma Rosa. Albiges Bertomeu, Emilie Teresa. Alemany I Erra, Roger. Algarrá Navarro, Ana. Almazan Purti, Maria Gloria. Alonso Cebrian, Kevin. Alonso Gago, Cintia Ma- ria. Alonso Peña, Rebeca. Alvarez Isern, Berta. Amigo Badia, Maria Angels. Andreu Aparicio, Monica. Andreu Ferrer, Nuria. Andreva Martinez, Joan Marc. Anguera Martinez, Alba. Anguera Martinez, Blanca. Antille, Maria Ines. Aragües Solera, Ignasi. Armesto Perez, Katia. Arnau Ru- bio, Andrea. Arteaga Pozo, Fernando Xavier. Artigas Piñero, Neus. Artuñedo Sala, Adria. Asensio Ceron, Iñaki. Aserrador Arroyo, Marta. Auge Pidelaserra, Judit. Ayllon Martin, Ruth. Badia Muñoz, Arnau. Badji Duaso, Bruno. Badosa Pascual, Ester. Banderas Hernandez, Sofia. Barba Gomez, Andreu. Batlle Burgos, Edgar Gerard. Bazan I Quintana, Albert. Belda Avila, Helena. Belyanina, Anastasiya. Benet Erola, Raul. Bertomeu Na- varro, Ramon. Bertran I Tort, Guisla. Bianchi Company, Victor. Blade I Ejarque, Maria. Blanch Ramirez, Joana. Blanco Collado, Alejandro.Blesa Sala, Daniel. Borras Miralles, Arnau. Bru Aguaron, Silvia. Bru Garcia, Alexia. Brustenga Ser- ra, Julia. Camara Fernandez, Cristina. Campos Puigmarti, Gustavo Adolfo. Cañadilla I Sanchez, Judit. Cañas Sanchez, Claudia. Cano Da Cunha, Oliver. Canovas Puigdellivol, Nuria. Carrillo Sierra, Marta. Carrion Higueras, Sara. Casa- majo Lacort, Concepcion. Casamitjana Homs, Laia. Castells Riu, Monica. Castillon Prat, Marina. Castro Sole, Irina. Cava Gomez, Eva Maria. Chmarkh, Imane. Chouari Morandeira, Yamina. Cid Reverte, Joan. Ciudad Gracia, Victor. Claramunt Marco, Estrella Valeria. Cobos Rodriguez, Elisa- bet. Coletas Uro, Laura. Coll Ribas, Maria Alba. Collado Sanchez, Alba. Colome Rakosnik, Elena. Comas I Saave- dra, Paula. Correia Vieira, Valdeci. Cribillers Reig, Cristina. Cuadra Berenguer, Isabel. Cucurella Pinilla, Marta. Culvi Martin, Josep. De Antonio Rodriguez, Rosa. De Juan Asta- sio, Marc. Dumea, Stefania Monica. Dumitru, Madalina Stefania. Duocastella Parcerisas, Montserrat. El Hajji El Hajji, Nabil. Escale Estrada, Rosa. Esteban Solaz, Laura. Faced Vilaplana, Maria. Faucon Nieto, Lidia. Feliu Lahoz, Natalia. Fernandez Puy, Laia. Ferrei Lopez, Julia. Fontbo- na Fontbote, Anna. Fores Pinedo, Nerea. Freixanet Torres, Marina. Freixas Sala, Patricia. Galofre Pizan, Manel. Ga- misans Forradellas, Sergi. Gandul Berges, Borja. Garceso Espigares, Silvia. Garcia Bengoa, Xabier. Garcia Fernan- dez, Ruben. Garcia Munoz, Javier. Garcia Perez, Sara. Garcia Portoles, Veronica. Garcia Sanz, Miguel. Garcia Sors, Sara. Garde Llovet, Silvia. Garmilla Valle, Paula. Garrell Casasas, Berta. Ghachem Acuña, Nadia. Gimeno I Roman, Aina. Giraldez Arias, Nuria. Gobets Susanne, Esther. Godoy Albadalejo, Ana Maria. Gomez Gimenez, Marina. Gonzalez Aquino, Cristina. Gonzalez I Duch, Nu- ria. Gonzalez Manjarrez, Lissette Stefania. Gonzalez Ro- sell, Anna. Gonzalez Santos, Miriam. Gorriti Romero, Ibai. Gual Carcasona, Anna. Guallar Comas, Maria. Guasch Montesinos, Gemma. Guseva Grigorieva, Anna. Gutier- rez Puchal, Miriam Covadonga. Herrera Lopez, Veronica. Hidalgo Sabates, Bernat. Hinojosa Galante, Julia. Hu, Yan. Huma Collell, Didac. Hurtado I Paires, Maria Del Mar. Ivorra Oltra, Laia. Izaguerri Nieto Moreno, Pablo. Janer Oliver, Max. Jiang Chao. Jimenez Molina, Cristina. Jimenez Oblitas, Glaire Fabiana. Jimenez Sanchez, Julia. Jornet Jornet, Aina. Juni Casañe, Isabel. Krause, Marlene. Laborda Castan, David. Laguna Fernandez, Angel. Llado Vila, Miriam. Lladonosa Soler, Celia. Llanes Gonzalez, Georgina. Llinas Soto, Gabriel. Lobato Aguilera, Daniel.
                         </p>
@@ -75,6 +75,12 @@
                     </svg>
                 </button>
             </article>
+
+            <!-- background img circle -->
+            <div class="relative w-full background-circle opacity-0 transition-opacity duration-500 ease-in-out">
+                <img class="z-10 hidden md:block opacity-70 absolute bottom-48 right-[84%] xl:right-auto xl:-left-12" 
+                        src="/images/equip/bg-vector-2.svg" alt="">
+            </div>
         </div>
         
     </section>
@@ -83,3 +89,9 @@
 <script setup>
 import CollapsableContent from "@/components/UI/CollapsableContent.vue";
 </script>
+
+<style scoped>
+    .collapsable.expanded .background-circle{
+        @apply opacity-100;
+    }
+</style>

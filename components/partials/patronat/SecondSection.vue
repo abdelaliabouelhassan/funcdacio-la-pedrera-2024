@@ -1,5 +1,5 @@
 <template>
-    <section class="px-4 md:px-12 max-w-[90rem] mx-auto py-16 grid grid-cols-1 gap-y-6 gap gap-x-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+    <section class="px-4 sm:px-8 md:px-12 max-w-[90rem] mx-auto py-16 grid grid-cols-1 gap-y-6 gap gap-x-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         <PatronatCard>
             <template #img>
                 <img src="/images/patronat/Germán-Ramón-Cortés-Montaner.svg" alt="">

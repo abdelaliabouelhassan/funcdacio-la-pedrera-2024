@@ -1,7 +1,11 @@
 <template>
     <div>
         <HeroSection />
-        <SecondSection />
+        <div class="relative">
+            <SecondSection />
+            <img class="z-10 hidden md:block opacity-70 absolute top-0 left-[86%] xl:left-auto xl:right-0" 
+                src="/images/equip/bg-vector-1.svg" alt="">
+        </div>
     </div>
 </template>
 <script setup>

@@ -1,16 +1,41 @@
 <template>
     <div>
         <HeroSection />
-        <SecondSection />
-        <ThirdSection />
-        <FourthSection />
+        <div  class="relative overflow-hidden">
+            <SecondSection />
+            <img class="z-10 hidden md:block opacity-70 absolute bottom-0 left-[86%] xl:left-auto xl:right-0" 
+                src="/images/vocacio/bg-vector-1.svg" alt="">
+        </div>
+            <ThirdSection />
+        <div class="relative">
+            <FourthSection />
+            <img class="z-10 hidden md:block opacity-70 absolute bottom-80 right-[84%] xl:right-auto xl:left-0" 
+                    src="/images/vocacio/bg-vector-2.svg" alt="">
+            <img class="z-10 hidden md:block opacity-70 absolute top-32 left-[86%] xl:left-auto xl:right-0" 
+                src="/images/vocacio/bg-vector-3.svg" alt="">
+
+        </div>
         <FifthSection />
         <SixthSection />
         <SeventhSection />
         <EightSection />
-        <NinthSection />
-        <TenthSection />
-        <EleventhSection />
+        <div class="relative">
+            <NinthSection />
+            <img class="z-10 hidden md:block opacity-70 absolute -top-32 right-[84%] xl:right-auto xl:left-0" 
+                    src="/images/vocacio/bg-vector-4.svg" alt="">
+            
+        </div>
+        <div class="relative">
+            <TenthSection />
+            <img class="z-10 hidden md:block opacity-70 absolute top-32 left-[86%] xl:left-auto xl:right-0" 
+                        src="/images/vocacio/bg-vector-5.svg" alt="">
+        </div>
+        <div class="relative">
+            <EleventhSection />
+            <img class="z-10 hidden md:block opacity-70 absolute -top-16 right-[84%] xl:right-auto xl:left-0" 
+                        src="/images/vocacio/bg-vector-6.svg" alt="">
+            
+        </div>
         <TwelvethSection />
         <ThirteenthSection />
     </div>
