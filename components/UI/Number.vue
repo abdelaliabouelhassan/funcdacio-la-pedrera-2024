@@ -15,7 +15,7 @@ const numberComponent = ref(null)
 const displayedNumber = ref(0)
 let numberOfDecimals = ref(null)
 let interval = ref(null)
-
+let observer = null
 const formatedNumber = computed(() => displayedNumber.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.') )
 
 function countDecimals(number) {
@@ -68,10 +68,9 @@ function decrease() {
 }
 onMounted(() => {
     countDecimals(props.number)
-
     let temp =props.number/200
     displayedNumber.value = +temp.toFixed(numberOfDecimals.value)
-    const observer = new IntersectionObserver((entries, observer)=>{
+    observer = new IntersectionObserver((entries, observer)=>{
          entries.forEach((entry) => {
             if(entry.isIntersecting){
                 increase()
@@ -81,5 +80,8 @@ onMounted(() => {
          })
     }, {threshold:0.2});
     observer.observe(numberComponent.value)
+})
+onUnmounted(() => {
+    observer.disconnect()
 })
 </script>

@@ -33,7 +33,8 @@ export default {
             ],
             borderWidth: 4
           }
-        ]
+        ],
+        observer:null,
       },
       options: {
         responsive: true,
@@ -53,7 +54,7 @@ export default {
       rootMargin: '0px',
       threshold: 0.5
     }
-    const observer = new IntersectionObserver((entries, observer) => {
+    this.observer = new IntersectionObserver((entries, observer) => {
       entries.forEach(entry => {
         if(entry.isIntersecting){
           this.show = true
@@ -62,7 +63,10 @@ export default {
       })
     }, options)
 
-    observer.observe(document.querySelector('#chart-doughnut'))
-  }
+    // this.observer.observe(document.querySelector('#chart-doughnut'))
+  },
+  unmounted() {
+    // this.observer.disconnect();
+  },
 }
 </script>

@@ -13,7 +13,7 @@
             <h1><slot name="title" /></h1>
             <div><slot name="description" /></div>
             <nuxt-link :to="link" class="bg-black py-4 rounded-full w-full flex items-center justify-center gap-x-4 text-white 
-                    hover:bg-black/50 transition-colors duration-200 ease-in-out">
+                    hover:bg-Turquoise transition-colors duration-200 ease-in-out">
                 <span class="text-xl font-bold "> Més informació</span>
                 <svg width="13" height="25" viewBox="0 0 13 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_203_1607)">

@@ -78,7 +78,8 @@ export default {
           easing: 'easeOutQuart'
         }
 
-      }
+      },
+      observer:null,
     }
   },
   mounted(){
@@ -88,7 +89,7 @@ export default {
       rootMargin: '0px',
       threshold: 0.5
     }
-    const observer = new IntersectionObserver((entries, observer) => {
+    this.observer = new IntersectionObserver((entries, observer) => {
       entries.forEach(entry => {
         if(entry.isIntersecting){
           this.show = true
@@ -97,7 +98,10 @@ export default {
       })
     }, options)
 
-    observer.observe(document.querySelector('#bar-chart'))
-  }
+    // this.observer.observe(document.querySelector('#bar-chart'))
+  },
+  unmounted() {
+    // this.observer.disconnect();
+  },
 }
 </script>
