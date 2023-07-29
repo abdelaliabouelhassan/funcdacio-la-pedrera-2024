@@ -1,13 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+/* use this from /public/fonts/SuperGroteskComp-Bold.ttf */
+
+
+@font-face {
+  font-family: 'SuperGroteskComp';
+  src: url('/fonts/SuperGroteskComp-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* SuperGroteskComp.ttf/ */
+
+@font-face {
+  font-family: 'SuperGroteskComp';
+  src: url('/fonts/SuperGroteskComp.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} 
+
+/* SuperGroteskOT.otf */
+
+@font-face {
+  font-family: 'SuperGroteskOT';
+  src: url('/fonts/SuperGroteskOT.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
-    /* html {
-      font-family: 'Rubik', sans-serif;
-    } */
+    html {
+      @apply font-super-grotesk-ot;
+    }
+    h1{
+      @apply text-[2rem] font-bold tracking-[0.2rem] leading-normal font-super-rotesk-comp;
+    }
 }
 
-.container{
-    /* @apply 2xl:max-w-7xl; */
+
+.collapsable .collapsable-content {
+  overflow: hidden;
+  height: 0;
+  transition: height 0.3s ease-in-out;
 }
+
+.collapsable .collapse-btn{
+  cursor: pointer;
+}
+
+.collapsable.expanded .collapsable-content {
+height: auto;
+transition: height 0.3s ease-in-out;
+}
+
+.collapsable .collapse-btn-chevron {
+transition: all 0.2s ease;
+}
+
