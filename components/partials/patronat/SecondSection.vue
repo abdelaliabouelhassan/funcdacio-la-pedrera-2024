@@ -2,7 +2,7 @@
     <section class="px-4 md:px-12 max-w-[90rem] mx-auto py-16 grid grid-cols-1 gap-y-6 gap gap-x-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Germán Ramón-Cortés Montaner.svg" alt="">
+                <img src="/images/patronat/Germán-Ramón-Cortés-Montaner.svg" alt="">
             </template>
             <template #name>
                 Germán Ramón-Cortés Montaner
@@ -24,7 +24,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Sebastià Catllà Calvet.svg" alt="">
+                <img src="/images/patronat/Sebastià-Catllà-Calvet.svg" alt="">
             </template>
             <template #name>
                 Sebastià Catllà Calvet
@@ -46,7 +46,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Joan Josep Garcia Rodríguez.svg" alt="">
+                <img src="/images/patronat/Joan-Josep-Garcia-Rodríguez.svg" alt="">
             </template>
             <template #name>
                 Joan Josep Garcia Rodríguez
@@ -68,7 +68,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Jordi Roca Ventura.svg" alt="">
+                <img src="/images/patronat/Jordi-Roca-Ventura.svg" alt="">
             </template>
             <template #name>
                 Jordi Roca Ventura
@@ -90,7 +90,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Marc Ordeix Rigo.svg" alt="">
+                <img src="/images/patronat/Marc-Ordeix-Rigo.svg" alt="">
             </template>
             <template #name>
                 Marc Ordeix Rigo
@@ -112,7 +112,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Josep Menéndez Cabrera.svg" alt="">
+                <img src="/images/patronat/Josep-Menéndez-Cabrera.svg" alt="">
             </template>
             <template #name>
                 Josep Menéndez Cabrera
@@ -134,7 +134,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Bonaventura Clotet Sala.svg" alt="">
+                <img src="/images/patronat/Bonaventura-Clotet-Sala.svg" alt="">
             </template>
             <template #name>
                 Bonaventura Clotet Sala
@@ -156,7 +156,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Antoni Tombas Navarro.svg" alt="">
+                <img src="/images/patronat/Antoni-Tombas-Navarro.svg" alt="">
             </template>
             <template #name>
                 Antoni Tombas Navarro
@@ -167,7 +167,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Josep Ma Lozano Soler.svg" alt="">
+                <img src="/images/patronat/Josep-Ma-Lozano-Soler.svg" alt="">
             </template>
             <template #name>
                 Josep Ma Lozano Soler
@@ -189,7 +189,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Mireia Tomàs Carulla.svg" alt="">
+                <img src="/images/patronat/Mireia-Tomàs-Carulla.svg" alt="">
             </template>
             <template #name>
                 Mireia Tomàs Carulla
@@ -211,7 +211,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Lluís Torner Sabata.svg" alt="">
+                <img src="/images/patronat/Lluís-Torner-Sabata.svg" alt="">
             </template>
             <template #name>
                 Lluís Torner Sabata
@@ -233,7 +233,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Mercè Boada Rovira.svg" alt="">
+                <img src="/images/patronat/Mercè-Boada-Rovira.svg" alt="">
             </template>
             <template #name>
                 Mercè Boada Rovira
@@ -255,7 +255,7 @@
         </PatronatCard>
         <PatronatCard class="xl:col-start-2">
             <template #img>
-                <img src="/images/patronat/Carme Borbonès Brescó.svg" alt="">
+                <img src="/images/patronat/Carme-Borbonès-Brescó.svg" alt="">
             </template>
             <template #name>
                 Carme Borbonès Brescó
@@ -277,7 +277,7 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Marta Domènech Tomàs.svg" alt="">
+                <img src="/images/patronat/Marta-Domènech-Tomàs.svg" alt="">
             </template>
             <template #name>
                 Marta Domènech Tomàs

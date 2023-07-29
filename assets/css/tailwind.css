@@ -45,19 +45,19 @@
 .collapsable .collapsable-content {
   overflow: hidden;
   height: 0;
-  transition: height 0.3s ease;
+  transition: height 0.3s ease-in-out;
 }
 
-.collapsable .collapsable-btn{
+.collapsable .collapse-btn{
   cursor: pointer;
 }
 
 .collapsable.expanded .collapsable-content {
 height: auto;
-transition: height 0.3s ease;
+transition: height 0.3s ease-in-out;
 }
 
-.collapsable .chevron {
+.collapsable .collapse-btn-chevron {
 transition: all 0.2s ease;
 }
 

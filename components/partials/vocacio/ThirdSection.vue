@@ -1,12 +1,12 @@
 <template>
-    <section class=" w-full ">
+    <section class=" w-full sm:px-8 md:px-4 lg:px-12">
         <div class=" w-full max-w-[1097px] mx-auto py-16 ">
-            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
-               <div class=" w-full max-w-[37.5rem] h-[40rem] overflow-hidden">
+            <div class=" w-full flex md:flex-row flex-col space-y-16 md:space-x-10 xl:space-x-0 md:space-y-0 items-start md:justify-between">
+               <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
                     <img src="/images/vocacio/article-img-2.svg" class=" w-full h-full object-cover" alt="article-img-2">
                 </div>
-               <div class="w-full max-w-[27.5rem] space-y-10">
-                    <div class=" w-full  space-y-8 border-t border-black px-4 xl:px-0">
+               <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
+                    <div class=" w-full  space-y-8 border-t border-black">
                         <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">CONSERVACIÓ DE LA BIODIVERSITAT I ELS ESPAIS NATURALS </h1>
                         <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
                            El col·legi Oms i de Prat de Manresa aposta per un projecte pedagògic innovador amb la voluntat de seguir sent un referent educatiu a la Catalunya Central. En aquest sentit, durant l’any 2022 ha continuat treballant en la transformació progressiva dels seus espais per facilitar la qualitat educativa: durant l’estiu es van renovar les aules de la primera planta de secundària i s’ha renovat el material i equipament d’educació infantil. Així mateix s’han renovat els dispositius informàtics, tablets i portàtils per garantir que tots i cadascun dels alumnes hi tinguin accés.

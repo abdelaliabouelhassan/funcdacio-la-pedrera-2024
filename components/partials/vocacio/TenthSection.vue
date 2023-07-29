@@ -1,8 +1,8 @@
 <template>
-    <section class=" w-full max-w-[1097px] mx-auto py-16 ">
-        <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
-            <div class="w-full max-w-[27.5rem] space-y-10">
-                    <div class=" w-full  space-y-8 border-t border-black px-4 xl:px-0">
+    <section class=" w-full py-16  sm:px-8 md:px-4 lg:px-12">
+        <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between">
+            <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
+                    <div class=" w-full  space-y-8 border-t border-black">
                         <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">FELLOWS</h1>
                         <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
                             La comunitat de Fellows de la Fundació Catalunya La Pedrera és un grup format per estudiants que han participat en diversos programes de talent científic de la Fundació. Aquesta comunitat s’ha convertit en una de les més nombroses i actives en el camp de les joves científiques a Catalunya. A l’any 2022, la comunitat ha crescut fins a arribar a 3.635 membres.
@@ -25,7 +25,7 @@
                         </p>
                     </div>
             </div>
-            <div class=" w-full max-w-[37.5rem] h-[40rem] overflow-hidden">
+            <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
                 <img src="/images/vocacio/article-img-6.svg" class=" w-full h-full object-cover" alt="article-img-1">
             </div>
         </div>

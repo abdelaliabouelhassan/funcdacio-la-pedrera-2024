@@ -1,12 +1,12 @@
 <template>
     <section class=" w-full ">
-        <div class=" w-full max-w-[850px] mx-auto py-20 px-4 xl:px-0">
-            <div class=" w-full flex sm:flex-row flex-col items-center space-y-20 sm:space-y-0 sm:justify-between">
+        <div class=" w-full max-w-[850px] mx-auto py-16 px-4 sm:px-8">
+            <div class=" w-full flex md:flex-row flex-col items-center space-y-20 md:space-y-0 md:justify-between">
                 <div class=" flex flex-col text-center space-y-2">
-                    <span class=" text-Brown font-medium leading-[3.75rem] font-reenie-beanie text-[8rem]">5.288</span>
+                    <span class=" text-Brown font-medium leading-[3.75rem] font-reenie-beanie text-[8rem]"><Number :number="5.288" /></span>
                     <span class=" text-Brown font-medium leading-[2.5rem] font-reenie-beanie text-[4rem]">persones</span>
                 </div>
-                <div class="  sm:max-w-[26.625rem] w-full">
+                <div class="  md:max-w-[26.625rem] w-full">
                     <p class=" text-lg font-normal text-black font-super-grotesk-ot">
                         A la Fundació Catalunya La Pedrera apostem per l’alimentació saludable, dirigida especialment a aquelles persones que afronten un problema de salut. Per això, sota la direcció científica de la Fundació Alícia (Alimentació i Ciència), promovem projectes alimentaris especialitzats per oferir coneixement i recomanacions sobre el tipus d’alimentació més convenient en cada cas.
                     </p>
@@ -14,9 +14,9 @@
             </div>
         </div>
 
-        <div class=" w-full max-w-[1097px] mx-auto py-20 ">
-            <div class=" w-full flex sm:flex-row flex-col space-y-16 sm:space-x-10 xl:space-x-0 sm:space-y-0 items-start sm:justify-between">
-                <div class=" w-full max-w-[27.5rem] space-y-8 border-t border-black px-4 xl:px-0">
+        <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
+            <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between">
+                <div class=" w-full md:max-w-[27.5rem] space-y-8 border-t border-black px-4 sm:px-0">
                     <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">ALIMENTACIÓ PER A PERSONES AMB NECESSITATS ESPECIALS</h1>
                     <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
                         La Fundació Catalunya La Pedrera vol millorar l’alimentació de tothom, sigui quina sigui la seva situació vital, i especialment a persones que estan patint un problema de salut. L’octubre de 2022 es va presentar un dels projectes més importants que s’han promogut en aquesta línia <br><br>
@@ -27,10 +27,13 @@
                         del Col·legi Oficial de Metges de Barcelona i altres entitats de referència del país, com CODINUCAT (Col·legi de Dietistes-Nutricionistes de Catalunya) i SENPE (Societat Espanyola de Nutrició Clínica i Metabolisme).
                     </p>
                 </div>
-                <div class=" w-full max-w-[37.5rem] h-[40rem] overflow-hidden">
+                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
                     <img src="/images/alimentacio/Fundacio_Catalunya_laPedrera.svg" class=" w-full h-full object-cover" alt="ALIMENTACIÓ">
                 </div>
             </div>
         </div>
     </section>
 </template>
+<script setup>
+import Number from "@/components/UI/Number.vue";
+</script>

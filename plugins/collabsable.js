@@ -22,13 +22,21 @@ export default defineNuxtPlugin((nuxtApp) => {
           collapsable_content.forEach(content => {
             if (el.classList.contains('expanded')) {
               content.style.height = content.scrollHeight + 'px';
-              chevron.classList.add('-rotate-180')
-              collapse_btn_content.textContent =  'Menys'       
+              if(chevron){
+                chevron.classList.add('-rotate-180')
+              }
+              if(collapse_btn_content){
+                collapse_btn_content.textContent =  'Menys'       
+              }
             } 
             else {
               content.style.height = 0;
-              chevron.classList.remove('-rotate-180')
-              collapse_btn_content.textContent =  'Més'        
+              if(chevron){
+                chevron.classList.remove('-rotate-180')
+              }
+              if(collapse_btn_content){
+                collapse_btn_content.textContent =  'Més'        
+              }
             }
           });
         });
@@ -37,8 +45,12 @@ export default defineNuxtPlugin((nuxtApp) => {
           el.classList.remove('expanded')
           collapsable_content.forEach(content => {
             content.style.height = 0;
-            chevron.classList.remove('-rotate-180')
-            collapse_btn_content.textContent =  'Més'        
+            if(chevron){
+              chevron.classList.remove('-rotate-180')
+            }
+            if(collapse_btn_content){
+              collapse_btn_content.textContent =  'Més'        
+            }
           });
         });
       },

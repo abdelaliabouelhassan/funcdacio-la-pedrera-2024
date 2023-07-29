@@ -6,7 +6,7 @@
         <div class="flex z-10 flex-col items-center gap-y-10 text-center px-4 ">
             <h1 class="text-2xl text-white font-reenie-beanie font-bold tracking-[0.15rem] max-w-[20.2rem] 
                         md:text-[4rem] md:max-w-[28rem] ">Impacte social</h1>
-            <h2 class=" text-white text-[3rem] md:text-[5rem] xl:text-[8rem] leading-[1] font-super-rotesk-comp tracking-[0.8rem] max-w-[68.75rem]">
+            <h2 class=" text-white text-[2.5rem] md:text-[5rem] xl:text-[8rem] leading-[1] font-super-rotesk-comp tracking-[0.25rem] md:tracking-[0.8rem] max-w-[68.75rem]">
                 ALIMENTACIÓ <br> PER A LA SALUT
             </h2>
         </div>

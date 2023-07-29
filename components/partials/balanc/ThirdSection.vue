@@ -11,36 +11,36 @@
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center border-b border-black font-super-rotesk-comp tracking-[2px] font-bold">
                     <div class="col-span-4 md:col-span-6">Fundació Catalunya La Pedrera</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end">28.474.926 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end">29.753.888 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end"><Number dot_formated :number="28474926" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end"><Number dot_formated :number="29753888" /> €</div>
                 </div>
                 <div class="grid grid-cols-1 py-5 px-2.5 border-b border-black">
                     <div>Entitats vinculades al grup:</div>
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center ">
                     <div class="col-span-4 md:col-span-6">Món Sant Benet</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">5.936.724 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">5.502.268 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="5936724" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="5502268" /> €</div>
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center ">
                     <div class="col-span-4 md:col-span-6">Fundació Alícia</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">1.355.818 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">1.341.916 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="1355818" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="1341916" /> €</div>
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center ">
                     <div class="col-span-4 md:col-span-6">Fundació Topromi</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">1.221.893 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">1.254.080 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="1221893" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="1254080" /> €</div>
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center ">
                     <div class="col-span-4 md:col-span-6">Serveis Personals TFCLP</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">3.889.677 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold">3.819.900 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="3889677" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end font-super-rotesk-comp tracking-[2px] font-bold"><Number dot_formated :number="3819900" /> €</div>
                 </div>
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center bg-Olive-Green text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full">
                     <div class="col-span-4 md:col-span-6">VOLUM DE NEGOCI DEL GRUP</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end">40.879.038 €</div>
-                    <div class="col-span-4 md:col-span-3 justify-self-end">41.672.051 €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end"><Number dot_formated :number="40879038" /> €</div>
+                    <div class="col-span-4 md:col-span-3 justify-self-end"><Number dot_formated :number="40879038" /> €</div>
                 </div>
                 
             </div>
@@ -122,3 +122,6 @@
 
     </section>
 </template>
+<script setup>
+import Number from "@/components/UI/Number.vue";
+</script>

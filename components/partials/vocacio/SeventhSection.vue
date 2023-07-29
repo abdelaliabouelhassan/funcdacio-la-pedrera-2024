@@ -1,5 +1,5 @@
 <template>
-    <section class=" px-4 py-16  md:px-12">
+    <section class="py-16  px-4 sm:px-8 md:px-4 lg:px-12">
         <div class="w-full max-w-[56rem] mx-auto  flex flex-col gap-4 md:flex-row">
             <h1 class="w-full md:text-end">SERVEIS EDUCATIUS ALS EQUIPAMENTS DE LA FUNDACIÓ</h1>
             <p class="w-full"> 

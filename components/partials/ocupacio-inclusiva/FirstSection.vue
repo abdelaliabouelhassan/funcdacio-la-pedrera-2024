@@ -3,7 +3,7 @@
         <div class=" w-full max-w-[850px] mx-auto py-20 px-4 xl:px-0">
             <div class=" w-full flex sm:flex-row flex-col items-center space-y-20 sm:space-y-0 sm:justify-between">
                 <div class=" flex flex-col text-center space-y-2">
-                    <span class=" text-Ocre font-medium leading-[3.75rem] font-reenie-beanie text-[8rem]">179</span>
+                    <span class=" text-Ocre font-medium leading-[3.75rem] font-reenie-beanie text-[8rem]"><Number :number="179" /></span>
                     <span class=" text-Ocre font-medium leading-[2.5rem] font-reenie-beanie text-[4rem]">persones</span>
                 </div>
                 <div class="  sm:max-w-[26.625rem] w-full">
@@ -66,4 +66,5 @@
 
 <script setup>
  import ChartBar from '@/components/UI/ChartBar.vue'
+import Number from "@/components/UI/Number.vue";
 </script>
