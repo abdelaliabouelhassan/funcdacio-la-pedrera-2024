@@ -1,8 +1,35 @@
 <template>
     <section class="w-full  py-16 px-4 sm:px-8 md:px-4 lg:px-12">
         <div class=" w-full max-w-[828.9px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 xl:space-x-0 md:space-y-0 items-start md:justify-between">
-            <div class="w-[330px] mx-auto h-[380px] overflow-hidden text-white flex flex-col justify-center">
+            <div class="w-[330px] mx-auto overflow-hidden text-white flex flex-col justify-center">
                 <ChartDoughnut />
+                <div class="flex flex-col items-center w-full text-black">
+                    <div class="flex items-center gap-x-2">
+                        <div class="flex items-center gap-x-2">
+                            <span class="font-super-rotesk-comp font-bold text-xl text-Brown">24% </span>
+                            <span class="text-[10px]">PRIMÀRIA </span> 
+                        </div> 
+                        <div class="flex items-center gap-x-2">
+                            <span class="font-super-rotesk-comp font-bold text-xl text-Turquoise">24% </span>
+                            <span class="text-[10px]">SECUNDÀRIA </span> 
+                        </div> 
+                    </div>
+                    <div class="flex items-center gap-x-2">
+                        <div class="flex items-center gap-x-2">
+                            <span class="font-super-rotesk-comp font-bold text-xl text-Olive-Green">34,5% </span>
+                            <span class="text-[10px]">BATXILLERAT</span> 
+                        </div> 
+                        <div class="flex items-center gap-x-2">
+                            <span class="font-super-rotesk-comp font-bold text-xl text-Ocre">65,5%</span>
+                            <span class="text-[10px]">CICLES FORMATIUS </span> 
+                        </div> 
+                    </div>
+                    <div class="flex items-center gap-x-2">
+                        <span class="font-super-rotesk-comp font-bold text-xl text-Beige">65,5%</span>
+                        <span class="text-[10px]">UNIVERSITATS</span> 
+                    </div> 
+                        
+                </div>
             </div>
             <div class="w-full md:max-w-[27.5rem] space-y-10">
                 <div class=" w-full  space-y-8 border-t border-black">

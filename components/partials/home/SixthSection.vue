@@ -1,6 +1,6 @@
 <template>
     <section class="px-4 py-16">
-        <ArticlePreview mode="right">
+        <ArticlePreview mode="right" link="/territori">
             <template #img>
                 <img src="/images/home/sixth-section-img.svg" alt="" srcset="">
             </template>

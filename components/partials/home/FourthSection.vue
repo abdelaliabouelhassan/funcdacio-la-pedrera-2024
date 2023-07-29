@@ -1,6 +1,6 @@
 <template>
     <section class="px-4 py-16">
-        <ArticlePreview mode="right">
+        <ArticlePreview mode="right"  link="/envelliment-digne">
             <template #img>
                 <img src="/images/home/fourth-section-img.svg" alt="" srcset="">
             </template>

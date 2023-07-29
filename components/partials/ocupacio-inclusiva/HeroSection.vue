@@ -3,11 +3,16 @@
         <img v-if="width <= 768" class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/ocupacio-inclusiva/hero1.svg" alt="hero" srcset="">
         <img v-else class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-left-top md:block" src="/images/ocupacio-inclusiva/hero.svg" alt="hero" srcset="">
         
-        <div class="flex z-10 flex-col items-center gap-y-10 text-center px-4 ">
-            <h1 class="text-2xl text-white font-reenie-beanie font-bold tracking-[0.15rem] max-w-[20.2rem] 
-                        md:text-[4rem] md:max-w-[28rem] ">Impacte social</h1>
-            <h2 class=" text-white text-[3rem] md:text-[5rem] xl:text-[8rem]  leading-[1] font-super-rotesk-comp tracking-[0.8rem] max-w-[68.75rem]">
-                OCUPACIÓ <br> INCLUSIVA
+        <div class="flex z-10 flex-col items-center gap-y-10 text-center px-4 text-white">
+            <h1 class="ttext-[2rem] font-medium tracking-[-0.64px] font-reenie-beanie 
+                        sm:text-[2.5rem]
+                        md:text-[3rem] md:tracking-[-1.28px]
+                        lg:text-[4rem] ">Impacte social</h1>
+            <h2 class="text-[2.5rem] font-normal tracking-[0.8rem] max-w-[22.2rem] leading-none 
+                        sm:text-[4rem] sm:max-w-[28rem]
+                        md:text-[6rem] md:max-w-[46.25rem]
+                        lg:text-[8rem]">
+                OCUPACIÓ INCLUSIVA
             </h2>
         </div>
     </section>
