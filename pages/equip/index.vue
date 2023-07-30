@@ -12,4 +12,8 @@
 import HeroSection from "@/components/partials/equip/HeroSection.vue";
 import SecondSection from "@/components/partials/equip/SecondSection.vue";
 
+useSeoMeta({
+    title: "Memòria 2022 - Equip",
+    description: "Memòria 2022 Fundació Catalunya La Pedrera - Reimaginar la Fundació",
+})
 </script>

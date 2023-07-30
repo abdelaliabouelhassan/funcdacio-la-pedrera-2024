@@ -8,10 +8,49 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1',
       meta: [
         {
-          hid: 'description', name: 'description', content: 'add your description here'
+          hid: 'keywords', name: 'keywords', content: '',
         },
         {
-          hid: 'keywords', name: 'keywords', content: 'add, your, keywords, here',
+          hid: 'author', name: 'author', content: 'massim.digital'
+        },
+        {
+          hid: 'publisher', name: 'publisher', content: 'massim.digital'
+        },
+        {
+          hid: 'lang', name: 'lang', content: 'ca'
+        },
+        {
+          hid: 'og:title', name: 'og:title', content: 'Memòria 2022 - Reimaginar la Fundació'
+        },
+        {
+          hid: 'og:description', name: 'og:description', content: 'Memòria 2022 Fundació Catalunya La Pedrera - Reimaginar la Fundació'
+        },
+        {
+          hid: 'og:type', name: 'og:type', content: 'website'
+        },
+        {
+          hid: 'og:site_name', name: 'og:site_name', content: 'memoria-pedrera-nuxt'
+        },
+        {
+          hid: 'og:url', name: 'og:url', content: 'https://memoria2022.fundaciocatalunya-lapedrera.com'
+        },
+        {
+          hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image'
+        },
+        {
+          hid: 'twitter:site', name: 'twitter:site', content: '@massim.digital'
+        },
+        {
+          hid: 'twitter:creator', name: 'twitter:creator', content: '@massim.digital'
+        },
+        {
+          hid: 'twitter:title', name: 'twitter:title', content: 'Memòria 2022 - Reimaginar la Fundació'
+        },
+        {
+          hid: 'twitter:description', name: 'twitter:description', content: 'Memòria 2022 Fundació Catalunya La Pedrera - Reimaginar la Fundació'
+        },
+        {
+          hid: 'twitter:url', name: 'twitter:url', content: 'https://memoria2022.fundaciocatalunya-lapedrera.com'
         },
       ],
       link: [

@@ -1,6 +1,6 @@
 <template>
-  <div class=" w-full h-full" id="chart-doughnut">
-    <Doughnut v-if="show" :data="data" :options="options" />
+  <div class=" w-full h-full">
+    <Doughnut  :data="data" :options="options" />
   </div>
 </template>
 
@@ -17,7 +17,6 @@ export default {
   },
   data() {
     return {
-      show:false,
       data: {
         labels: ['PRIMÀRIA', 'SECUNDÀRIA', 'BATXILLERAT','CICLES FORMATIUS','UNIVERSITATS'],
         datasets: [
@@ -33,7 +32,7 @@ export default {
             ],
             borderWidth: 4
           }
-        ]
+        ],
       },
       options: {
         responsive: true,
@@ -46,23 +45,5 @@ export default {
       }
     }
   },
-  mounted(){
-    //observer to trigger animation
-    const options = {
-      root: null,
-      rootMargin: '0px',
-      threshold: 0.5
-    }
-    const observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if(entry.isIntersecting){
-          this.show = true
-          observer.unobserve(entry.target)
-        }
-      })
-    }, options)
-
-    observer.observe(document.querySelector('#chart-doughnut'))
-  }
 }
 </script>
