@@ -12,7 +12,7 @@
                     <img class="h-full w-[96.5px]"  src="/images/logos/logo-white.svg" alt="" srcset="">
                 </router-link>
                 <!-- menu button -->
-                <button  @click="showMenu = !showMenu" class="h-fit md:hidden">
+                <button name="menu1"  @click="showMenu = !showMenu" class="h-fit md:hidden">
                     <svg width="43" height="29" viewBox="0 0 43 29" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2.5 2.5H40.5" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
                         <path d="M2.5 14.5H40.5" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
@@ -35,7 +35,7 @@
                     <router-link  @click="showMenu = !showMenu" to="/"  class="h-full" aria-label="svglogo">
                         <img src="/images/logos/logo-white.svg" alt="" srcset="">
                     </router-link>
-                    <button class="h-fit md:hidden" @click="showMenu = !showMenu">
+                    <button name="menu2" class="h-fit md:hidden" @click="showMenu = !showMenu">
                         <svg width="43" height="33" viewBox="0 0 43 33" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M3 3L29.8701 29.8701" stroke="white" stroke-width="5" stroke-linecap="round"/>
                             <path d="M3 30L29.8701 3.12994" stroke="white" stroke-width="5" stroke-linecap="round"/>
@@ -52,7 +52,7 @@
                         <div v-collapsable class="collapsable flex flex-col gap-y-8">
                             <div class="flex justify-center items-center">
                                 <router-link @click="showMenu = !showMenu" to="/impact" class="text-[2rem]" aria-label="Impacte social">Impacte social</router-link>
-                                <button class="collapse-btn w-8 h-full pl-2  ">
+                                <button name="menu" class="collapse-btn w-8 h-full pl-2  ">
                                     <svg class="w-full h-full collapse-btn-chevron" width="25" height="11" viewBox="0 0 25 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M23.6182 1.01838L12.4584 9.84424L1.29865 1.01838" stroke="white" stroke-width="2" stroke-linejoin="round"/>
                                     </svg>

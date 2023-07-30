@@ -2,7 +2,7 @@
     <section class="px-4 py-16">
         <ArticlePreview link="/ocupacio-inclusiva">
             <template #img>
-                <img src="/images/home/third-section-img.webp"  width="331.753" height="321.672">
+                <img src="/images/home/third-section-img.webp" alt="OCUPACIÓ"  width="331.753" height="321.672">
             </template>
             <template #number>
                 <div class="flex items-center gap-x-5 leading-10 text-Ocre">
