@@ -2,7 +2,7 @@
     <section class="px-4 py-16">
         <ArticlePreview mode="right" link="/territori">
             <template #img>
-                <img src="/images/home/sixth-section-img.webp" width="100%" height="100%" alt="" srcset="">
+                <img src="/images/home/sixth-section-img.webp"   width="331.753" height="321.672">
             </template>
             <template #number>
                 <div class="flex items-center gap-x-5 leading-10 text-Olive-Green">
