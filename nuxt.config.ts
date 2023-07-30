@@ -6,6 +6,10 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
+      //add lang
+      htmlAttrs: {
+        lang: 'ca'
+      },
       meta: [
         {
           hid: 'keywords', name: 'keywords', content: '',
