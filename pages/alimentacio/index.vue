@@ -17,4 +17,8 @@
 import HeroSection from "@/components/partials/alimentacio/HeroSection.vue";
 import FirstSection from "@/components/partials/alimentacio/FirstSection.vue";
 import SecondSection from "@/components/partials/alimentacio/SecondSection.vue";
+useSeoMeta({
+    title: "Memòria 2022 - ALIMENTACIÓ PER A LA SALUT",
+    description: "A la Fundació Catalunya La Pedrera apostem per l’alimentació saludable, dirigida especialment a aquelles persones que afronten un problema de salut. Per això, sota la direcció científica de la Fundació Alícia (Alimentació i Ciència), promovem projectes alimentaris especialitzats per oferir coneixement i recomanacions sobre el tipus d’alimentació més convenient en cada cas.",
+})
 </script>

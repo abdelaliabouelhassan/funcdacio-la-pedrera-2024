@@ -17,4 +17,9 @@
 import HeroSection from "@/components/partials/ocupacio-inclusiva/HeroSection.vue";
 import FirstSection from "@/components/partials/ocupacio-inclusiva/FirstSection.vue";
 import SecondSection from "@/components/partials/ocupacio-inclusiva/SecondSection.vue";
+
+useSeoMeta({
+    title: "Memòria 2022 - Ocupacio inclusiva",
+    description: "La Fundació Catalunya La Pedrera té un fort compromís amb les persones en situacions laborals, socials i econòmiques vulnerables. Des d'aquesta dedicació, la Fundació promou l'accés a l'ocupació com una eina prioritària per millorar les seves condicions de vida i construir un futur millor.",
+})
 </script>

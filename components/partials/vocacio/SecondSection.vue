@@ -8,8 +8,9 @@
                 </div>
                 <div class="  md:max-w-[26.625rem] w-full">
                     <p class=" text-lg font-normal text-black font-super-grotesk-ot">
-                        A la Fundació Catalunya La Pedrera volem abordar els grans reptes ambientals als quals s’enfronta la societat, com són el canvi climàtic <br> <br>
-                        i la crisi energètica, que posen en perill el benestar, especialment, de les generacions futures. Plantegem accions que contribueixin a revertir la situació actual a través de la gestió forestal, les energies renovables, la conservació de la biodiversitat.
+                        Impulsem programes per fomentar l’educació i el talent científic i cultural, perquè tots els infants i joves puguin desenvolupar al màxim les seves capacitats, amb igualtat d’oportunitats.  <br>  <br>
+                        Acompanyem els infants i adolescents a assolir l’èxit educatiu. <br>  <br>
+                        La Fundació Catalunya La Pedrera desenvolupa programes transformadors perquè tothom pugui tenir la millor formació, amb acompanyament educatiu i amb beques que garanteixen la igualtat d’oportunitats. Potenciar l’èxit educatiu és la clau per aconseguir un futur millor per als infants i joves, en el marc d’una societat més solidària que posi les persones al centre.
                     </p>
                 </div>
             </div>
