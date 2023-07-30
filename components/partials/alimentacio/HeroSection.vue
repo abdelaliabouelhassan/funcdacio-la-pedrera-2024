@@ -1,7 +1,7 @@
 <template>
     <section class="h-screen max-h-[46.94rem] relative flex justify-center items-center">
-        <img v-if="width <= 768 && width != null" class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/alimentacio/hero1.svg" alt="hero" srcset="">
-        <img v-if="width > 768 && width != null" class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-left-top md:block" src="/images/alimentacio/hero.png" alt="hero" srcset="">
+        <img v-if="width <= 768 && width != null" class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/alimentacio/hero-background.webp" alt="hero" srcset="">
+        <img v-if="width > 768 && width != null" class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-left-top md:block" src="/images/alimentacio/hero-background-md.webp" alt="hero" srcset="">
         
         <div class="flex z-10 flex-col items-center gap-y-10 text-center px-4 text-white ">
             <h1 class="text-[2rem] font-medium tracking-[-0.64px] font-reenie-beanie 
