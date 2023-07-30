@@ -1,8 +1,8 @@
 <template>
     <section class="w-full  py-16 px-4 sm:px-8 md:px-4 lg:px-12">
         <div class=" w-full max-w-[828.9px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 xl:space-x-0 md:space-y-0 items-start md:justify-between">
-            <div class="w-[330px] mx-auto overflow-hidden text-white flex flex-col justify-center">
-                <ChartDoughnut />
+            <div class="w-[330px] mx-auto overflow-hidden text-white flex flex-col justify-center" ref="DoughnutComponentRef">
+                <ChartDoughnut v-if="show" />
                 <div class="flex flex-col items-center w-full text-black">
                     <div class="flex items-center gap-x-2">
                         <div class="flex items-center gap-x-2">
@@ -44,4 +44,21 @@
 </template> 
 <script setup>
 import ChartDoughnut from '@/components/UI/ChartDoughnut.vue'
+const show = ref(false);
+let observer = null
+const DoughnutComponentRef = ref(null)
+onMounted(() => {
+     observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+            show.value = true;
+        }
+    }, {
+        threshold: 0.5
+    });  
+    observer.observe(DoughnutComponentRef.value);
+})
+
+onUnmounted(() => {
+    observer.disconnect()
+})
 </script>

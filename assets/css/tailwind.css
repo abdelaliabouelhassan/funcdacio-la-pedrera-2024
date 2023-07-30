@@ -1,12 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
-/* use this from /public/fonts/SuperGroteskComp-Bold.ttf */
-
+/* SuperGroteskComp-Bold */
 
 @font-face {
   font-family: 'SuperGroteskComp';
   src: url('/fonts/SuperGroteskComp-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 /* SuperGroteskComp.ttf/ */
@@ -16,6 +15,7 @@
   src: url('/fonts/SuperGroteskComp.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 } 
 
 /* SuperGroteskOT.otf */
@@ -25,6 +25,17 @@
   src: url('/fonts/SuperGroteskOT.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+}
+
+/* ReenieBeanieRegular */
+
+@font-face {
+  font-family: 'Reenie Beanie';
+  src: url('/fonts/ReenieBeanieRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 

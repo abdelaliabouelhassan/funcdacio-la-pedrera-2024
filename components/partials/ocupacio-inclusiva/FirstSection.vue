@@ -21,8 +21,9 @@
                 <div class=" w-full max-w-[37.5rem] mx-auto space-y-2 items-st flex flex-col">
                     <span class=" text-lg text-black font-normal font-super-grotesk-ot">Creixement de l’ocupació inclusiva:</span>
                     <h1 class=" text-xl font-bold text-black font-super-rotesk-comp leading-[1]">LLOCS DE TREBALL <br> COOPERATIVA MANS</h1>
-                    <div class=" w-full max-w-[22.62rem] mx-auto md:mx-0">
-                        <ChartBar />
+                    <div class=" w-full max-w-[22.62rem] mx-auto md:mx-0" ref="ChartComponentRef">
+                        {{show}}
+                        <ChartBar v-if="show"  />
                     </div>
                    <div class=" w-full max-w-[22.62rem] mx-auto md:mx-0 space-y-2 pt-4">
                         <div class=" w-full flex flex-wrap  items-center  gap-5">
@@ -65,6 +66,23 @@
 
 
 <script setup>
- import ChartBar from '@/components/UI/ChartBar.vue';
+import ChartBar from '@/components/UI/ChartBar.vue';
 import Number from "@/components/UI/Number.vue";
+const show = ref(false);
+let observer = null
+const ChartComponentRef = ref(null)
+onMounted(() => {
+     observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+            show.value = true;
+        }
+    }, {
+        threshold: 0.5
+    });  
+    observer.observe(ChartComponentRef.value);
+})
+
+onUnmounted(() => {
+    observer.disconnect()
+})
 </script>

@@ -1,7 +1,6 @@
 <template>
-    <div id="bar-chart" class=" w-full h-full">
+    <div  class=" w-full h-full">
     <Bar
-        v-if="show"
         :options="chartOptions"
         :data="chartData"
     />
@@ -19,7 +18,6 @@ export default {
   components: { Bar },
   data() {
     return {
-      show:false,
       chartData: {
         labels: [ '2018','2019','2020', '2021', '2022' ],
         datasets: [
@@ -79,29 +77,7 @@ export default {
         }
 
       },
-      observer:null,
     }
-  },
-  mounted(){
-    //observer to trigger animation
-    const options = {
-      root: null,
-      rootMargin: '0px',
-      threshold: 0.5
-    }
-    this.observer = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if(entry.isIntersecting){
-          this.show = true
-          observer.unobserve(entry.target)
-        }
-      })
-    }, options)
-
-    // this.observer.observe(document.querySelector('#bar-chart'))
-  },
-  unmounted() {
-    // this.observer.disconnect();
   },
 }
 </script>
