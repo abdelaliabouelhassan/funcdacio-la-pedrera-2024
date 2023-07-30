@@ -1,7 +1,7 @@
 <template>
     <section class="h-screen max-h-[46.94rem] relative flex justify-center items-center">
-        <img v-if="width <= 768" class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/balanc/hero-background.svg" alt="" srcset="">
-        <img v-else class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-bottom md:block" src="/images/balanc/hero-background-md.svg" alt="" srcset="">
+        <img v-if="width <= 768 && width != null" class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden" src="/images/balanc/hero-background.svg" alt="" srcset="">
+        <img v-if="width > 768 && width != null" class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-bottom md:block" src="/images/balanc/hero-background-md.svg" alt="" srcset="">
         
         <div class="flex z-10 flex-col items-center gap-y-8 text-center px-4 text-white">
             <h2 class="text-[2rem] font-medium tracking-[-0.64px] font-reenie-beanie 
