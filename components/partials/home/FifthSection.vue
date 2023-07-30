@@ -2,7 +2,7 @@
     <section class="px-4 py-16">
         <ArticlePreview link="/vocacio">
             <template #img>
-                <img src="/images/home/fifth-section-img.svg" alt="" srcset="">
+                <img src="/images/home/fifth-section-img.webp" alt="" srcset="">
             </template>
             <template #number>
                 <div class="flex items-center gap-x-5 leading-10 text-Turquoise">

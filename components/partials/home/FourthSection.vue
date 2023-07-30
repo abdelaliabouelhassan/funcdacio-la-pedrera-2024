@@ -2,7 +2,7 @@
     <section class="px-4 py-16">
         <ArticlePreview mode="right"  link="/envelliment-digne">
             <template #img>
-                <img src="/images/home/fourth-section-img.svg" alt="" srcset="">
+                <img src="/images/home/fourth-section-img.webp" alt="" srcset="">
             </template>
             <template #number>
                 <div class="flex items-center gap-x-5 leading-10 text-Brown">
