@@ -33,23 +33,23 @@
             </div>
             <div class="flex flex-col divide-y divide-black ">
                 <div class="flex flex-col gap-y-2.5 pb-2.5">
-                    <div class="flex items-center gap-x-4 p-2.5">
-                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise"><Number :number="67" />%</div>
-                        <div>ESTUDIS OBLIGATÒRIS</div>
+                    <div class="flex items-center space-x-4  p-2.5">
+                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise max-w-[60px] w-full text-start"><Number :number="67" />%</div>
+                        <div class=" whitespace-nowrap">ESTUDIS OBLIGATÒRIS</div>
                     </div>
                     <div class="flex items-center gap-x-4 p-2.5">
-                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise"><Number :number="33" />%</div>
-                        <div>ESTUDIS POSTOBLIGATORIS</div>
+                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise  max-w-[60px] w-full text-start"><Number :number="33" />%</div>
+                        <div class=" whitespace-nowrap">ESTUDIS POSTOBLIGATORIS</div>
                     </div>
                 </div>
                 <div class="flex flex-col gap-y-2.5 pt-2.5">
                     <div class="flex items-center gap-x-4 p-2.5">
-                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise"><Number :number="34.5" />%</div>
-                        <div>COL·LEGI OMS I DE PRAT</div>
+                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise  max-w-[60px] w-full text-start"><Number :number="34.5" />%</div>
+                        <div class=" whitespace-nowrap">COL·LEGI OMS I DE PRAT</div>
                     </div>
                     <div class="flex items-center gap-x-4 p-2.5">
-                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise"><Number :number="65.5" />%</div>
-                        <div>ESCOLES TÀNDEM</div>
+                        <div class="font-super-rotesk-comp font-bold text-xl text-Turquoise  max-w-[60px] w-full text-start"><Number :number="65.5" />%</div>
+                        <div class=" whitespace-nowrap">ESCOLES TÀNDEM</div>
                     </div>
                 </div>
                 

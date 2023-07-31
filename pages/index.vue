@@ -5,13 +5,13 @@
             <SecondSection class="z-0"/>
             <ThirdSection class="z-0"/>
             <FourthSection class="z-0"/>
-            <img class="z-10 hidden md:block opacity-70 absolute -top-36 left-[86%] xl:left-auto xl:right-0" 
+            <img class="z-10 hidden md:block mix-blend-multiply opacity-70 absolute -top-36 left-[86%] xl:left-auto xl:right-0" 
                 src="/images/home/home-background-1.svg" alt="">
         </div>
         <div class="relative overflow-hidden flex flex-col">
             <FifthSection />
             <SixthSection />
-            <img class="z-10 hidden md:block opacity-70 absolute top-20 right-[84%] xl:right-auto xl:left-0" 
+            <img class="z-10 hidden md:block mix-blend-multiply opacity-70 absolute top-20 right-[84%] xl:right-auto xl:left-0" 
                 src="/images/home/home-background-2.svg" alt="">
         </div>
         <SeventhSection />

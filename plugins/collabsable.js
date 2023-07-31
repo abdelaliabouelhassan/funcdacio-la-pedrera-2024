@@ -16,8 +16,8 @@ export default defineNuxtPlugin((nuxtApp) => {
         });
         el.classList.remove('expanded')
         
-        
-        collapse_btn.addEventListener('click', () => {
+
+        function expand() {
           el.classList.toggle('expanded');
           collapsable_content.forEach(content => {
             if (el.classList.contains('expanded')) {
@@ -39,6 +39,10 @@ export default defineNuxtPlugin((nuxtApp) => {
               }
             }
           });
+        }
+        expand();
+        collapse_btn.addEventListener('click', () => {
+          expand();
         });
 
         window.addEventListener('resize', () => {

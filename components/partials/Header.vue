@@ -46,7 +46,7 @@
                 <div  class="menu-links md:hidden h-[calc(100vh-8rem)] overflow-hidden flex justify-center items-center     text-white font-super-rotesk-comp font-bold">
                     <div class="w-full h-fit max-h-full flex flex-col items-center space-y-8 px-4 pb-8 overflow-y-auto">
                         <router-link @click="showMenu = !showMenu" to="/" class="text-[2rem] block" aria-label="Inici">Inici</router-link>
-                        <router-link @click="showMenu = !showMenu" to="/patronat" class="text-[2rem] block" aria-label="patronat">patronat</router-link>
+                        <router-link @click="showMenu = !showMenu" to="/patronat" class="text-[2rem] block" aria-label="patronat">Patronat</router-link>
                         <router-link @click="showMenu = !showMenu" to="/equip" class="text-[2rem] block" aria-label="Equip">Equip</router-link>
                         <router-link @click="showMenu = !showMenu" to="/balanc" class="text-[2rem] block" aria-label="Balanç econòmic">Balanç econòmic</router-link>
                         <div v-collapsable class="collapsable flex flex-col gap-y-8">

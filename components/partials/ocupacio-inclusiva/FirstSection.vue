@@ -22,11 +22,10 @@
                     <span class=" text-lg text-black font-normal font-super-grotesk-ot">Creixement de l’ocupació inclusiva:</span>
                     <h1 class=" text-xl font-bold text-black font-super-rotesk-comp leading-[1]">LLOCS DE TREBALL <br> COOPERATIVA MANS</h1>
                     <div class=" w-full max-w-[22.62rem] mx-auto md:mx-0" ref="ChartComponentRef">
-                        {{show}}
                         <ChartBar v-if="show"  />
                     </div>
                    <div class=" w-full max-w-[22.62rem] mx-auto md:mx-0 space-y-2 pt-4">
-                        <div class=" w-full flex flex-wrap  items-center  gap-5">
+                        <div class=" w-full flex flex-wrap justify-center items-center gap-5">
                             <div class=" flex items-center space-x-1">
                                 <div class=" w-[0.875rem] h-[0.875rem] bg-Beige"></div>
                                 <span class=" text-[0.625rem] text-black font-normal font-super-grotesk-ot">Molí d’en Puigvert</span>
@@ -43,12 +42,10 @@
                                 <div class=" w-[0.875rem] h-[0.875rem] bg-Turquoise"></div>
                                 <span class=" text-[0.625rem] text-black font-normal font-super-grotesk-ot">Horts de Sant Benet</span>
                             </div>
-                        </div>
-                        <div class=" w-full flex flex-wrap  items-center  gap-5 justify-center">
-                          <div class=" flex items-center space-x-1">
-                            <div class=" w-[0.875rem] h-[0.875rem] bg-Olive-Green"></div>
-                            <span class=" text-[0.625rem] text-black font-normal font-super-grotesk-ot">Personal d’Estructura</span>
-                        </div>
+                           <div class=" flex items-center space-x-1">
+                                <div class=" w-[0.875rem] h-[0.875rem] bg-Olive-Green"></div>
+                                <span class=" text-[0.625rem] text-black font-normal font-super-grotesk-ot">Personal d’Estructura</span>
+                            </div>
                         </div>
                    </div>
                 </div>
