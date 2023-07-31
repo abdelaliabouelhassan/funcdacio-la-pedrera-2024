@@ -4,9 +4,9 @@
         <SecondSection class="hidden md:block"/>
         <div class="relative">
             <ThirdSection />
-            <img class="z-10 hidden md:block opacity-70 absolute -top-32 left-[86%] xl:left-auto xl:right-0" 
+            <img class="z-10 hidden md:block opacity-70 absolute mix-blend-multiply -top-32 left-[86%] xl:left-auto xl:right-0" 
                     src="/images/balanc/bg-vector-1.svg" alt="">
-            <img class="z-10 hidden md:block opacity-70 absolute bottom-32 right-[84%] xl:right-auto xl:left-0" 
+            <img class="z-10 hidden md:block opacity-70 absolute mix-blend-multiply bottom-32 right-[84%] xl:right-auto xl:left-0" 
                     src="/images/balanc/bg-vector-2.svg" alt="">
 
         </div>

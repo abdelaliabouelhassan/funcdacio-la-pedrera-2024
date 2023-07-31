@@ -10,7 +10,7 @@
                             <span class="text-[10px]">PRIMÀRIA </span> 
                         </div> 
                         <div class="flex items-center gap-x-2">
-                            <span class="font-super-rotesk-comp font-bold text-xl text-Turquoise">24% </span>
+                            <span class="font-super-rotesk-comp font-bold text-xl text-Turquoise">33% </span>
                             <span class="text-[10px]">SECUNDÀRIA </span> 
                         </div> 
                     </div>
