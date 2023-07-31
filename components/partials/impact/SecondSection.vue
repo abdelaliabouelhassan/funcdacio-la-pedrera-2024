@@ -2,7 +2,7 @@
     <section class="px-2.5 md:px-14 py-16">
         <div class="w-full max-w-[40.125rem] md:max-w-[56rem] mx-auto ">
             <h1 class="text-Turquoise border-b-4 border-Turquoise md:border-none">Un total de 1.264.046 persones s’han beneficiat dels projectes de la Fundació Catalunya La Pedrera</h1>
-            <div class="flex flex-col text-xl md:hidden">
+            <!-- <div class="flex flex-col text-xl md:hidden">
                 
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Ocupació inclusiva</div>
@@ -35,7 +35,7 @@
                 
                 
                 
-            </div>
+            </div> -->
         </div>
     </section>
 </template>

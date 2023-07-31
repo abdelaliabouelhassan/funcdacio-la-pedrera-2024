@@ -1,9 +1,9 @@
 <template>
-    <section class="py-16 overflow-x-auto px-4 md:px-12">
+    <section class="py-16  px-4 md:px-12">
         <!-- table 1 -->
-        <div class="w-[40.125rem] md:w-full max-w-[56rem] mx-auto text-xl">
+        <div class=" overflow-x-auto  max-w-[56rem] mx-auto text-xl">
             <h1 class="text-Olive-Green  border-b-4 border-Olive-Green">DIMENSIÓ ECONÒMICA 2022</h1>
-            <div class="flex flex-col">
+            <div class="flex flex-col w-[40.125rem] md:w-full">
                 <div class="grid grid-cols-12 py-5 px-2.5 items-center border-b border-black font-super-rotesk-comp tracking-[2px] font-bold">
                     <div class="col-span-4 md:col-span-6"></div>
                     <div class="col-span-4 md:col-span-3 justify-self-end">Ingressos</div>
@@ -85,7 +85,7 @@
 
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-Brown text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full">
                     <div class="">VOLUM DE NEGOCI DEL GRUP</div>
-                    <div class="shrink-0">490</div>
+                    <div class="shrink-0"><Number  :number="490" /></div>
                 </div>
 
 
@@ -110,7 +110,7 @@
 
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-Brown text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full">
                     <div class="">IMPACTE LABORAL DIRECTE I INDUÏT</div>
-                    <div class="shrink-0">849</div>
+                    <div class="shrink-0"><Number  :number="849" /></div>
                 </div>
                 
             </div>
