@@ -8,9 +8,9 @@
                         sm:text-[2.5rem]
                         md:text-[3rem] md:tracking-[-1.28px]
                         lg:text-[4rem]">Impacte social</h1>
-            <h2 class=" text-[1.4rem] xs:text-[2.5rem] font-normal tracking-[0.8rem] max-w-[28.2rem] leading-none 
+            <h2 class=" text-[1.4rem] xs:text-[2.5rem] tracking-[0.25rem] font-normal  max-w-[28.2rem] leading-none 
                         sm:text-[3.6rem] sm:max-w-[34rem]
-                        md:text-[5rem] md:max-w-[46.25rem]
+                        md:text-[5rem] md:max-w-[46.25rem] md:tracking-[0.8rem]
                         lg:text-[7rem] lg:max-w-[57rem]">
                SOSTENIBILITAT <br> I TERRITORI
             </h2>

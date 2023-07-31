@@ -8,9 +8,9 @@
                         sm:text-[2.5rem]
                         md:text-[3rem] md:tracking-[-1.28px]
                         lg:text-[4rem]">Reimaginar la Fundació</h2>
-            <h1 class="text-[2.5rem] font-normal tracking-[0.8rem] leading-none 
+            <h1 class="text-[2.5rem] font-normal tracking-[0.25rem] leading-normal 
                         sm:text-[4rem]
-                        md:text-[6rem] 
+                        md:text-[6rem] md:tracking-[0.8rem]
                         lg:text-[8rem] ">EQUIP</h1>
         </div>
     </section>

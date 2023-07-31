@@ -55,31 +55,31 @@
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Fundació Catalunya La Pedrera</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">65</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="65" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Col·legi Oms i de Prat</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">66</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="66" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Serveis Personals TFCLP (1)</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">194</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="194" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Fundació Topromi</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">44</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="44" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Fundació Alícia</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">19</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="19" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Món Sant Benet SL</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">65</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="65" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Cooperativa 2147 Mans</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">37</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="37" /></div>
                 </div>
 
 
@@ -92,19 +92,19 @@
                 
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Serveis Espais Socials (2)</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">264</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="264" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Serveis induïts La Pedrera (3)</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">40</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="40" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Serveis induïts Món Sant Benet (3)</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">16</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="16" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
                     <div >Productors associats</div>
-                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold">39</div>
+                    <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="39" /></div>
                 </div>
 
 
