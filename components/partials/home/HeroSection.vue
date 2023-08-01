@@ -1,10 +1,10 @@
 <template>
-    <section class="h-screen max-h-[46.94rem] relative flex justify-center items-center bg-Turquoise overflow-hidden">
+    <section class="h-screen max-h-[60.6rem] relative flex justify-center items-center bg-Turquoise overflow-hidden">
         <div v-if="width <= 768 && width != null" class="background-wrapper absolute top-[7rem] left-0 h-full w-full z-0 ">
             <img  class="z-0 fixed top-0 left-0 h-full w-full object-cover object-center" src="/images/home/hero-background.webp" alt="" srcset="">
         </div>
         <div v-if="width > 768 && width != null" class="background-wrapper-md absolute top-0 left-0 h-full w-full z-0 ">
-            <img   class="fixed top-0 left-0 h-full w-full object-cover object-left-top " src="/images/home/hero-background-md.webp" alt="" srcset="">
+            <img   class="fixed top-0 left-0 h-full w-full  object-cover object-center " src="/images/home/hero-background-md.webp" alt="" srcset="">
         </div>
         
         <div class="flex z-10 flex-col items-center gap-y-8 text-center px-4 ">
