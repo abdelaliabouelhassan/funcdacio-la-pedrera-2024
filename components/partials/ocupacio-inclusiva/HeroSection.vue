@@ -8,9 +8,9 @@
                         sm:text-[2.5rem]
                         md:text-[3rem] md:tracking-[-1.28px]
                         lg:text-[4rem] ">Impacte social</h1>
-            <h2 class="text-[2.5rem] font-normal tracking-[0.8rem] max-w-[22.2rem] leading-none 
+            <h2 class="text-[2.5rem] font-normal tracking-[0.25rem] max-w-[22.2rem] leading-none 
                         sm:text-[4rem] sm:max-w-[28rem]
-                        md:text-[6rem] md:max-w-[46.25rem]
+                        md:text-[6rem] md:max-w-[46.25rem] md:tracking-[0.8rem]
                         lg:text-[8rem]">
                 OCUPACIÓ INCLUSIVA
             </h2>

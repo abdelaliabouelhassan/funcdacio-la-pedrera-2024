@@ -1,5 +1,5 @@
 <template>
-  <div class=" w-full h-full">
+  <div class=" w-full h-full pb-2">
     <Doughnut  :data="data" :options="options" />
   </div>
 </template>
@@ -21,7 +21,7 @@ export default {
         labels: ['PRIMÀRIA', 'SECUNDÀRIA', 'BATXILLERAT','CICLES FORMATIUS','UNIVERSITATS'],
         datasets: [
           {
-            label: '# of Votes',
+            label: '',
             data: [24, 33, 34.5,65.5,65.5],
             backgroundColor: [
               '#80676B',
@@ -30,11 +30,14 @@ export default {
               '#D2B569',
               '#DFD3BB'
             ],
-            borderWidth: 4
+            borderWidth: 2,
+            
           }
         ],
       },
       options: {
+        //circle width
+        cutout: 110,
         responsive: true,
         maintainAspectRatio: false,
         plugins: {

@@ -1,7 +1,7 @@
 <template>
     <span ref="numberComponent">
         <span v-if="dot_formated">{{formatedNumber}}</span>
-        <span v-else>{{displayedNumber}}</span>
+        <span v-else>{{toNaturalNum(displayedNumber)}}</span>
         
     </span>
 </template>
@@ -28,10 +28,14 @@ function countDecimals(number) {
     numberOfDecimals.value = numberString.length - decimalIndex - 1;
   }
 }
-
+function toNaturalNum(num) {
+    if(!numberOfDecimals.value && props.number < 100){
+        return Math.trunc(num);
+    }
+    return num;
+}
 function increase() {
     clearInterval(interval.value)
-    // displayedNumber.value = props.number/200
     interval.value = setInterval(() => {
         let temp = displayedNumber.value + props.number/100
         if(props.number/100 < 1 && !numberOfDecimals.value){

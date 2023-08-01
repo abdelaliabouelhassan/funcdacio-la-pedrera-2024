@@ -10,11 +10,11 @@
             <div class="font-reenie-beanie">
                 <slot name="number" />
             </div>
-            <h1><slot name="title" /></h1>
+            <h1 class="leading-[2rem]"><slot name="title" /></h1>
             <div><slot name="description" /></div>
-            <nuxt-link :to="link" class="bg-black py-4 rounded-full w-full flex items-center justify-center gap-x-4 text-white 
+            <nuxt-link :to="link" class="bg-black py-4 rounded-full w-full md:max-w-[15.125rem] flex items-center justify-center gap-x-4 text-white 
                     hover:bg-Turquoise transition-colors duration-200 ease-in-out">
-                <span class="text-xl font-bold "> Més informació</span>
+                <span class="text-xl font-bold font-super-rotesk-comp"> Més informació</span>
                 <svg width="13" height="25" viewBox="0 0 13 25" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_203_1607)">
                     <path d="M2.01838 1.50684L10.8442 12.6666L2.01838 23.8263" stroke="white" stroke-width="2" stroke-linejoin="round"/>

@@ -4,7 +4,7 @@
         <div class="max-w-[15rem]">
             <slot  name="img"/>
         </div>
-        <h1 class="text-xl tracking-[2px]">
+        <h1 class="text-xl tracking-[2px] leading-[1.25rem]">
             <slot  name="name"/>
         </h1>
         <h2 class="text-lg">

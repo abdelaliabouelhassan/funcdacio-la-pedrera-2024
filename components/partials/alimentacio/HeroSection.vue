@@ -8,7 +8,7 @@
                         sm:text-[2.5rem]
                         md:text-[3rem] md:tracking-[-1.28px]
                         lg:text-[4rem] ">Impacte social</h1>
-            <h2 class=" text-[2.5rem] sm:text-[4rem] md:text-[5rem] lg:text-[8rem] leading-[1] font-super-rotesk-comp tracking-[0.25rem] md:tracking-[0.8rem] max-w-[68.75rem]">
+            <h2 class=" text-[2.5rem] sm:text-[4rem] md:text-[5rem] lg:text-[8rem] leading-[1] font-super-rotesk-comp tracking-[0.25rem]  md:tracking-[0.8rem] max-w-[68.75rem]">
                 ALIMENTACIÓ <br> PER A LA SALUT
             </h2>
         </div>
