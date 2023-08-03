@@ -40,7 +40,7 @@ export default defineNuxtPlugin((nuxtApp) => {
             }
           });
         }
-        expand();
+        //expand();
         collapse_btn.addEventListener('click', () => {
           expand();
         });

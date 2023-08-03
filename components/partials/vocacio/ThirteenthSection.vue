@@ -2,7 +2,7 @@
     <section class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
         <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between">
             <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                <img src="/images/vocacio/article-img-7.svg" class=" w-full h-full object-cover" alt="article-img-2">
+                <img src="/images/vocacio/article-img-7.webp" class=" w-full h-full object-cover" alt="article-img-2">
             </div>
             <div class="w-full md:max-w-[27.5rem] space-y-12 px-4 sm:px-0">
                 

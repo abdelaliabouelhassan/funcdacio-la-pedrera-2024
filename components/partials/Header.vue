@@ -22,10 +22,10 @@
 
                 <!-- md screen menu -->
                 <nav class="hidden md:flex gap-x-8 h-fit">
-                    <router-link to="/patronat"  class="text-xl" aria-label="Patronal"> Patronal</router-link>
+                    <router-link to="/patronat"  class="text-xl" aria-label="Patronat"> Patronat</router-link>
                     <router-link to="/equip" class="text-xl" aria-label="Equip">Equip</router-link>
                     <router-link to="/balanc" class="text-xl" aria-label="Balanç">Balanç econòmic</router-link>
-                    <router-link to="/impact" class="text-xl" aria-label="Impacte">Impacte social</router-link>
+                    <!-- <router-link to="/impact" class="text-xl" aria-label="Impacte">Impacte social</router-link> -->
                 </nav>
             </div>
             <!-- small screen menu -->
@@ -50,9 +50,9 @@
                         <router-link @click="showMenu = !showMenu" to="/equip" class="text-[2rem] block" aria-label="Equip">Equip</router-link>
                         <router-link @click="showMenu = !showMenu" to="/balanc" class="text-[2rem] block" aria-label="Balanç econòmic">Balanç econòmic</router-link>
                         <div v-collapsable class="collapsable flex flex-col gap-y-8">
-                            <div class="flex justify-center items-center">
-                                <router-link @click="showMenu = !showMenu" to="/impact" class="text-[2rem]" aria-label="Impacte social">Impacte social</router-link>
-                                <button name="menu" class="collapse-btn w-8 h-full pl-2  ">
+                            <div class="flex justify-center items-center collapse-btn">
+                                <button  class="text-[2rem] " aria-label="Impacte social">Impacte social</button>
+                                <button name="menu" class=" w-8 h-full pl-2  ">
                                     <svg class="w-full h-full collapse-btn-chevron" width="25" height="11" viewBox="0 0 25 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M23.6182 1.01838L12.4584 9.84424L1.29865 1.01838" stroke="white" stroke-width="2" stroke-linejoin="round"/>
                                     </svg>

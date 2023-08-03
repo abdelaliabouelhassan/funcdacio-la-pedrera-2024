@@ -22,6 +22,50 @@
                 </CollapsableContent>
             </template>
         </PatronatCard>
+          <PatronatCard>
+            <template #img>
+                <img src="/images/patronat/Mercè-Boada-Rovira.svg" alt="">
+            </template>
+            <template #name>
+                Mercè Boada Rovira
+            </template>
+            <template #role>
+                PERSONA DE RECONEGUT PRESTIGI
+            </template>
+            <template #bio>
+                <CollapsableContent>
+                    <p>
+                        Doctora en Medicina per la Universitat Autònoma de Barcelo- na i especialista en Neurologia. Fundadora i directora mèdica de Fundació ACE. Barcelona Alzheimer Treatment & Reserch Center, fins al 1995. Presidenta de la Societat Catalana de Neurologia fins 2002.
+                    </p>
+    
+                    <p class="mt-2.5">
+                        Actualment: Lidera projectes finançats per institucions nacionals, europees i privades: AES, H2020, EFSD, ERA-NET, IMI2, Fundació La Caixa. Investigadora principal de nombrosos assaigs clínics, autora de més d’un centenar d’articles i llibres de divulgació mèdica. Membre del Comitè Executiu del Consorci Europeu d’Alzheimer (EADC).
+                    </p>
+                </CollapsableContent>
+            </template>
+        </PatronatCard>
+       <PatronatCard >
+            <template #img>
+                <img src="/images/patronat/Carme-Borbonès-Brescó.svg" alt="">
+            </template>
+            <template #name>
+                Carme Borbonès Brescó
+            </template>
+            <template #role>
+                PERSONA DE RECONEGUT PRESTIGI
+            </template>
+            <template #bio>
+                <CollapsableContent>
+                    <p>
+                        Doctora en Pedagogia per la Universitat de Barcelona i in- vestigadora del CSIC. Directora de Càritas Diocesana de Tarragona fins al 2008, i consellera de Càritas Espanyola i presidenta de Càritas Catalunya, fins al 2016.
+                    </p>
+    
+                    <p class="mt-2.5">
+                        Actualment: Directora honorària de la Càtedra d’Inclusió social de la URV. Membre del Consell rector de la Xarxa Sanitària i So- cial de Sant Pau i Santa Tecla de Tarragona. Membre del patronat i secretària de les Fundacions Catalunya Cristi- ana per a l’evangelització i la cultura i Missatge Humà i Cristià. Presidenta de l’Associació Persona i Democràcia. Membre de Càritas Diocesana d’Urgell. Col·laboradora de la Facultat de Teologia de Catalunya.
+                    </p>
+                </CollapsableContent>
+            </template>
+        </PatronatCard>
         <PatronatCard>
             <template #img>
                 <img src="/images/patronat/Sebastià-Catllà-Calvet.svg" alt="">
@@ -40,6 +84,50 @@
     
                     <p class="mt-2.5">
                         Actualment: President de Grup Oliva Torras. Membre del Patronat i de el Comitè Executiu de la Fundació Sant Andreu Salut, FP. President de la Fundació Ampans.
+                    </p>
+                </CollapsableContent>
+            </template>
+        </PatronatCard>
+         <PatronatCard>
+            <template #img>
+                <img src="/images/patronat/Bonaventura-Clotet-Sala.svg" alt="">
+            </template>
+            <template #name>
+                Bonaventura Clotet Sala
+            </template>
+            <template #role>
+                EN REPRESENTACIÓ DE LA FUNDACIÓ LLUITA CONTRA LES INFECCIONS
+            </template>
+            <template #bio>
+                <CollapsableContent>
+                    <p>
+                        Llicenciat en Medicina per la Universitat Autònoma de Barcelona (UAB) el 1976 i doctorat el 1981 per les investigacions sobre marca- dors pronòstics per a malalties del teixit connectiu. Ha desenvolupat activitats de recerca en medicina interna i en malalties infeccioses, principalment en VIH i malalties relacionades.
+                    </p>
+    
+                    <p class="mt-2.5">
+                        Actualment: Cap de servei de Malalties Infeccioses de l’Hospital Universitari Germans Trias i Pujol (HUGTiP) de Badalona. Director de l’Institut de Recerca de la Sida IrsiCaixa. Codirector del Programa HIVACAT d’investigació de la vacuna de la sida. Professor associat de la UAB i catedràtic de “Sida i malalties relacionades” a la Universitat de Vic (UVic – UCC). Director del Màster Universitari (Màster oficial) en Patogènesi i Tractament de la Sida.
+                    </p>
+                </CollapsableContent>
+            </template>
+        </PatronatCard>
+         <PatronatCard>
+            <template #img>
+                <img src="/images/patronat/Marta-Domènech-Tomàs.svg" alt="">
+            </template>
+            <template #name>
+                Marta Domènech Tomàs
+            </template>
+            <template #role>
+                PERSONA DE RECONEGUT PRESTIGI
+            </template>
+            <template #bio>
+                <CollapsableContent>
+                    <p>
+                        Llicenciada en Publicitat i Relacions Públiques per la Universitat Ramon Llull. Experta universitària en protocol i cerimonial per la Uni- versitat d’Oviedo. Diplomada en Màrqueting Directe per l’Institut de Comerç Electrònic i Màrqueting Directe. Sommelier per la Uni- versitat Rovira i Virgili. Màster en Psicologia Sistèmica a CUDEC i certificada en Coaching WingWave - Institut Gestalt de Barcelona.
+                    </p>
+    
+                    <p class="mt-2.5">
+                        Actualment: Directora General de Turisme del Departament d’Empresa i Treball de la Generalitat de Catalunya. Gerent de l’Hotel Hostal Sport. Membre de la Junta Directiva del RACC i Patrona de la Fundació Topromi.
                     </p>
                 </CollapsableContent>
             </template>
@@ -66,46 +154,24 @@
                 </CollapsableContent>
             </template>
         </PatronatCard>
-        <PatronatCard>
+         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Jordi-Roca-Ventura.svg" alt="">
+                <img src="/images/patronat/Josep-Ma-Lozano-Soler.svg" alt="">
             </template>
             <template #name>
-                Jordi Roca Ventura
+                Josep Ma Lozano Soler
             </template>
             <template #role>
-                EN REPRESENTACIÓ DE LA DIPUTACIÓ DE BARCELONA
+                EN REPRESENTACIÓ DE LA FUNDACIÓ VÍCTOR GRÍFOLS I LUCAS
             </template>
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Dret per la Universitat Autònoma de Barcelona (UAB). Diplomatura de Postgrau en Dret Local Avançat per la UAB. Diplomatura de Postgrau en gestió del personal al servei de les entitats locals per la UAB i la Universitat Rovira i Virgili. Màster en Hisenda Autonómica i Local: economia i gestió avançada per la Universitat de Barcelona.
+                        Doctor en Filosofia i Ciències de l’Educació. Universitat de Bar- celona. Llicenciat en Teologia. Facultat de Teologia de Catalu- nya. Llicenciat en Filosofia i Lletres. Universitat de Barcelona. Administració i Direcció d’Empreses (ESADE). Funció Gerencial d’Administracions Locals (ESADE). La seva activitat docent i de recerca sempre s’ha centrat en la contribució de l’empresa a la societat i en la qualitat humana de les organitzacions.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Coordinador de I’Àrea de Cultura de la Diputació de Barce- lona. Vocal als òrgans de govern del Consorci de la Colònia Güell, Consorci de Biblioteques de Barcelona, Ruta del Moder- nisme de Barcelona i Fundació del Gran Teatre del Liceu.
-                    </p>
-                </CollapsableContent>
-            </template>
-        </PatronatCard>
-        <PatronatCard>
-            <template #img>
-                <img src="/images/patronat/Marc-Ordeix-Rigo.svg" alt="">
-            </template>
-            <template #name>
-                Marc Ordeix Rigo
-            </template>
-            <template #role>
-                EN REPRESENTACIÓ DE LA XARXA DE CUSTÒDIA DEL TERRITORI
-            </template>
-            <template #bio>
-                <CollapsableContent>
-                    <p>
-                        Doctor en Gestió Forestal i del Medi Natural per la Universitat de Lleida. Llicenciat en Biologia per la Universitat de Barcelona. Diplomat en Tecnologia de l’Aigua per la Universitat Politècnica de Catalunya. Màster en Conservació de la Natura i Gestió de Recursos Naturals per l’IUSC (Barcelona). Màster en Gestió i Diversitat de Flora i Fauna per la Universitat Autònoma de Bar- celona.
-                    </p>
-    
-                    <p class="mt-2.5">
-                        Actualment: Coordinador del CERM, Centre d’Estudis dels Rius Mediterranis, associat a la Universitat de Vic - Universitat Central de Catalunya, de la qual també n’és professor, vinculat al Museu del Ter, de Man- lleu (Osona, que té per objectius la recerca, la sensibilització i la conservació del riu Ter i, per extensió, els altres rius mediterranis)
+                        Actualment: Professor ordinari del Departament de Ciències Socials d’ESADE i catedràtic de la Universitat Ramon Llull. Investigador sènior en RSE de l’Institut d’Innovació Social. Membre de l’equip acadèmic de la Càtedra de Lideratges i Governança Democràtica d’ESADE.
                     </p>
                 </CollapsableContent>
             </template>
@@ -134,59 +200,49 @@
         </PatronatCard>
         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Bonaventura-Clotet-Sala.svg" alt="">
+                <img src="/images/patronat/Marc-Ordeix-Rigo.svg" alt="">
             </template>
             <template #name>
-                Bonaventura Clotet Sala
+                Marc Ordeix Rigo
             </template>
             <template #role>
-                EN REPRESENTACIÓ DE LA FUNDACIÓ LLUITA CONTRA LES INFECCIONS
+                EN REPRESENTACIÓ DE LA XARXA DE CUSTÒDIA DEL TERRITORI
             </template>
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Medicina per la Universitat Autònoma de Barcelona (UAB) el 1976 i doctorat el 1981 per les investigacions sobre marca- dors pronòstics per a malalties del teixit connectiu. Ha desenvolupat activitats de recerca en medicina interna i en malalties infeccioses, principalment en VIH i malalties relacionades.
+                        Doctor en Gestió Forestal i del Medi Natural per la Universitat de Lleida. Llicenciat en Biologia per la Universitat de Barcelona. Diplomat en Tecnologia de l’Aigua per la Universitat Politècnica de Catalunya. Màster en Conservació de la Natura i Gestió de Recursos Naturals per l’IUSC (Barcelona). Màster en Gestió i Diversitat de Flora i Fauna per la Universitat Autònoma de Bar- celona.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Cap de servei de Malalties Infeccioses de l’Hospital Universitari Germans Trias i Pujol (HUGTiP) de Badalona. Director de l’Institut de Recerca de la Sida IrsiCaixa. Codirector del Programa HIVACAT d’investigació de la vacuna de la sida. Professor associat de la UAB i catedràtic de “Sida i malalties relacionades” a la Universitat de Vic (UVic – UCC). Director del Màster Universitari (Màster oficial) en Patogènesi i Tractament de la Sida.
+                        Actualment: Coordinador del CERM, Centre d’Estudis dels Rius Mediterranis, associat a la Universitat de Vic - Universitat Central de Catalunya, de la qual també n’és professor, vinculat al Museu del Ter, de Man- lleu (Osona, que té per objectius la recerca, la sensibilització i la conservació del riu Ter i, per extensió, els altres rius mediterranis)
                     </p>
                 </CollapsableContent>
             </template>
         </PatronatCard>
-        <PatronatCard>
+         <PatronatCard>
             <template #img>
-                <img src="/images/patronat/Antoni-Tombas-Navarro.svg" alt="">
+                <img src="/images/patronat/Jordi-Roca-Ventura.svg" alt="">
             </template>
             <template #name>
-                Antoni Tombas Navarro
+                Jordi Roca Ventura
             </template>
             <template #role>
-                EN REPRESENTACIÓ DE LA FUNDACIÓ FUTBOL CLUB BARCELONA
-            </template>
-        </PatronatCard>
-        <PatronatCard>
-            <template #img>
-                <img src="/images/patronat/Josep-Ma-Lozano-Soler.svg" alt="">
-            </template>
-            <template #name>
-                Josep Ma Lozano Soler
-            </template>
-            <template #role>
-                EN REPRESENTACIÓ DE LA FUNDACIÓ VÍCTOR GRÍFOLS I LUCAS
+                EN REPRESENTACIÓ DE LA DIPUTACIÓ DE BARCELONA
             </template>
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Doctor en Filosofia i Ciències de l’Educació. Universitat de Bar- celona. Llicenciat en Teologia. Facultat de Teologia de Catalu- nya. Llicenciat en Filosofia i Lletres. Universitat de Barcelona. Administració i Direcció d’Empreses (ESADE). Funció Gerencial d’Administracions Locals (ESADE). La seva activitat docent i de recerca sempre s’ha centrat en la contribució de l’empresa a la societat i en la qualitat humana de les organitzacions.
+                        Llicenciat en Dret per la Universitat Autònoma de Barcelona (UAB). Diplomatura de Postgrau en Dret Local Avançat per la UAB. Diplomatura de Postgrau en gestió del personal al servei de les entitats locals per la UAB i la Universitat Rovira i Virgili. Màster en Hisenda Autonómica i Local: economia i gestió avançada per la Universitat de Barcelona.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Professor ordinari del Departament de Ciències Socials d’ESADE i catedràtic de la Universitat Ramon Llull. Investigador sènior en RSE de l’Institut d’Innovació Social. Membre de l’equip acadèmic de la Càtedra de Lideratges i Governança Democràtica d’ESADE.
+                        Actualment: Coordinador de I’Àrea de Cultura de la Diputació de Barce- lona. Vocal als òrgans de govern del Consorci de la Colònia Güell, Consorci de Biblioteques de Barcelona, Ruta del Moder- nisme de Barcelona i Fundació del Gran Teatre del Liceu.
                     </p>
                 </CollapsableContent>
             </template>
         </PatronatCard>
+        
         <PatronatCard>
             <template #img>
                 <img src="/images/patronat/Mireia-Tomàs-Carulla.svg" alt="">
@@ -207,6 +263,17 @@
                         Actualment: Membre del Patronat de la Fundació Carulla. Membre del Pa- tronat de FERO (Fundació de Investigación Oncológica).
                     </p>
                 </CollapsableContent>
+            </template>
+        </PatronatCard>
+        <PatronatCard class="xl:col-start-2">
+            <template #img>
+                <img src="/images/patronat/Antoni-Tombas-Navarro.svg" alt="">
+            </template>
+            <template #name>
+                Antoni Tombas Navarro
+            </template>
+            <template #role>
+                EN REPRESENTACIÓ DE LA FUNDACIÓ FUTBOL CLUB BARCELONA
             </template>
         </PatronatCard>
         <PatronatCard>
@@ -231,72 +298,9 @@
                 </CollapsableContent>
             </template>
         </PatronatCard>
-        <PatronatCard>
-            <template #img>
-                <img src="/images/patronat/Mercè-Boada-Rovira.svg" alt="">
-            </template>
-            <template #name>
-                Mercè Boada Rovira
-            </template>
-            <template #role>
-                PERSONA DE RECONEGUT PRESTIGI
-            </template>
-            <template #bio>
-                <CollapsableContent>
-                    <p>
-                        Doctora en Medicina per la Universitat Autònoma de Barcelo- na i especialista en Neurologia. Fundadora i directora mèdica de Fundació ACE. Barcelona Alzheimer Treatment & Reserch Center, fins al 1995. Presidenta de la Societat Catalana de Neurologia fins 2002.
-                    </p>
-    
-                    <p class="mt-2.5">
-                        Actualment: Lidera projectes finançats per institucions nacionals, europees i privades: AES, H2020, EFSD, ERA-NET, IMI2, Fundació La Caixa. Investigadora principal de nombrosos assaigs clínics, autora de més d’un centenar d’articles i llibres de divulgació mèdica. Membre del Comitè Executiu del Consorci Europeu d’Alzheimer (EADC).
-                    </p>
-                </CollapsableContent>
-            </template>
-        </PatronatCard>
-        <PatronatCard class="xl:col-start-2">
-            <template #img>
-                <img src="/images/patronat/Carme-Borbonès-Brescó.svg" alt="">
-            </template>
-            <template #name>
-                Carme Borbonès Brescó
-            </template>
-            <template #role>
-                PERSONA DE RECONEGUT PRESTIGI
-            </template>
-            <template #bio>
-                <CollapsableContent>
-                    <p>
-                        Doctora en Pedagogia per la Universitat de Barcelona i in- vestigadora del CSIC. Directora de Càritas Diocesana de Tarragona fins al 2008, i consellera de Càritas Espanyola i presidenta de Càritas Catalunya, fins al 2016.
-                    </p>
-    
-                    <p class="mt-2.5">
-                        Actualment: Directora honorària de la Càtedra d’Inclusió social de la URV. Membre del Consell rector de la Xarxa Sanitària i So- cial de Sant Pau i Santa Tecla de Tarragona. Membre del patronat i secretària de les Fundacions Catalunya Cristi- ana per a l’evangelització i la cultura i Missatge Humà i Cristià. Presidenta de l’Associació Persona i Democràcia. Membre de Càritas Diocesana d’Urgell. Col·laboradora de la Facultat de Teologia de Catalunya.
-                    </p>
-                </CollapsableContent>
-            </template>
-        </PatronatCard>
-        <PatronatCard>
-            <template #img>
-                <img src="/images/patronat/Marta-Domènech-Tomàs.svg" alt="">
-            </template>
-            <template #name>
-                Marta Domènech Tomàs
-            </template>
-            <template #role>
-                PERSONA DE RECONEGUT PRESTIGI
-            </template>
-            <template #bio>
-                <CollapsableContent>
-                    <p>
-                        Llicenciada en Publicitat i Relacions Públiques per la Universitat Ramon Llull. Experta universitària en protocol i cerimonial per la Uni- versitat d’Oviedo. Diplomada en Màrqueting Directe per l’Institut de Comerç Electrònic i Màrqueting Directe. Sommelier per la Uni- versitat Rovira i Virgili. Màster en Psicologia Sistèmica a CUDEC i certificada en Coaching WingWave - Institut Gestalt de Barcelona.
-                    </p>
-    
-                    <p class="mt-2.5">
-                        Actualment: Directora General de Turisme del Departament d’Empresa i Treball de la Generalitat de Catalunya. Gerent de l’Hotel Hostal Sport. Membre de la Junta Directiva del RACC i Patrona de la Fundació Topromi.
-                    </p>
-                </CollapsableContent>
-            </template>
-        </PatronatCard>
+      
+        
+       
     </section>
 </template>
 

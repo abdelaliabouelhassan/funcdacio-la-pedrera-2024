@@ -26,7 +26,7 @@
                     </div>
             </div>
             <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                <img src="/images/vocacio/article-img-6.svg" class=" w-full h-full object-cover" alt="article-img-1">
+                <img src="/images/vocacio/article-img-6.webp" class=" w-full h-full object-cover" alt="article-img-1">
             </div>
         </div>
     </section>
