@@ -4,7 +4,7 @@
         <div class="w-full max-w-[56rem] mx-auto flex flex-col gap-4 md:flex-row">
             <article class="w-full border-t border-black pt-6 flex flex-col gap-y-6">
                 <h1 class="text-Ocre text-2xl">Fundació Catalunya La Pedrera</h1>
-                <CollapsableContent>
+                <CollapsableContent data-open>
                     <p>
                         Alvarez de Lasarte Pangua, M Esther. Angles Nuñes de Arenas, Berta. Balboa Garcia, Sandra. Ballester Grau, Sonia. Bas Sarra, Francesc Xavier. Bellorbi Vilaplana, Anna. Berrocoso Hirsch Labouesse, Carol. Blanco Cabañes, Andrea. Bogaert, Lucas. Cantalejo Romero, Sergi. Catalan Franquesa, Marti. Conejo Gonzalez, Carla. Duaigües Duaigües, Monica R. Echagüen. Ferriz, Monica. Escoda Morros, Maria. Fabra Cardona, Josep Maria. Farre Dalmau, Elia. Farres Cardoso, Lluis. Feixa Riu, Jordi. Ferreres Fernandez, Carlota. Fillat Faidella, Mar. Forn Carrio, M Elisabeth. Gay Borrell, Marta. Gonzalez Sanchez Marin, Aixa. Gorrea Acin, Pol. Greoles Cano, Jordi. Herms Agullo, Concepcion. Hernandez Morlans, Maria Teresa. Homs Virgili, Jordi. Hurtado Rodriguez, Maria Mar. Isasi Isasmendi Jorda, Elisabet. Izquierdo Fernandez, Susanna. Jou Ollé, Eva. Juan Vilanova, Gerard. Lacambra Puig, Marta. Lazaro Marti, Cristina. Llongueras Comas, Mar. Llorente Garcia, Maria Carme. Lopez Rojo, Pau. Losarcos Rengel, Ricardo. Mallafre Campos, Marc. Mansanet Parrimond, Marta. Marquez Carrasco, Maria Del Rocio. Marti Munte, Bernard. Massanes Verdaguer, Nuria. Mazon Seoane, Elisabet. Merino Carrasco, Nuria. Milian Huerta, Lidia. Monclus Hernandez, Gemma. Moya Baringo, Olga. Oliva Gonzalez, Lidia. Oller Martin, Lluisa. Oterino Blazquez, Fernando. Pala Vila, Isabel. Piella Clara, Judit. Pineda. Arjona, Monica. Plans Garcia, Sergi. Plans Solduga, Rosa Maria. Rafa Fornieles, Miguel. Ramirez Zarza, Lidia. Ramon Llorente , Victor. Reina Angulo, Manuel. Ribas Milian, Carlos. Roman Martin, Isabel. Romeo Sanchez, Laia. Ruiz Vives, Marina. Sabater Ibañez, Albert. Saez Aragay, David. Sagrera Cozar, Monica. Sahuquillo Pou, Alba. Sanchez I Viladevall , Julia. Sanchez Lopez, Paola. Sanchez. Mondejar, Pilar. Sans Campos, Gerard. Sebastia Miravet, Pau. Segu Lopez, Gerard. Segura Broncano, Marina. Suarez Muntane, Xavier. Torras Mari, Marta. Torrecillas Mayayo, Victor. Tosquella. Roig, Maria Alba. Trilla Estrada, Marta. Ventura Solana, Victor. Vilarasau Alegre, Eulalia. Vilarroya Oliver, Silvia. Vinagre Garcia, Elisabet Gloria. Viza Boltas, Margarida. Yuste Gisbert, Alba.
                     </p>
@@ -13,7 +13,7 @@
             </article>
             <article class="w-full border-t border-black pt-6 flex flex-col gap-y-6">
                 <h1 class="text-Turquoise text-2xl">Col·legi OMS i de Prat de Manresa</h1>
-                <CollapsableContent>
+                <CollapsableContent data-open>
                     <p>
                         Alarcon Salvador, Ana M. Armengol Biosca, Clara. Bacardit Llauro Rosa Maria. Badia Aymerich Maria Elena. Bardaji Dominguez, Ricard. Bardaji Rubiralta, Marc. Barlam Fernandez, Guillem. Basora Vilchez, Pau. Camins Llado, Pilar. Campos Olle Antonio Manuel. Cañete Guerrero, Cristina.Cauba Sala, Maria Dolors. Colell Olivares, Sandra. Costa Solorzano, Nuria. Cristobal Martin, Sara. Cuñat Castillo, Joana. De La Rosa Canela, Jordi. De Miquel Trullas, Eva. Donaire Bellart, Miriam. Escamilla Belizon, Maria Elena. Escude Sala Maria Montserrat. Estany Solsona, Monica. Estruch Escamez, Mireia. Fargas Bacardit, Joan Fargas Bacardit, Sergi. Fenoy Fernandez, Lidia. Fernandez Badia, Anna. Ferrer Nolla, Anna. Fons Badia, Olga. Fores Perez, Maria. Fornells Uro, Jordi. Fuentes Llorente, Ingrid. Garcia Chavarria, Alba. Garcia Prat, Sara. Gardeñas Gil, Cristina. Gonzalez Dieguez, Yusnaidy. Gonzalez Temporal Anna Maria. Iglesias Martinez Rosa Maria. Lacruz Castillon, Julia. Laguarta Bertran, Victoria. Manchado Egea, Olga. Marmi Gomez, Xenia. Martinez Codorniu Eladi. Martinez Fuentes, Joan. Masats Riera, Pol. Montaner Gasulla, Sara. Moratonas Zomeño, Nuria. Moreno Birichinaga, Aurkene. Morros Piniella, Joan. Negro Claret, Antoni. Pala Garcia, Judit. Pala Massip, Adria. Pala Massip, Marc. Pardillo Moyano, Joan Manuel. Pareja Martinez, Jose. Pascual Arguedas, Carlos. Piñot Plana, Teresa. Puigoriol Rovira, Maria Dolors. Ribera Sellares, M. Nuria. Riera Cot, Joaquim. Rodriguez Crespiera, Marta. Roig Fontich, Maria Carme. Rubiralta Costa Imma. Ruiz Monne, Marcel. Salvans Seira, Carolina. Samaniego Fajardo, Tania. Sanchez Castaño, Ana Maite. Serra Lanza, Ares. Serra Mestre Olga. Serra Soler Jaume. Sibila Roma, Gerard. Sobrevias Vidal, Mireia. Sola Rodriguez Sonia. Taña Sardans, Maria Pilar. Tarda Golsa Ana Maria. Torne Rifa, Anna Maria. Trave Rosell, Gemma. Verdaguer Utset, Joaquim. Vila Garces, Iris. Vilaseca Gonzalez, Gemma. Vilella Fillat, Victor. Zorrilla Lopez, Beatriz.
                     </p>
@@ -26,7 +26,7 @@
             <div class="w-full flex flex-col gap-y-4">
                 <article class="border-t border-black pt-6 flex flex-col gap-y-6">
                     <h1 class="text-Brown text-2xl">Fundació Alícia</h1>
-                    <CollapsableContent>
+                    <CollapsableContent  data-open>
                         <p>
                             Massanes Sanchez, Antoni. Sala Francas, Elies. Badal Leon, Laia. Barba Martínez, Amanda. Basela Dalmau, Eva. Coll Pedragosa, Alba. Galvez Playa, Adriana. Garcia Duran, Eva. Igual Aguilar, Noemi. Jiménez Cabrera, Pablo. Juarez Muriel, Fabiola. Lozano Rodriguez, Josep. Martini Capovilla, Vinicius. Millan Valverde, Maria Rosa. Pareja Sierra, Sara Lucia. Puig Pey Boher, Marc. Ribas Serra, Joan Roura Carvajal, Elena. Silla Salvador, Mireia. Arenata Caballero, Alba. Sgrignuoli, Valeria. Mallol Ragolta, Ariadna. Sentmartí Edwards, Freya. Rodríguez Puntas, Pol.
                         </p>
@@ -34,7 +34,7 @@
                 </article>
                 <article class="border-t border-black pt-6 flex flex-col gap-y-6">
                     <h1 class="text-Ocre text-2xl">TOPROMI</h1>
-                    <CollapsableContent>
+                    <CollapsableContent  data-open>
                         <p>
                             Alberich Robles, Irene. Aragon Moreno, José Ricardo. Baena Rodriguez, Ma Paz. Bardina Tomas, Jordi. Ben Alla, Moha. Besonias Aguacil, Miriam. Boulahya, Badr. Caler Romero, Ana Belén. Calvés Parcerisas, Eva. Cambrá Garcia, Lluís. Cañellas Rovira, Marta. Casas Duch, Noemi. Cazorla Fuentes, Rocío. Ciurana Martinez, Antonio. Cochs Aragonès, Montserrat. Company Berengue, Lluís Maria. Dinca, Florentina Cristina. Dominguez Gomez, Antonia. El Amrani, Mohamed. El Arafi, Soulaimane. El Khoutabi, Abdellah. Espinár Saenz, Laura. Fernandez Cortes, Raquel. Gavilan Bastida, Andrea. Gimenez Oliver, Cristina. Gomez Sola, Raúl. Grant Vela, Pere Gabriel. Hinarejos Muñoz, Raquel. Ibrahimi, Hamza. Imbernón Solans, Anna. Jamai Jesse, Aya. Lastre Caicedo, Jorge Eliecer. Lastre Caicedo, Carolina. Lopez Gonzalez, Miguel Ang. Marouani, Nouhad. Merino Ortiz, Estalin Aquiles. Montero López, Concepción. Moracho Solano, Fernando. Navarro Andreo, Bartolome. Perez Lorenzo, Sergio. Plana Gracia, Albert. Ramon Mas, Josep Maria. Reda Maggou, Mohamed. Rodriguez Rodriguez, Vicenta. Rodriguez Rodriguez, Antonio. Romero Parga, Cristina. Ruiz Lladó, Cristina. Sánchez Sumoy, Antoni. Sancho Moreno, Laura. Sarmiento Tamarit, Esther. Serrano Velasco, Concepción. Sumoy Leiva, Manel. Tarragó Colet, Berta. Toldra Borrull, Ma Angels. Totusaus Rius, Marta. Villena Lopez, Jose Luis.
                         </p>
@@ -43,7 +43,7 @@
             </div>
             <article class="w-full border-t border-black pt-6 flex flex-col gap-y-6">
                 <h1 class="text-Turquoise text-2xl">Món San Benet</h1>
-                <CollapsableContent>
+                <CollapsableContent  data-open>
                     <p>
                        Gonzalez Serra, Fernando. Guerrero Pujol, Eva. Rodriguez Salinas, Helena. Batriu Font, Jordi. Cortina Iglesias, Ramon Jordi. Garcia Uber, Eva. Lopez Cano, Angel. Massana Garcia, Silvia. Navarro
                        Abad, Sergio. Pinto Puig, Pau. Sayech Farran, Carles. Vila González, Pau. Cano Valero, Elisabet. Cots Aranalde, Adria. Domene Ascaso, Marta. Malet Roig, Berta. Sirera Jimenez, Oriol. Balart Fernandez, Ricard. Benito Pascuet, Xavier. Calle Moreno, Marcos Antonio. Calle Torne, Adria. Casals Simon, Ariadna. Dasilva Abreu Santos, Daiane. Goma Golano, Oriol. Jaime Riera, Alejandro. Jimenez Estevez, Jorge. Lluch Juaneda, Angel. Margalef Salles, Ivan. Medina Perez, Helio. Molina Salazar, Sergio. Obando Coca, Graciela Susana. Pujol Angullo, Gerard. Quintero Marquez, Pitter Gabriel. Santa Eulalia Artazcoz, Marta. Tkito, Rabie. Vera Raja, Jorge. Alvarez Garriga, Jorge. Elias Ramos, Jordi. Rusica, Adrian. Alvarez Fernandez, Sergio. Balsalobre Riera, Jose. Checa Checa, Francisco. Figols Checa, Ferran. Fonts Oliveras, Ramon. Muñoz Lopez, Diego. Prieto Rodriguez, Jose Antonio. Silvestre Caballo, Jose. Vazquez Garcia, Javier. Vilanova Vilanova, Luis. Aguilera Pulido, Teodoro. Ben Abdellah, Alia. Cano Domene, Maria Carmen. Diallo, Tidiane. Roxana Bilbie, Nicoleta. Singh Johal, Surinder Pal. Vasile, Liliana Florentina. Belmonte Freixes, Alba. Bilbie, Ionut. Brullet Real, Christian. Calviño Olmo, Natalia. Colpos, Marioara. Cozas Prieto, Irene. Cucurella Amat, Eduard. Ferrer Cartes, Marcos. Gonzalez Perez, Marta. Graners Rubio, Marisa. Megino Romero, Cristina. Olmo Saez, Monica. Perez Anido, Maria Jose. Vasile, Vilica Alexandru. Viñas Montes, Francisco. Yelamos Membrive, Joan.
@@ -52,7 +52,7 @@
             </article>
         </div>
 
-        <div v-collapsable  class="w-full collapsable">
+        <div v-collapsable  data-open  class="w-full collapsable">
             <article class=" max-w-[56rem] mx-auto grid grid-cols-1 gap-4 md:grid-cols-2">
                 <div class="w-full border-t border-black pt-6  flex flex-col gap-y-6">
                     <h1 class=" text-Olive-Green text-2xl">SPT</h1>
@@ -77,8 +77,8 @@
             </article>
 
             <!-- background img circle -->
-            <div class="relative w-full background-circle opacity-0 transition-opacity duration-500 ease-in-out">
-                <img class="z-10 hidden md:block opacity-70 absolute bottom-48 right-[84%] xl:right-auto xl:-left-12" 
+            <div class="relative w-full hidden background-circle opacity-0 transition-opacity duration-500 ease-in-out">
+                <img class="z-10  opacity-70 absolute bottom-48 right-[84%] xl:right-auto xl:-left-12" 
                         src="/images/equip/bg-vector-2.svg" alt="">
             </div>
         </div>
@@ -92,6 +92,6 @@ import CollapsableContent from "@/components/UI/CollapsableContent.vue";
 
 <style scoped>
     .collapsable.expanded .background-circle{
-        @apply opacity-100;
+        @apply md:block opacity-100;
     }
 </style>
