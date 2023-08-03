@@ -84,7 +84,7 @@
 
 
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-Brown text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full">
-                    <div class="">VOLUM DE NEGOCI DEL GRUP</div>
+                    <div class="">GRUP FUNDACIÓ CATALUNYA LA PEDRERA</div>
                     <div class="shrink-0"><Number  :number="490" /></div>
                 </div>
 

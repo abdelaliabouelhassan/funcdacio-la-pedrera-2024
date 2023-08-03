@@ -11,7 +11,7 @@
             <h1 class="text-2xl font-bold tracking-[0.15rem] max-w-[20.2rem] 
                         md:text-[2rem] md:max-w-[28rem] ">A la Fundació Catalunya La Pedrera</h1>
             <h2 class="text-[8rem] font-reenie-beanie leading-[3.75rem] tracking-[-4px] text-white max-w-[22.2rem] 
-                        md:text-[16rem] md:leading-[9.375rem] md:max-w-[46.25rem]">tenim un somni</h2>
+                        md:text-[16rem] md:leading-[9.375rem] md:max-w-[46.25rem]">tenim <br> un somni</h2>
         </div>
     </section>
 </template>
