@@ -78,7 +78,7 @@
                     <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="65" /></div>
                 </div>
                 <div class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4">
-                    <div >Cooperativa 2147 Mans</div>
+                    <div >Cooperativa  Mans</div>
                     <div class="shrink-0 font-super-rotesk-comp tracking-[2px] font-bold"><Number  :number="37" /></div>
                 </div>
 

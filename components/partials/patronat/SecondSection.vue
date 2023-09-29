@@ -13,11 +13,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Ciències Empresarials. Màster en Business Administration (MBA) per ESADE, l’École des Hautes Études Commerciales (HEC) de Paris i la New York Uni- versity (STERN College at NYU). Postgraduat en Gestió d’Empreses de Serveis Professionals al Babson College de Boston, Massachusetts.
+                        Llicenciat en Ciències Empresarials. Màster en Business Administration (MBA) per ESADE, l’École des Hautes Études Commerciales (HEC) de Paris i la New York University (STERN College at NYU). Postgraduat en Gestió d’Empreses de Serveis Professionals al Babson College de Boston, Massachusetts.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: President del Patronat de la Fundació Topromi. President del Patronat de la Fundació Alicia. President Paradigma Barcelona. Assessor en comunicació i màrqueting. Vice- president i membre de la junta directiva del RACC. Patró del Barcelona Institute for Science and Technology. Soci i conseller de MOBIL BOOKS SL. Soci de MUBIQUO Mobile Marketing Solutions. Conseller independent a la xarxa d’hospitals psiquiàtrics CAT/Barcelona.
+                        Actualment: President del Patronat de la Fundació Topromi. President del Patronat de la Fundació Alicia. President Paradigma Barcelona. Assessor en comunicació i màrqueting. Vicepresident i membre de la junta directiva del RACC. Patró del Barcelona Institute for Science and Technology. Soci i conseller de MOBIL BOOKS SL. Soci de MUBIQUO Mobile Marketing Solutions. Conseller independent a la xarxa d’hospitals psiquiàtrics CAT/Barcelona.
                     </p>
                 </CollapsableContent>
             </template>
@@ -35,7 +35,7 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Doctora en Medicina per la Universitat Autònoma de Barcelo- na i especialista en Neurologia. Fundadora i directora mèdica de Fundació ACE. Barcelona Alzheimer Treatment & Reserch Center, fins al 1995. Presidenta de la Societat Catalana de Neurologia fins 2002.
+                        Doctora en Medicina per la Universitat Autònoma de Barcelona i especialista en Neurologia. Fundadora i directora mèdica de Fundació ACE. Barcelona Alzheimer Treatment & Reserch Center, fins al 1995. Presidenta de la Societat Catalana de Neurologia fins 2002.
                     </p>
     
                     <p class="mt-2.5">
@@ -57,11 +57,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Doctora en Pedagogia per la Universitat de Barcelona i in- vestigadora del CSIC. Directora de Càritas Diocesana de Tarragona fins al 2008, i consellera de Càritas Espanyola i presidenta de Càritas Catalunya, fins al 2016.
+                        Doctora en Pedagogia per la Universitat de Barcelona i investigadora del CSIC. Directora de Càritas Diocesana de Tarragona fins al 2008, i consellera de Càritas Espanyola i presidenta de Càritas Catalunya, fins al 2016.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Directora honorària de la Càtedra d’Inclusió social de la URV. Membre del Consell rector de la Xarxa Sanitària i So- cial de Sant Pau i Santa Tecla de Tarragona. Membre del patronat i secretària de les Fundacions Catalunya Cristi- ana per a l’evangelització i la cultura i Missatge Humà i Cristià. Presidenta de l’Associació Persona i Democràcia. Membre de Càritas Diocesana d’Urgell. Col·laboradora de la Facultat de Teologia de Catalunya.
+                        Actualment: Directora honorària de la Càtedra d’Inclusió social de la URV. Membre del Consell rector de la Xarxa Sanitària i Social de Sant Pau i Santa Tecla de Tarragona. Membre del patronat i secretària de les Fundacions Catalunya Cristiana per a l’evangelització i la cultura i Missatge Humà i Cristià. Presidenta de l’Associació Persona i Democràcia. Membre de Càritas Diocesana d’Urgell. Col·laboradora de la Facultat de Teologia de Catalunya.
                     </p>
                 </CollapsableContent>
             </template>
@@ -79,7 +79,7 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Fundador de l’empresa metal·lúrgica L. Oliva Torras. Patró fundador de el Centre de Formació Pràctica de Manresa, adherit a la Fundació Lacetània. Fundador del Celler el Molí. Vicepresident de la Cambra de Comerç de Man- resa (1998-2002). President de la Patronal Metal·lúrgica de Bages (1999-2003).
+                        Fundador de l’empresa metal·lúrgica L. Oliva Torras. Patró fundador de el Centre de Formació Pràctica de Manresa, adherit a la Fundació Lacetània. Fundador del Celler el Molí. Vicepresident de la Cambra de Comerç de Manresa (1998-2002). President de la Patronal Metal·lúrgica de Bages (1999-2003).
                     </p>
     
                     <p class="mt-2.5">
@@ -101,7 +101,7 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Medicina per la Universitat Autònoma de Barcelona (UAB) el 1976 i doctorat el 1981 per les investigacions sobre marca- dors pronòstics per a malalties del teixit connectiu. Ha desenvolupat activitats de recerca en medicina interna i en malalties infeccioses, principalment en VIH i malalties relacionades.
+                        Llicenciat en Medicina per la Universitat Autònoma de Barcelona (UAB) el 1976 i doctorat el 1981 per les investigacions sobre marcadors pronòstics per a malalties del teixit connectiu. Ha desenvolupat activitats de recerca en medicina interna i en malalties infeccioses, principalment en VIH i malalties relacionades.
                     </p>
     
                     <p class="mt-2.5">
@@ -123,7 +123,7 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciada en Publicitat i Relacions Públiques per la Universitat Ramon Llull. Experta universitària en protocol i cerimonial per la Uni- versitat d’Oviedo. Diplomada en Màrqueting Directe per l’Institut de Comerç Electrònic i Màrqueting Directe. Sommelier per la Uni- versitat Rovira i Virgili. Màster en Psicologia Sistèmica a CUDEC i certificada en Coaching WingWave - Institut Gestalt de Barcelona.
+                        Llicenciada en Publicitat i Relacions Públiques per la Universitat Ramon Llull. Experta universitària en protocol i cerimonial per la Universitat d’Oviedo. Diplomada en Màrqueting Directe per l’Institut de Comerç Electrònic i Màrqueting Directe. Sommelier per la Universitat Rovira i Virgili. Màster en Psicologia Sistèmica a CUDEC i certificada en Coaching WingWave Institut Gestalt de Barcelona.
                     </p>
     
                     <p class="mt-2.5">
@@ -145,11 +145,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Tècnic enginyer informàtic. Empresari. President de Serveis Comarcals Mediambientals, SA (2013-2019).
+                       Tècnic enginyer informàtic. Empresari. President de Serveis Comarcals Mediambientals, SA (2013-2019).
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Alcalde d’Alforja des de 2011. Diputat provincial a la Dipu- tació de Tarragona. Vicepresident segon de la Diputació de Tarragona. Diputat delegat dels Serveis d’Assistència al Ciu- tadà - SAC de la Diputació de Tarragona.
+                       Actualment: Alcalde d’Alforja des de 2011. Diputat provincial a la Diputació de Tarragona. Vicepresident segon de la Diputació de Tarragona. Diputat delegat dels Serveis d’Assistència al Ciutadà SAC de la Diputació de Tarragona.
                     </p>
                 </CollapsableContent>
             </template>
@@ -167,7 +167,7 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Doctor en Filosofia i Ciències de l’Educació. Universitat de Bar- celona. Llicenciat en Teologia. Facultat de Teologia de Catalu- nya. Llicenciat en Filosofia i Lletres. Universitat de Barcelona. Administració i Direcció d’Empreses (ESADE). Funció Gerencial d’Administracions Locals (ESADE). La seva activitat docent i de recerca sempre s’ha centrat en la contribució de l’empresa a la societat i en la qualitat humana de les organitzacions.
+                        Doctor en Filosofia i Ciències de l’Educació. Universitat de Barcelona. Llicenciat en Teologia. Facultat de Teologia de Catalunya. Llicenciat en Filosofia i Lletres. Universitat de Barcelona. Administració i Direcció d’Empreses (ESADE). Funció Gerencial d’Administracions Locals (ESADE). La seva activitat docent i de recerca sempre s’ha centrat en la contribució de l’empresa a la societat i en la qualitat humana de les organitzacions.
                     </p>
     
                     <p class="mt-2.5">
@@ -189,11 +189,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Ciències de la Informació (branca Pe- riodisme) per la Universitat Autònoma de Barcelona (1982). Diplomat en Alta Direcció d’Empreses per ESA- DE (2002).
+                        Llicenciat en Dret per la Universitat Autònoma de Barcelona (UAB). Diplomatura de Postgrau en Dret Local Avançat per la UAB. Diplomatura de Postgrau en gestió del personal al servei de les entitats locals per la UAB i la Universitat Rovira i Virgili. Màster en Hisenda Autonómica i Local: economia i gestió avançada per la Universitat de Barcelona.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Membre del patronat de diverses fundacions socials i del coneixement, i del consell assessor de diverses entitats educatives, socials i públiques. Assessor de processos de gestió del canvi educatiu a institucions i governs a Espanya, Portugal i Llatinoamèrica.
+                        Actualment: Coordinador de I’Àrea de Cultura de la Diputació de Barcelona. Vocal als òrgans de govern del Consorci de la Colònia Güell, Consorci de Biblioteques de Barcelona, Ruta del Modernisme de Barcelona i Fundació del Gran Teatre del Liceu.
                     </p>
                 </CollapsableContent>
             </template>
@@ -211,11 +211,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Doctor en Gestió Forestal i del Medi Natural per la Universitat de Lleida. Llicenciat en Biologia per la Universitat de Barcelona. Diplomat en Tecnologia de l’Aigua per la Universitat Politècnica de Catalunya. Màster en Conservació de la Natura i Gestió de Recursos Naturals per l’IUSC (Barcelona). Màster en Gestió i Diversitat de Flora i Fauna per la Universitat Autònoma de Bar- celona.
+                        Administració i Direcció d’Empreses ESADE Business & Law School (1984 – 1989). PADE (Programa d’Alta Direcció d’Empreses) IESE Business School University of Navarra.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Coordinador del CERM, Centre d’Estudis dels Rius Mediterranis, associat a la Universitat de Vic - Universitat Central de Catalunya, de la qual també n’és professor, vinculat al Museu del Ter, de Man- lleu (Osona, que té per objectius la recerca, la sensibilització i la conservació del riu Ter i, per extensió, els altres rius mediterranis)
+                        Actualment: Membre del Patronat de la Fundació Carulla. Membre del Patronat de FERO (Fundació de Investigación Oncológica).
                     </p>
                 </CollapsableContent>
             </template>
@@ -237,7 +237,7 @@
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Coordinador de I’Àrea de Cultura de la Diputació de Barce- lona. Vocal als òrgans de govern del Consorci de la Colònia Güell, Consorci de Biblioteques de Barcelona, Ruta del Moder- nisme de Barcelona i Fundació del Gran Teatre del Liceu.
+                        Actualment: Coordinador de I’Àrea de Cultura de la Diputació de Barcelona. Vocal als òrgans de govern del Consorci de la Colònia Güell, Consorci de Biblioteques de Barcelona, Ruta del Modernisme de Barcelona i Fundació del Gran Teatre del Liceu.
                     </p>
                 </CollapsableContent>
             </template>
@@ -256,11 +256,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Administració i Direcció d’Empreses - ESADE Business & Law School (1984 – 1989). PADE (Programa d’Alta Direcció d’Em- preses) - IESE Business School - University of Navarra.
+                        Administració i Direcció d’Empreses ESADE Business & Law School (1984 – 1989). PADE (Programa d’Alta Direcció d’Empreses) IESE Business School University of Navarra.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Membre del Patronat de la Fundació Carulla. Membre del Pa- tronat de FERO (Fundació de Investigación Oncológica).
+                        Actualment: Membre del Patronat de la Fundació Carulla. Membre del Patronat de FERO (Fundació de Investigación Oncológica).
                     </p>
                 </CollapsableContent>
             </template>
@@ -289,11 +289,11 @@
             <template #bio>
                 <CollapsableContent>
                     <p>
-                        Llicenciat en Ciències Físiques per la Universitat Autònoma de Barcelona. Doctor per la Universitat Politècnica de Catalunya. Investi- gador post-doctoral a la University of Central Florida i a la University of Arizona.
+                        Llicenciat en Ciències Físiques per la Universitat Autònoma de Barcelona. Doctor per la Universitat Politècnica de Catalunya. Investigador post-doctoral a la University of Central Florida i a la University of Arizona.
                     </p>
     
                     <p class="mt-2.5">
-                        Actualment: Director General de l’Institut de Ciències Fotòniques. President dels European Centres for Outreach in Photonics. President de la Co- missió d’Avaluació de la Recerca d’AQU Catalunya. Membre del Board of Stakeholders of the European Platform Photonics21. Membre del Future and Emerging Technologies Advisory Group de la Comissió Europea. Membre del High-Level Expert Group for the European Quantum Technologies Flagship, entre d’altres càrrecs d’assessor a diverses entitats públiques i privades d’Europa, Estats Units, Cana- dà i Austràlia. Fellow de l’Optical Society of America, de la European Optical Society i de la European Physical Society
+                        Actualment: Director General de l’Institut de Ciències Fotòniques. President dels European Centres for Outreach in Photonics. President de la Comissió d’Avaluació de la Recerca d’AQU Catalunya. Membre del Board of Stakeholders of the European Platform Photonics21. Membre del Future and Emerging Technologies Advisory Group de la Comissió Europea. Membre del High-Level Expert Group for the European Quantum Technologies Flagship, entre d’altres càrrecs d’assessor a diverses entitats públiques i privades d’Europa, Estats Units, Canadà i Austràlia. Fellow de l’Optical Society of America, de la European Optical Society i de la European Physical Society
                     </p>
                 </CollapsableContent>
             </template>
