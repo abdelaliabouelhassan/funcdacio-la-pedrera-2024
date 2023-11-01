@@ -20,6 +20,27 @@
         </ArticlePreview>
         
     </section>
+     <section class="px-4 py-16">
+        <ArticlePreview mode="right" link="/exposicions">
+            <template #img>
+                <img src="/images/home/expos.png" alt="SOSTENIBILITAT"   width="331.753" height="321.672">
+            </template>
+            <template #number>
+                <div class="flex items-center gap-x-5 leading-10 text-Turquoise">
+                    <!-- <slot name="number" /> -->
+                    <span class="font-medium text-[4rem] shrink-0"><Number  :number="686.321"/>  </span> 
+                    <span class="text-[2rem]">persones</span> 
+                </div>
+            </template>
+            <template #title>
+                EXPOSICIONS
+            </template>
+            <template #description>
+                Construïm experiències expositives de màxima excel·lència que siguin una finestra oberta a la cultura. Perquè la cultura també sigui el camí cap a un món més humà.
+            </template>
+        </ArticlePreview>
+        
+    </section>
 </template>
 
 <script setup>
