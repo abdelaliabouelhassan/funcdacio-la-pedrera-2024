@@ -27,7 +27,7 @@
                 </div>
                </div>
                 <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació.png" class=" w-full h-full object-cover" alt="Fundació">
+                    <img src="/images/exposicions/Fundacio.png" class=" w-full h-full object-cover" alt="Fundació">
                 </div>
             </div>
         </div>

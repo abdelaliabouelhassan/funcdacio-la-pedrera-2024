@@ -4,7 +4,7 @@
         <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
             <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació_Catalunya.png" class=" w-full h-full object-cover" alt="Fundació2">
+                    <img src="/images/exposicions/Fundacio_Catalunya.png" class=" w-full h-full object-cover" alt="Fundació2">
                 </div>
                <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
                     <div class=" w-full  space-y-8 border-t border-black">
@@ -27,14 +27,14 @@
                     </p>
                 </div>
                 <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació_Catalunya_laPedrera.png" class=" w-full h-full object-cover" alt="Fundació">
+                    <img src="/images/exposicions/Fundacio_Catalunya_laPedrera.png" class=" w-full h-full object-cover" alt="Fundació">
                 </div>
             </div>
         </div>
            <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
             <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació1.png" class=" w-full h-full object-cover" alt="Fundació2">
+                    <img src="/images/exposicions/Fundacio1.png" class=" w-full h-full object-cover" alt="Fundació2">
                 </div>
                <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
                     <div class=" w-full  space-y-8 border-t border-black">
@@ -60,14 +60,14 @@
                 </div>
                </div>
                 <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació2.png" class=" w-full h-full object-cover" alt="Fundació">
+                    <img src="/images/exposicions/Fundacio2.png" class=" w-full h-full object-cover" alt="Fundació">
                 </div>
             </div>
         </div>
          <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
             <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundació3.png" class=" w-full h-full object-cover" alt="Fundació2">
+                    <img src="/images/exposicions/Fundacio3.png" class=" w-full h-full object-cover" alt="Fundació2">
                 </div>
                <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
                     <div class=" w-full  space-y-8 ">
