@@ -1,6 +1,6 @@
 <template>
     <section class="h-screen max-h-[46.94rem] relative flex justify-center items-center">
-        <img  class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center " src="/images/exposicions/hero.png" alt="hero" srcset="">        
+        <img  class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center " src="/images/exposicions/Hero.png" alt="hero" srcset="">        
         <div class="flex z-10 flex-col items-center gap-y-10 text-center px-4 text-white ">
             <h1 class="text-[2rem] font-medium tracking-[-0.64px] font-reenie-beanie 
                         sm:text-[2.5rem]
