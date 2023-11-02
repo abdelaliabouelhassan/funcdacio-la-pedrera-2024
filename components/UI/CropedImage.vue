@@ -16,13 +16,13 @@
 .img-wrapper:hover :deep(img) {
   width: 150%;
   position: absolute;
-  animation: move 30s ease;
+  animation: move 3s ease forwards;
   /* Add infinite to loop. */
   
-  -ms-animation: move 30s ease;
-  -webkit-animation: move 30s ease;
-  -0-animation: move 30s ease;
-  -moz-animation: move 30s ease; 
+  -ms-animation: move 3s ease forwards;
+  -webkit-animation: move 3s ease forwards;
+  -0-animation: move 3s ease forwards;
+  -moz-animation: move 3s ease forwards;
 }
 
 @keyframes move {
