@@ -10,7 +10,7 @@
             <div class="font-reenie-beanie">
                 <slot name="number" />
             </div>
-            <h1 class="leading-[2rem]"><slot name="title" /></h1>
+            <h1 class="leading-[2rem] uppercase"><slot name="title" /></h1>
             <div><slot name="description" /></div>
             <nuxt-link :to="link" class="bg-black py-4 rounded-full w-full md:max-w-[15.125rem] flex items-center justify-center gap-x-4 text-white 
                     hover:bg-Turquoise transition-colors duration-200 ease-in-out">

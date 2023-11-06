@@ -22,7 +22,7 @@
         </nuxt-link>
           <nuxt-link to="/exposicions" class="rounded-full w-4 h-4 relative group bg-Turquoise text-white" aria-label="Alimentació per a la salut">
             <div class="hidden absolute w-[7.2rem] right-6   -top-full px-1 opacity-0 transition-opacity duration-150 ease-in-out 
-                group-hover:block group-hover:opacity-100">Mirada de Creació i reflexió</div>
+                group-hover:block group-hover:opacity-100 uppercase">Mirada de Creació i reflexió</div>
         </nuxt-link>
     </div>
 </template>
