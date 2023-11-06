@@ -33,10 +33,10 @@
                 </div>
             </template>
             <template #title>
-                EXPOSICIONS
+                Mirada de Creació i reflexió
             </template>
             <template #description>
-                Construïm experiències expositives de màxima excel·lència que siguin una finestra oberta a la cultura. Perquè la cultura també sigui el camí cap a un món més humà.
+               Creem experiències culturals i expositives que siguin una finestra oberta al pensament, per estimular la reflexió i el pensament crític.
             </template>
         </ArticlePreview>
         
