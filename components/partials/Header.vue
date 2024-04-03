@@ -25,7 +25,7 @@
                     <router-link to="/patronat"  class="text-xl" aria-label="Patronat"> Patronat</router-link>
                     <router-link to="/equip" class="text-xl" aria-label="Equip">Equip</router-link>
                     <router-link to="/balanc" class="text-xl" aria-label="Balanç">Balanç econòmic</router-link>
-                    <!-- <router-link to="/impact" class="text-xl" aria-label="Impacte">Impacte social</router-link> -->
+                    <router-link to="/ecosistemes" class="text-xl" aria-label="Ecosistemes">Ecosistemes</router-link>
                 </nav>
             </div>
             <!-- small screen menu -->
@@ -48,7 +48,8 @@
                         <router-link @click="showMenu = !showMenu" to="/" class="text-[2rem] block" aria-label="Inici">Inici</router-link>
                         <router-link @click="showMenu = !showMenu" to="/patronat" class="text-[2rem] block" aria-label="patronat">Patronat</router-link>
                         <router-link @click="showMenu = !showMenu" to="/equip" class="text-[2rem] block" aria-label="Equip">Equip</router-link>
-                         <router-link @click="showMenu = !showMenu" to="/exposicions" class="text-[2rem] block" aria-label="Equip">Exposicions</router-link>
+                        <router-link @click="showMenu = !showMenu" to="/exposicions" class="text-[2rem] block" aria-label="Equip">Exposicions</router-link>
+                        <router-link @click="showMenu = !showMenu" to="/ecosistemes" class="text-[2rem] block" aria-label="Equip">Ecosistemes</router-link>
                         <router-link @click="showMenu = !showMenu" to="/balanc" class="text-[2rem] block" aria-label="Balanç econòmic">Balanç econòmic</router-link>
                         <div v-collapsable class="collapsable flex flex-col gap-y-8">
                             <div class="flex justify-center items-center collapse-btn">
