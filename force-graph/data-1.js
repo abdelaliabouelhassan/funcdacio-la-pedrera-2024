@@ -221,5 +221,5 @@ export default {
       shape: "circle",
     },
   ],
-  texts: [{ x: 0, y: 0, text: ["Escoles", "tándem"], fontSize: 120 }],
+  texts: [{ x: 0, y: 0, text: ["Escoles", "tàndem"], fontSize: 120 }],
 };

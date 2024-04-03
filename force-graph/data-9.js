@@ -364,5 +364,5 @@ export default {
       shape: "circle",
     },
   ],
-  texts: [{ x: 0, y: 0, text: ["Experiénces", "expositives"], fontSize: 120 }],
+  texts: [{ x: 0, y: 0, text: ["Experiències", "expositives"], fontSize: 120 }],
 };

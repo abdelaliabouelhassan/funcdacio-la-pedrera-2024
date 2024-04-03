@@ -131,5 +131,5 @@ export default {
       shape: "circle",
     },
   ],
-  texts: [{ x: 0, y: 0, text: ["Joves Per", "la medicia"], fontSize: 120 }],
+  texts: [{ x: 0, y: 0, text: ["Joves per", "la medicina"], fontSize: 120 }],
 };

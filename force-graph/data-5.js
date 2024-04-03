@@ -181,5 +181,5 @@ export default {
       shape: "circle",
     },
   ],
-  texts: [{ x: 0, y: 0, text: ["Bojos Per", "la Ciéncia"], fontSize: 120 }],
+  texts: [{ x: 0, y: 0, text: ["Bojos Per", "la Ciència"], fontSize: 120 }],
 };

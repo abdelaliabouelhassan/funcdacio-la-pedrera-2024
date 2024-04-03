@@ -267,7 +267,7 @@ export default {
     {
       x: 0,
       y: 10,
-      text: ["Cátedra", "Ignacio Cirau -", "Fundació Catalunya La Pedrera"],
+      text: ["Càtedra", "Ignacio Cirau -", "Fundació Catalunya La Pedrera"],
       fontSize: 40,
       color: "#000",
     },

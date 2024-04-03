@@ -488,5 +488,5 @@ export default {
       shape: "circle",
     },
   ],
-  texts: [{ x: 0, y: 0, text: ["Joves i", "ciencia"], fontSize: 120 }],
+  texts: [{ x: 0, y: 0, text: ["Joves i", "ciència"], fontSize: 120 }],
 };
