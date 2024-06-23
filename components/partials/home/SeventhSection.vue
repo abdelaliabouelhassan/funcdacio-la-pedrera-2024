@@ -41,7 +41,9 @@
           class="flex items-center gap-x-5 leading-10 text-[#E46955] font-super-rotesk-comp"
         >
           <!-- <slot name="number" /> -->
-          <span class="font-bold text-[4rem] shrink-0">1.194.643 </span>
+          <span class="font-bold text-[4rem] shrink-0">
+            <Number dot_formated :number="1194643" />
+          </span>
           <span class="text-[2rem]">persones</span>
         </div>
       </template>

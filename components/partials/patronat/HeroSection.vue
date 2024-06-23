@@ -1,6 +1,6 @@
 <template>
   <section
-    class="h-screen max-h-[46.94rem] relative flex justify-center items-center"
+    class="h-screen max-h-[63.6rem] relative flex justify-center items-center"
   >
     <img
       class="z-0 absolute top-0 left-0 h-full w-full object-cover object-top"

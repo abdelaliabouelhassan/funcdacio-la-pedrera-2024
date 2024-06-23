@@ -1,8 +1,8 @@
 /* SuperGroteskComp-Bold */
 
 @font-face {
-  font-family: 'SuperGroteskComp';
-  src: url('/fonts/SuperGroteskComp-Bold.ttf') format('truetype');
+  font-family: "SuperGroteskComp";
+  src: url("/fonts/SuperGroteskComp-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -11,18 +11,18 @@
 /* SuperGroteskComp.ttf/ */
 
 @font-face {
-  font-family: 'SuperGroteskComp';
-  src: url('/fonts/SuperGroteskComp.ttf') format('truetype');
+  font-family: "SuperGroteskComp";
+  src: url("/fonts/SuperGroteskComp.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-} 
+}
 
 /* SuperGroteskOT.otf */
 
 @font-face {
-  font-family: 'SuperGroteskOT';
-  src: url('/fonts/SuperGroteskOT.otf') format('opentype');
+  font-family: "SuperGroteskOT";
+  src: url("/fonts/SuperGroteskOT.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -31,27 +31,50 @@
 /* ReenieBeanieRegular */
 
 @font-face {
-  font-family: 'Reenie Beanie';
-  src: url('/fonts/ReenieBeanieRegular.ttf') format('truetype');
+  font-family: "Reenie Beanie";
+  src: url("/fonts/ReenieBeanieRegular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
+/* SuperGroteskWebW03-CnMedium */
+@font-face {
+  font-family: "SuperGroteskWebW03";
+  src: url("/fonts/SuperGroteskWebW03-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+/* SuperGroteskWebW03-bold */
+@font-face {
+  font-family: "SuperGroteskWebW03";
+  src: url("/fonts/SuperGroteskWebW03-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+/* SuperGroteskWebW03-regular */
+@font-face {
+  font-family: "SuperGroteskWebW03";
+  src: url("/fonts/SuperGroteskWebW03-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
-    html {
-      @apply font-super-grotesk-ot;
-    }
-    h1{
-      @apply text-[2rem] font-bold tracking-[0.2rem] leading-normal font-super-rotesk-comp;
-    }
+  html {
+    @apply font-super-grotesk-ot;
+  }
+  h1 {
+    @apply text-[2rem] font-bold tracking-[0.2rem] leading-normal font-super-rotesk-comp;
+  }
 }
-
 
 .collapsable .collapsable-content {
   overflow: hidden;
@@ -59,16 +82,15 @@
   transition: height 0.3s ease-in-out;
 }
 
-.collapsable .collapse-btn{
+.collapsable .collapse-btn {
   cursor: pointer;
 }
 
 .collapsable.expanded .collapsable-content {
-height: auto;
-transition: height 0.3s ease-in-out;
+  height: auto;
+  transition: height 0.3s ease-in-out;
 }
 
 .collapsable .collapse-btn-chevron {
-transition: all 0.2s ease;
+  transition: all 0.2s ease;
 }
-
