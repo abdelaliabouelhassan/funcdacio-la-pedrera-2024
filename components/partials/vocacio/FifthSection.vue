@@ -1,64 +1,85 @@
 <template>
-    <section class="w-full  py-16 px-4 sm:px-8 md:px-4 lg:px-12">
-        <div class=" w-full max-w-[828.9px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 xl:space-x-0 md:space-y-0 items-start md:justify-between">
-            <div class="w-[330px] mx-auto overflow-hidden text-white flex flex-col justify-center" ref="DoughnutComponentRef">
-                <ChartDoughnut v-if="show" />
-                <div class="flex flex-col items-center w-full text-black">
-                    <div class="flex items-center gap-x-2">
-                        <div class="flex items-center gap-x-2">
-                            <span class="font-super-rotesk-comp font-bold text-xl text-Brown">24% </span>
-                            <span class="text-[10px]">PRIMÀRIA </span> 
-                        </div> 
-                        <div class="flex items-center gap-x-2">
-                            <span class="font-super-rotesk-comp font-bold text-xl text-Turquoise">33% </span>
-                            <span class="text-[10px]">SECUNDÀRIA </span> 
-                        </div> 
-                    </div>
-                    <div class="flex items-center gap-x-2">
-                        <div class="flex items-center gap-x-2">
-                            <span class="font-super-rotesk-comp font-bold text-xl text-Olive-Green">34,5% </span>
-                            <span class="text-[10px]">BATXILLERAT</span> 
-                        </div> 
-                        <div class="flex items-center gap-x-2">
-                            <span class="font-super-rotesk-comp font-bold text-xl text-Ocre">65,5%</span>
-                            <span class="text-[10px]">CICLES FORMATIUS </span> 
-                        </div> 
-                    </div>
-                    <div class="flex items-center gap-x-2">
-                        <span class="font-super-rotesk-comp font-bold text-xl text-Beige">65,5%</span>
-                        <span class="text-[10px]">UNIVERSITATS</span> 
-                    </div> 
-                        
-                </div>
-            </div>
-            <div class="w-full md:max-w-[27.5rem] space-y-10">
-                <div class=" w-full  space-y-8 border-t border-black">
-                    <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">AJUDES A L’ESTUDI</h1>
-                    <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
-                        La Fundació Catalunya La Pedrera vol garantir que tothom pugui accedir als seus projectes educatius, independentment de la seva situació econòmica, i per aquest motiu té una línia de beques que, en el cas del Programa d’Acompanyament Educatiu, ha beneficiat un total de 150 alumnes, el que suposa un 10% dels infants participants. A banda d’aquests ajuts, també s’han donat 55 beques més a altres estudiants perquè poguessin seguir amb els seus estudis obligatoris i postobligatoris.
-                    </p>
-                </div>
-            </div>
+  <section class="w-full sm:px-8 md:px-4 lg:px-12">
+    <div class="w-full max-w-[1097px] mx-auto py-16">
+      <div
+        class="w-full flex md:flex-row flex-col space-y-16 md:space-x-10 xl:space-x-0 md:space-y-0 items-start md:justify-between"
+      >
+        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
+          <img
+            src="/images/vocacio/article-img-6.svg"
+            class="w-full h-full object-cover"
+            alt="article-img-2"
+          />
         </div>
-    </section>
-</template> 
-<script setup>
-import ChartDoughnut from '@/components/UI/ChartDoughnut.vue'
-const show = ref(false);
-let observer = null
-const DoughnutComponentRef = ref(null)
-onMounted(() => {
-     observer = new IntersectionObserver((entries) => {
-        if (entries[0].isIntersecting) {
-            show.value = true;
-        }
-    }, {
-        threshold: 0.5
-    });  
-    observer.observe(DoughnutComponentRef.value);
-})
-
-onUnmounted(() => {
-    observer.disconnect()
-})
-</script>
+        <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
+          <div class="w-full space-y-8 border-t border-black">
+            <h1
+              class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-6"
+            >
+              PROGRAMES DE SUPORT I IMPULS A LA RECERCA
+            </h1>
+            <p class="text-black text-lg font-normal font-super-grotesk-ot">
+              La Fundació Catalunya La Pedrera impulsa la recerca científica amb
+              diversos programes. Un d’ells és <br />
+              <br />
+              el programa Talents, que ofereix oportunitats a joves
+              especialistes en medicina o infermeria per tal que puguin
+              desenvolupar el seu projecte de recerca dins els centres
+              d’investigació adjunts o propis dels centres hospitalaris. L’any
+              2023 es van atorgar 24 ajuts, repartits entre professionals de
+              l’Hospital Germans Trias i Pujol, del Clínic de Barcelona, del de
+              Bellvitge i de la Vall d’Hebron Institut d’Oncologia. <br />
+              <br />
+              També es dona suport a la recerca de primer nivell amb la Càtedra
+              Fundació Catalunya La Pedrera - Ignacio Cirac amb l’Institut de
+              Ciències Fotòniques (ICFO), i es potencia l’excel·lència
+              científica col·laborant amb el Barcelona Institut of Sciencie and
+              Technology (BIST) com a membre del seu patronat. <br />
+              <br />
+              La Fundació Catalunya La Pedrera, en col·laboració amb el diari La
+              Vanguardia, promou el Premi Vanguardia de la Ciència per donar
+              visibilitat i reconeixement a la recerca rellevant que es dugué a
+              terme a l’estat <br />
+              <br />
+              durant l’any anterior. En 2023 es va dur a terme la 12a edició, la
+              segona en què el premi s’atorgava a dones investigadores, per tal
+              de contribuir a reconèixer el paper de les dones en la recerca i a
+              la generació referents femenins en aquest camp. <br />
+              <br />
+              L’any 2023 la Fundació també va donar suport, com a col·laboradora
+              destacada, a la 1a tripulació Hypatia Mars a la Mars Desert
+              Research Station (MDRS), l’estació anàloga de Mart a Utah (EUA).
+              La tripulació, formada per 9 dones científiques catalanes,
+              comptava amb 5 Fellows dels programes d’impuls de vocacions
+              científiques de la Fundació Catalunya La Pedrera.
+            </p>
+          </div>
+          <div class="w-full space-y-8 border-t border-black pt-5">
+            <h1
+              class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-6"
+            >
+              ESCOLES TÀNDEM
+            </h1>
+            <p class="text-black text-lg font-normal font-super-grotesk-ot">
+              És un programa d’innovació educativa, iniciat fa 12 anys, pioner a
+              Catalunya. Durant tres cursos, promou i acompanya l’aliança entre
+              institucions de referència del país, centres educatius amb ganes
+              de transformar-se i la Fundació Catalunya La Pedrera. Té
+              l’objectiu de singularitzar el centre a través d’un procés
+              d’innovació per tal d’oferir la millor educació possible. Durant
+              el 2023 s’ha donat continuïtat als Tàndems de l’Escola Alexandre
+              Galí amb el British Council a Barcelona, l’Escola Mercè Rodoreda
+              amb el Teatre Nacional de Catalunya a Santa Coloma de Gramenet i
+              l’Escola Pau Sans i la Fundació Joan Miró a L’Hospitalet de
+              Llobregat. A més, a setembre de 2023, s’han iniciat nous Tàndems a
+              l’Escola Santa Eugènia amb el Festival Temporada Alta – La
+              Fundació La Ciutat Invisible a Girona, a l’Escola Tibidabo amb
+              Eòlia ESAD a Barcelona i a l’Institut Escola Teresa Altet amb
+              l’ESCAC a Rubí.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
