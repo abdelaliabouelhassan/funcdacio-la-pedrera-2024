@@ -83,9 +83,9 @@
             aria-label="Ecosistemes"
             >Ecosistemes</router-link
           > -->
-          <router-link to="/impact" class="text-xl" aria-label="Impacte social">
+          <!-- <router-link to="/impact" class="text-xl" aria-label="Impacte social">
             Impacte social</router-link
-          >
+          > -->
         </nav>
       </div>
       <!-- small screen menu -->
@@ -150,13 +150,13 @@
               aria-label="patronat"
               >Patronat</router-link
             >
-            <router-link
+            <!-- <router-link
               @click="showMenu = !showMenu"
               to="/equip"
               class="text-[2rem] block"
               aria-label="Equip"
               >Equip</router-link
-            >
+            > -->
             <router-link
               @click="showMenu = !showMenu"
               to="/exposicions"
@@ -164,13 +164,13 @@
               aria-label="Equip"
               >Exposicions</router-link
             >
-            <router-link
+            <!-- <router-link
               @click="showMenu = !showMenu"
               to="/ecosistemes"
               class="text-[2rem] block"
               aria-label="Equip"
               >Ecosistemes</router-link
-            >
+            > -->
             <router-link
               @click="showMenu = !showMenu"
               to="/balanc"
