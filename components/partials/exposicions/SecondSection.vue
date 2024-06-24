@@ -1,90 +1,136 @@
 <template>
-    <section class=" w-full ">
-    
-        <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
-            <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
-               <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundacio_Catalunya.png" class=" w-full h-full object-cover" alt="Fundació2">
-                </div>
-               <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
-                    <div class=" w-full  space-y-8 border-t border-black">
-                        <p class="  text-black text-lg font-normal font-super-grotesk-ot pt-8 ">
-                            L’any 2022 també ha estat l’any en què la Fundació Catalunya La Pedrera ha presentat una nova estratègia cultural de futur que té, com a eix principal, la programació de grans exposicions d’art contemporani. Una proposta que ja ha arrencat a la tardor de 2022, amb l’exposició “Els camins de l’abstracció 1957-1978”, i continuarà fins el gener del 2025 apostant per noms de reconegut prestigi internacional com Jaume Plensa i les seves escultures, les ceràmiques de Miquel Barceló i l’obra del pintor Antonio López, que tindrà a La Pedrera la primera exposició monogràfica que s’ha fet mai a Barcelona.
-                         <br> <br>   En aquesta estratègia, i amb la intenció d’apropar l’art a tothom i estendre’l a diferents espais i disciplines, s’ha plantejat un treball de partenariat i capil·laritat. Per això la Fundació co-crea una programació d’activitats al voltant de cada una d’aquestes exposicions a través d’aliances amb entitats de referència i teixint complicitats amb l’ecosistema cultural del territori.
-                        </p>
-                    </div>
-                     
-               </div>
-            </div>
+  <section class="w-full">
+    <div class="w-full py-16 sm:px-8 md:px-4 lg:px-12">
+      <div
+        class="w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between"
+      >
+        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
+          <img
+            src="/images/exposicions/Fundacio_Catalunya.svg"
+            class="w-full h-full object-cover"
+            alt="Fundació2"
+          />
         </div>
-          <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
-            <div class=" w-full max-w-[1097px] mx-auto  flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between">
-                <div class=" w-full md:max-w-[27.5rem] space-y-8 px-4 sm:px-0">
-                    <p class="  text-black text-lg font-normal font-super-grotesk-ot ">
-                      Seguint aquesta línia, la segona exposició de 2022 “Els camins de l’abstracció 1957-1978. Diàlegs amb el Museo de Arte Abstracto Español de Conca”, va ser concebuda i organitzada en col·laboració amb la Fundación Juan March. Des de setembre de 2022, i fins al gener del 2023, es van poder veure a La Pedrera els artistes imprescindibles de l’art abstracte nacional i internacional de la segona meitat del segle XX.
-                     <br> <br> En aquesta mostra col·lectiva els artistes abstractes espanyols més internacionals, com ara Antonio Saura, Manolo Millares, Rafael Canogar, José Guerrero, Equipo 57 o Pablo Palazuelo, i també els principals representants de l’informalisme català, com Antoni Tàpies, Modest Cuixart, Joan Josep Tharrats, Josep Guinovart o Albert Ràfols- Casamada, establien un diàleg amb alguns dels principals representants internacionals de l’abstracció, com Mark Rothko, Jackson Pollock, Lee Krasner, Willem de Kooning, Helen Frankenthaler, Jean Dubuffet, Hans Hartung, Alberto Burri o Alexander Calder.
-                     <br>  <br>Amb la mateixa voluntat de co-creació es van programar un seguit de propostes culturals que es van expandir per tota la ciutat de Barcelona, establint diàlegs amb diferents disciplines artístiques al voltant de l’abstracció, per ampliar continguts i aportar altres mirades que amplifiquin l’exposició. Aquesta exposició expandida es va portar a terme en col·laboració amb el Gran Teatre del Liceu, la Fundació Suñol, la Fundació Antoni Tàpies, la Filmoteca de Catalunya, Foto Colectània, l’ESMUC o la Biblioteca de Catalunya.
-                    </p>
-                </div>
-                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundacio_Catalunya_laPedrera.png" class=" w-full h-full object-cover" alt="Fundació">
-                </div>
-            </div>
+        <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
+          <div class="w-full space-y-8 border-t border-black">
+            <p
+              class="text-black text-lg font-normal font-super-grotesk-ot pt-8"
+            >
+              Aquesta exposició va significar una recuperació del públic
+              barceloní qui va visitar en gran part la mostra a la sala
+              d’exposicions i també a l’edifici. En total la van veure 52.074
+              persones. Amb la intenció d’apropar l’art a tothom i estendre’l a
+              diferents espais i disciplines, la Fundació va compartir també per
+              a aquesta exposició una programació d’activitats al seu voltant
+              amb entitats de referència de la ciutat com El Gran Teatre del
+              Liceu, el Museu Egipci, la Biblioteca de Catalunya, l’ESMUC, la
+              Galeria Senda, el Palau de la Música o l’Ateneu Barcelonès.
+              <br /><br />
+              En la mateixa línia s’insereix la darrera exposició del 2023, una
+              retrospectiva d’Antonio López, el representant per excel·lència
+              del moviment realista espanyol de la segona meitat del segle XX.
+              La Pedrera va acollir una acurada selecció d’un centenar d’obres
+              —entre pintura, escultura i dibuix— procedents de diferents
+              col·leccions públiques i privades, com la Fundació Sorigué, de
+              Lleida; la Fundación Juan March de Palma de Mallorca; la Fundación
+              ICO i el Museo Nacional Centro de Arte Reina Sofía, de Madrid;
+              l’Hamburger Kunsthalle; el Baltimore Museum of Art i el Museum of
+              Modern Art de Nova York, entre d’altres. <br /><br />
+              L’exposició va ser organitzada per la Fundació Catalunya La
+              Pedrera, en col·laboració amb el Drents Museum (Assen, Països
+              Baixos) i era el primer cop que es veia una gran retrospectiva
+              d’Antonio López a Barcelona. El projecte va tenir una gran
+              acceptació i durant aquests tres mesos del 2023 la van visitar
+              61.299 persones. <br /><br />
+              Per aquesta exposició, com per les altres de l’any 2023, també es
+              van teixir aliances amb altres institucions de prestigi per la
+              programació d’activitats que portessin la reflexió al voltant de
+              l’obra d’Antonio López més enllà de La Pedrera com el Gran Teatre
+              del Liceu, el MNAC, l’ESMUC, la Fundació Sorigué i el Cercle
+              artístic de Sant Lluc.
+            </p>
+          </div>
         </div>
-           <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
-            <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
-               <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundacio1.png" class=" w-full h-full object-cover" alt="Fundació2">
-                </div>
-               <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
-                    <div class=" w-full  space-y-8 border-t border-black">
-                        <h1 class=" text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4">CONSTRUÏM EXPERIÈNCIES A LA PEDRERA I A MÓN SANT BENET</h1>
-                        <p class="  text-black text-lg font-normal font-super-grotesk-ot  ">
-                            També en els seus equipaments la Fundació Catalunya La Pedrera vol generar experiències d’excel·lència que apropin la societat al coneixement. I al mateix temps, es compromet a fer-ne un manteniment òptim per preservar-los per a les generacions futures.
-                           <br> <br> Com a exemple, l’any 2022 es van finalitzar les tasques de reparació del pati de Provença, conegut com el pati de les Papallones, de La Pedrera – Casa Milà. Van ser 9 mesos de feina intensa per netejar, rehabilitar elements estructurals així com recuperar les textures, els colors i elements originals com els estucs, les pintures i les policromies de l’obra de Gaudí. Després d’aquesta intervenció el pati centenari de La Pedrera ha tornat a lluir com el primer dia.
+      </div>
+    </div>
 
-                        </p>
-                    </div>
-                     
-               </div>
-            </div>
+    <div class="w-full py-16 sm:px-8 md:px-4 lg:px-12">
+      <div
+        class="w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between"
+      >
+        <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
+          <div class="w-full space-y-8">
+            <h1
+              class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4"
+            >
+              DOCUMENTAL PLENSA
+            </h1>
+            <p class="text-black text-lg font-normal font-super-rotesk-comp">
+              El projecte Plensa: poesia del silenci a La Pedrera ha tingut una
+              especificitat molt especial <br />
+              ja que s’han situat obres de l’artista al llarg de l’edifici així
+              com una obra de gran format  al xamfrà, davant la façana. Aquest
+              fet va portar a filmar els processos del trasllat de les  obres al
+              terrat i a les golfes amb unes grans grues, procés que va ser molt
+              espectacular i singular i cobert per multitud de mitjans. Així
+              mateix, l’entrada de diverses obres més a la sala d’exposicions
+              per la finestra de l’edifici així com el muntatge del gran cap de
+              la Flora a la façana també va ser espectacular i únic, cosa que ha
+              proporcionat un material irrepetible per a explicar l’artista i
+              les seves obres envers el seu projecte expositiu i l’edifici.
+              <br />
+              <br />
+              L’audiovisual curt es mostra a l’exposició i el llarg es va
+              presentar en el context del Festival Internacional DOCS BCN el
+              passat mes de maig.
+            </p>
+          </div>
+
+          <div class="w-full space-y-8 border-t border-black pt-5">
+            <h1
+              class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4"
+            >
+              DOCUMENTAL ANTONIO LÓPEZ
+            </h1>
+            <p class="text-black text-lg font-normal font-super-rotesk-comp">
+              El plantejament de l’audiovisual partia de poder-lo filmar
+              treballant al taller que té a la casa on viu a Madrid, i alhora
+              aprofitar aquest desplaçament per filmar els altres dos estudis on
+              té obres que estan en procés. Un dels objectius també era
+              documentar Antonio López pintant un dels seus temes de referència:
+              la Gran Via de Madrid, i és així com vam poder accedir al reservat
+              des d’on pinta la “Gran Via des de Callao”. Posteriorment, aquest
+              quadre va formar part de l’exposició a La Pedrera mostrant el
+              procés complet des de l’execució fins a l’exhibició. <br /><br />
+              També es va filmar l’artista en el moment del muntatge de
+              l’exposició, compartint moments amb els equips de treball de la
+              Fundació i fent una passejada amb l’historiador de l’art i
+              galerista Artur Ramon, on l’artista parla de les seves obres més
+              significatives i els processos de treball que porta a terme..
+              Aquest projecte audiovisual es va presentar a l’auditori de La
+              Pedrera el dia 19 d’octubre amb la presència del director del
+              film, Josep Maria Civit i el propi Antonio López que va mantenir
+              una conversa posterior amb la periodista de La Vanguardia, Teresa
+              Sesé. <br /><br />
+              Donada l’especificitat i qualitat d’aquest documental i l’interès
+              que genera l’artista, hem rebut diverses peticions per projectar
+              el documental, tant de televisions com Betevé com d’altres
+              institucions El documental també es projecta a l’estranger, en una
+              exposició que es fa a la Xina, concretament a Shangai per encàrrec
+              de l’Institut Cervantes de Shanghai i també es podrà veure en
+              l’exposició que hem co-produït al Museu de Drents, a Assen,
+              Holanda.
+            </p>
+          </div>
         </div>
-         <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
-            <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between">
-               <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
-                 <div class="w-full  space-y-8 border-t border-black">
-                    <p class="  text-black text-lg font-normal font-super-grotesk-ot pt-8">
-                        Tant a La Pedrera com a Món Sant Benet durant el 2022 s’ha apostat per ampliar les experiències que s’ofereixen als visitants. En el cas de La Pedrera, amb la incorporació de La Pedrera Virtual Experience, una proposta pionera a l’estat espanyol que permet descobrir els secrets de l’edifici de Gaudí combinant tecnologia i realitat. Creada en col·laboració amb Laie – Culture Experience i amb Microsoft, la visita incorpora la tecnologia més innovadora amb el dispositiu HoloLens 2, de manera que els visitants poden descobrir de manera multisensorial la història i l’arquitectura de La Pedrera.
-                       <br> <br> La visita La Pedrera Virtual Experience es fa en un nou espai visitable de l’edifici, l’entresol de La Pedrera, que s’ha obert al públic per primera vegada. Aquest espai circular envolta el Pati de les Papallones i segueix la línia arquitectònica de la Casa Milà. Al llarg del recorregut l’experiència hologràfica permet descobrir qui eren els propietaris de l’edifici, quina va ser la inspiració de Gaudí, com va construir-la i les vides que hi ha hagut a La Pedrera al llarg dels anys.
-                    </p>
-                </div>
-               </div>
-                <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundacio2.png" class=" w-full h-full object-cover" alt="Fundació">
-                </div>
-            </div>
+        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
+          <img
+            src="/images/exposicions/Fundacio.svg"
+            class="w-full h-full object-cover"
+            alt="Fundació"
+          />
         </div>
-         <div class=" w-full py-16 sm:px-8 md:px-4 lg:px-12">
-            <div class=" w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10  md:space-y-0 items-start md:justify-between">
-               <div class=" w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-                    <img src="/images/exposicions/Fundacio3.png" class=" w-full h-full object-cover" alt="Fundació2">
-                </div>
-               <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
-                    <div class=" w-full  space-y-8 ">
-                        
-                        <p class="  text-black text-lg font-normal font-super-grotesk-ot  ">
-                         En el cas de Món Sant Benet, les visites al monestir del segle X han incorporat a partir de l’estiu del 2022 un nou sistema d’audio-guies que permeten gaudir de les experiències medieval i modernista en català, castellà, anglès i francès. Aquesta novetat ha reforçat encara més el caràcter immersiu d’aquestes experiències, que apel·len a tots els sentits, amb impressionants projeccions audiovisuals i hologrames.
-                        </p>
-                    </div>
-                     <div class=" w-full  space-y-8 border-t border-black pt-8">
-                        
-                        <p class="  text-black text-lg font-normal font-super-grotesk-ot  ">
-                          I a banda de les activitats i visites habituals a Món Sant Benet, s’ha diversificat l’oferta cultura i lúdica de l’equipament amb noves activitats com ara l’OH Festival, un cap de setmana de música, gastronomia, tallers i activitats per a tots els públics, que aspira a convertir-se en l’”slow festival” de la Catalunya Central.
-                        </p>
-                    </div>
-                     
-               </div>
-            </div>
-        </div>
-    </section>
+      </div>
+    </div>
+  </section>
 </template>
