@@ -80,7 +80,7 @@
     </PatronatCard>
     <PatronatCard>
       <template #img>
-        <img src="/images/patronat/oscarsánchezlbarra.svg" alt="" />
+        <img src="/images/patronat/oscarsanchezlbarra.svg" alt="" />
       </template>
       <template #name> Òscar Sánchez Ibarra </template>
       <template #role> EN REPRESENTACIÓ DE LA DIPUTACIÓ DE TARRAGONA </template>
