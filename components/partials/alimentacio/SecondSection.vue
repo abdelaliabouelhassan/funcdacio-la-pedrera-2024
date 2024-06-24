@@ -6,7 +6,7 @@
       >
         <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
           <img
-            src="/images/alimentacio/Fundació2.svg"
+            src="/images/alimentacio/fundacio2.svg"
             class="w-full h-full object-cover"
             alt="Fundació2"
           />
