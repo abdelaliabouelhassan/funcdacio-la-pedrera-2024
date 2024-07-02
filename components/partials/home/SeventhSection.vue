@@ -11,7 +11,7 @@
       </template>
       <template #number>
         <div
-          class="flex items-center gap-x-5 leading-10 text-Brown font-super-rotesk-comp"
+          class="flex items-center gap-x-5 leading-10 text-[#89562C] font-super-rotesk-comp"
         >
           <!-- <slot name="number" /> -->
           <span class="font-bold text-[4rem] shrink-0">
@@ -38,7 +38,7 @@
       </template>
       <template #number>
         <div
-          class="flex items-center gap-x-5 leading-10 text-[#E46955] font-super-rotesk-comp"
+          class="flex items-center gap-x-5 leading-10 text-Brown font-super-rotesk-comp"
         >
           <!-- <slot name="number" /> -->
           <span class="font-bold text-[4rem] shrink-0">

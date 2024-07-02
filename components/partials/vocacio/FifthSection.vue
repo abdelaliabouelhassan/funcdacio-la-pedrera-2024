@@ -20,15 +20,13 @@
             </h1>
             <p class="text-black text-lg font-normal font-super-grotesk-ot">
               La Fundació Catalunya La Pedrera impulsa la recerca científica amb
-              diversos programes. Un d’ells és <br />
-              <br />
-              el programa Talents, que ofereix oportunitats a joves
-              especialistes en medicina o infermeria per tal que puguin
-              desenvolupar el seu projecte de recerca dins els centres
-              d’investigació adjunts o propis dels centres hospitalaris. L’any
-              2023 es van atorgar 24 ajuts, repartits entre professionals de
-              l’Hospital Germans Trias i Pujol, del Clínic de Barcelona, del de
-              Bellvitge i de la Vall d’Hebron Institut d’Oncologia. <br />
+              diversos programes. Un d’ells és el programa Talents, que ofereix
+              oportunitats a joves especialistes en medicina o infermeria per
+              tal que puguin desenvolupar el seu projecte de recerca dins els
+              centres d’investigació adjunts o propis dels centres hospitalaris.
+              L’any 2023 es van atorgar 24 ajuts, repartits entre professionals
+              de l’Hospital Germans Trias i Pujol, del Clínic de Barcelona, del
+              de Bellvitge i de la Vall d’Hebron Institut d’Oncologia. <br />
               <br />
               També es dona suport a la recerca de primer nivell amb la Càtedra
               Fundació Catalunya La Pedrera - Ignacio Cirac amb l’Institut de
@@ -39,13 +37,11 @@
               La Fundació Catalunya La Pedrera, en col·laboració amb el diari La
               Vanguardia, promou el Premi Vanguardia de la Ciència per donar
               visibilitat i reconeixement a la recerca rellevant que es dugué a
-              terme a l’estat <br />
-              <br />
-              durant l’any anterior. En 2023 es va dur a terme la 12a edició, la
-              segona en què el premi s’atorgava a dones investigadores, per tal
-              de contribuir a reconèixer el paper de les dones en la recerca i a
-              la generació referents femenins en aquest camp. <br />
-              <br />
+              terme a l’Estat durant l’any anterior. En 2023 es va dur a terme
+              la 12a edició, la segona en què el premi s’atorgava a dones
+              investigadores, per tal de contribuir a reconèixer el seu paper en
+              la recerca i a la generació de referents femenins en aquest camp.
+              <br /><br />
               L’any 2023 la Fundació també va donar suport, com a col·laboradora
               destacada, a la 1a tripulació Hypatia Mars a la Mars Desert
               Research Station (MDRS), l’estació anàloga de Mart a Utah (EUA).

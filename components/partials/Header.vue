@@ -71,18 +71,18 @@
         <!-- md screen menu -->
         <nav class="hidden md:flex gap-x-8 h-fit">
           <router-link to="/patronat" class="text-xl" aria-label="Patronat">
-            Patronat</router-link
+            El Patronat</router-link
           >
           <!-- <router-link to="/equip" class="text-xl" aria-label="Equip">Equip</router-link> -->
           <router-link to="/balanc" class="text-xl" aria-label="Balanç"
             >Balanç econòmic</router-link
           >
-          <!-- <router-link
+          <router-link
             to="/ecosistemes"
             class="text-xl"
             aria-label="Ecosistemes"
             >Ecosistemes</router-link
-          > -->
+          >
           <!-- <router-link to="/impact" class="text-xl" aria-label="Impacte social">
             Impacte social</router-link
           > -->
@@ -148,7 +148,7 @@
               to="/patronat"
               class="text-[2rem] block"
               aria-label="patronat"
-              >Patronat</router-link
+              >El Patronat</router-link
             >
             <!-- <router-link
               @click="showMenu = !showMenu"

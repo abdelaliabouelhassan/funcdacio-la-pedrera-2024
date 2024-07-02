@@ -13,16 +13,15 @@
             </h1>
             <p class="text-black text-lg font-normal font-super-rotesk-comp">
               El col·legi Oms i de Prat de Manresa va donar continuïtat al
-              <span class="font-bold">projecte pedagògic </span> i de
-              transformació progressiva dels espais per facilitar la
+              <span class="font-bold">projecte pedagògic</span> i de
+              transformació dels espais per facilitar la
               <span class="font-bold">innovació educativa</span> amb l’objectiu
-              d’aconseguir que tot l’alumnat pugui desenvolupar les seves
-              potencialitats i talents al màxim. La comunitat educativa de 2.175
-              persones i quasi 700 alumnes, de 24 nacionalitats, ha continuat
-              desplegant l’aposta per consolidar el procés d’innovació amb
-              metodologies flexibles, incorporant i validant situacions
-              d’aprenentatge que afavoreixen una educació competencial, la
-              cohesió de grup i l’esperit crític a través de la seva mirada
+              d’aconseguir que tot l’alumnat pugui desenvolupar el seu potencial
+              i talents al màxim. La comunitat educativa de 2.175 persones i
+              quasi 700 alumnes, de 24 nacionalitats, ha consolidat el procés
+              d’innovació amb metodologies flexibles, incorporant i validant
+              situacions d’aprenentatge que afavoreixen una educació
+              competencial, la cohesió de grup i l’esperit crític amb una mirada
               holística de l’educació i acompanyament continuo i proper a
               l’alumnat. <br />
               <br />
@@ -32,12 +31,13 @@
                 >educació científica i tecnològica d’excel·lència</span
               >
               amb projectes propis i compartits amb la comunitat científica del
-              territori i amb l’expertesa dels programes d’impuls de vocacions i
-              el talent científic de la Fundació Catalunya La Pedrera. <br />
+              territori i amb l’expertesa dels programes d’impuls. Això es farà
+              a través de les vocacions i el talent científic de la Fundació
+              Catalunya La Pedrera. <br />
               <br />
               L’any 2023 es va dur a terme
               <span class="font-bold">formació a tot l’equip docent</span> com a
-              procés vivencial de l’avaluació formativa i
+              procés vivencial de l’avaluació
               <span class="font-bold"
                 >formadora, codocència i col·laboració docent</span
               >
@@ -48,34 +48,31 @@
               L’escola va fer un pas molt important per avançar en la seva
               <span class="font-bold">sostenibilitat</span> energètica i, fruit
               d’aquest compromís, el març del 2023 va estrenar una instal·lació
-              de plaques solars fotovoltaiques a la coberta de l’escola,
-              projecte que també incideix en l’àmbit pedagògic per treballar amb
-              l’alumnat aprofundint en els aprenentatges necessaris per a
-              l’assoliment globalitzat de les competències en l’àmbit de
-              l’educació ambiental i la sostenibilitat. Durant l’estiu també es
-              van renovar les 6 aules de tota la tercera planta i passadissos de
-              primària i es van millorar àrees i sanejar la coberta del pavelló.
-              <br />
+              de plaques solars fotovoltaiques a la coberta de l’escola. El
+              projecte també incideix en l’àmbit pedagògic per treballar amb
+              l’alumnat aprofundint en els aprenentatges de les competències en
+              l’àmbit de l’educació ambiental i la sostenibilitat. Durant
+              l’estiu també es van renovar les 6 aules de tota la tercera planta
+              i passadissos de primària i es van millorar àrees i sanejar la
+              coberta del pavelló. <br />
               <br />
               Amb finalitat preventiva i de mitigar els efectes i reducció de
-              l’impacte de les adversitats climàtiques es va elaborar i
-              desplegar el
+              l’impacte del canvi climàtic es va elaborar i desplegar el
               <span class="font-bold"
                 >Pla d’Organització de Centre per les Altes Temperatures</span
               >
               instal·lant 3 racons climatitzats, fonts d’aigua als passadissos
               de totes les plantes, al menjador i al vestíbul de l’edifici del
-              bloc d’Educació Infantil i s’han instal·lat pèrgoles, jardineres
-              amb arbrat i bancs al pati. <br />
+              bloc d’Educació Infantil i pèrgoles, jardineres i bancs al pati.
+              <br />
               <br />
               Per tercer any es va continuar amb el
               <span class="font-bold">projecte de recerca europeu NEST</span>
               (Novice Educator support and Teachers) juntament amb centres
               d’Àustria, Bèlgica, Bulgària, Romania, i amb la Universitat
-              Alemanya UDE, havent-se consolidat i escalonat progressivament la
-              figura de mentor entre el professorat experimentat com a agent
-              clau en el procés de formació i acompanyament a docents novells.
-              <br />
+              Alemanya UDE, havent-se consolidat la figura de mentor entre el
+              professorat experimentat com a agent clau en el procés de formació
+              i acompanyament a docents novells. <br />
               <br />
               En el marc del projecte
               <span class="font-bold">Etwinning Erasmus</span>, es va fer a Món
@@ -84,9 +81,9 @@
               professorat provinents de centres d’Alemanya, Lituània, Suècia,
               Croàcia i Turquia. <br />
               <br />
-              Durant l’any 2023 va continuar la col·laboració amb l<span
-                class="font-bold"
-                >’Escola Superior de Música de Catalunya (ESMUC), Universitat
+              Durant l’any 2023 va continuar la col·laboració amb
+              <span class="font-bold"
+                >l’Escola Superior de Música de Catalunya (ESMUC), Universitat
                 Ramon Llull, Universitat Central de Catalunya i amb la UPC de
                 Manresa</span
               >, acollint a l’escola a 6 estudiants desenvolupant les seves
@@ -101,7 +98,7 @@
               de la Catalunya Central. Sota el paraigües del projecte Manresa
               Ciutat Europea de l’Esport 23-24 es consolida com a model de
               referència educativa europea orientat a l’excel·lència esportiva i
-              educativa el marc de l’escola inclusiva
+              educativa el marc de l’escola inclusiva.
             </p>
           </div>
         </div>

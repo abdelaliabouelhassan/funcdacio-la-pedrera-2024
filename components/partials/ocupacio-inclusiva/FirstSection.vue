@@ -96,28 +96,28 @@
           >
             COOPERATIVA MANS
           </h1>
-          <p class="text-black text-lg font-normal font-super-grotesk-ot">
+          <p class="text-black text-lg font-normal font-super-rotesk-comp">
             Mitjançant la Cooperativa MANS, La Fundació Catalunya La Pedrera
             treballa per generar oportunitats laborals i facilitar l’accés al
             món laborar per a persones en risc d’exclusió. MANS es dedica a la
             comercialització, envasat i transformació de fruita i verdura
-            ecològica. Un <br />
-            <br />
-            total de 44 persones en risc d’exclusió han treballat a MANS al
-            llarg de l’any 2023, i 8 treballadors d’inserció van aconseguir
-            l’accés a empreses ordinàries. Aquestes dades positives han vingut
-            acompanyades d’un augment de l’activitat, una vegada s’ha superat la
-            dificultat econòmica inicial derivada de la guerra a Ucraïna i
-            l’encariment de preus. La relació amb els pagesos de proximitat s’ha
-            vist enfortida un cop ja s’ha finalitzat el projecte de certificació
-            conjunta de tots els processos des del camp fins a l’entrega del
-            producte al supermercat. Fruit d’un creixent reconeixement per part
-            del sector i del consumidor, MANS <br />
-            <br />
-            ha pogut ampliar el volum de l’activitat d’envasat i la de producte
-            elaborat fet a l’obrador de la cooperativa. També s’han seguit
-            treballant noves línies d’activitat que siguin motores per a la
-            creació de llocs de treball per a persones en risc d’exclusió.
+            ecològica. Un total de
+            <span class="font-bold"
+              >44 persones en risc d’exclusió han treballat a MANS al llarg de
+              l’any 2023, i 8 treballadors d’inserció van aconseguir l’accés a
+              empreses ordinàries</span
+            >. Aquestes dades positives han vingut acompanyades d’un augment de
+            l’activitat, una vegada s’ha superat la dificultat econòmica inicial
+            derivada de la guerra a Ucraïna i l’encariment de preus. La relació
+            amb els pagesos de proximitat s’ha vist enfortida un cop ja s’ha
+            finalitzat el projecte de certificació conjunta de tots els
+            processos des del camp fins a l’entrega del producte al supermercat.
+            Fruit d’un creixent reconeixement per part del sector i del
+            consumidor, MANS ha pogut ampliar el volum de l’activitat d’envasat
+            i la de producte elaborat fet a l’obrador de la cooperativa. També
+            s’han seguit treballant noves línies d’activitat que siguin motores
+            per a la creació de llocs de treball per a persones en risc
+            d’exclusió.
           </p>
         </div>
       </div>

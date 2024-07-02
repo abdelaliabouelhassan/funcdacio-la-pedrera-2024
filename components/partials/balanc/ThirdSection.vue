@@ -168,7 +168,7 @@
         </div>
 
         <div
-          class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-Brown text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full"
+          class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-[#AB896A] text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full"
         >
           <div class="">GRUP FUNDACIÓ CATALUNYA LA PEDRERA</div>
           <div class="shrink-0"><Number :number="456" /></div>
@@ -208,7 +208,7 @@
         </div>
 
         <div
-          class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-Brown text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full"
+          class="w-full py-5 px-2.5 flex justify-between items-center gap-x-4 bg-[#AB896A] text-white font-super-rotesk-comp tracking-[2px] font-bold rounded-r-full"
         >
           <div class="">IMPACTE LABORAL DIRECTE I INDUÏT</div>
           <div class="shrink-0"><Number :number="778" /></div>

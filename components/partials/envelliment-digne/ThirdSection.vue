@@ -15,8 +15,7 @@
               Un total de 304 persones grans autònomes han participat durant el
               2023 als tallers de memòria i d’activitat física, en el marc del
               projecte prevenció del deteriorament cognitiu, amb l’objectiu de
-              mantenir les seves capacitats cognitives i físiques el màxim de
-              temps possible.
+              mantenir les seves capacitats el màxim de temps possible.
             </p>
           </div>
           <div class="w-full space-y-8 border-t border-black pt-4">

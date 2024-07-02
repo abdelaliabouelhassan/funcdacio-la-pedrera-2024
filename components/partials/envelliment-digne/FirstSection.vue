@@ -39,32 +39,32 @@
             >
               PROGRAMA DE REFORÇ I ESTIMULACIÓ DE LA MEMÒRIA I LA SALUT
             </h1>
-            <p class="text-black text-lg font-normal font-super-grotesk-ot">
+            <p class="text-black text-lg font-normal font-super-rotesk-comp">
               L’any 2023 la Fundació Catalunya La Pedrera s’ha consolidat com a
-              referent en <br />
+              referent en salut cognitiva als diferents pobles i ciutats on està
+              present arreu de Catalunya.
+              <span class="font-bold"
+                >El programa de reforç de la memòria ha atès un total de 2.773
+                persones grans</span
+              >
+              amb fases inicials d’Alzheimer i altres demències i les seves
+              famílies, fent que, a través d’una estimulació integral –
+              cognitiva, física, social i emocional- puguin mantenir les seves
+              capacitats i autonomia per més temps, alhora que gaudeixen de les
+              activitats en grup que els oferim als espais de la Fundació.
               <br />
-              salut cognitiva als diferents pobles i ciutats on està present
-              arreu de Catalunya. El Programa de Reforç de la Memòria ha atès un
-              total de 2.773 persones grans amb fases inicials d’Alzheimer i
-              altres demències i les seves famílies, fent que, a través d’una
-              estimulació integral – cognitiva, física, social i emocional-
-              puguin mantenir les seves capacitats i autonomia per més temps,
-              alhora que gaudeixen de les activitats en grup que els oferim als
-              espais de la Fundació. <br />
               <br />
               Ha estat un any amb un increment extraordinari en el nombre de
-              persones participants al Programa, amb un 39% de creixement
+              persones participants al programa, amb un 39% de creixement
               respecte l’any anterior. Això ha estat fruit de la tasca intensiva
               de difusió que duem a terme a tots els territoris on estem
               presents, i de l’elevat grau de satisfacció de les persones
-              participants. <br />
-              <br />
-              El Programa és una teràpia no farmacològica complementària als
-              tractaments prescrits per metges de primària i especialistes, i
-              forma part de la prescripció social en l’àmbit sanitari. L’any
-              2023 un total de 124 Centres d’Atenció Primària i 31 Hospitals
-              catalans han derivat 1.322 persones als espais de la Fundació, amb
-              657 persones inscrites.
+              participants. El programa és una teràpia no farmacològica
+              complementària als tractaments prescrits per metges de primària i
+              especialistes, i forma part de la prescripció social en l’àmbit
+              sanitari. L’any 2023 un total de 124 Centres d’Atenció Primària i
+              31 Hospitals catalans han derivat 1.322 persones als espais de la
+              Fundació, amb 657 persones inscrites.
             </p>
           </div>
           <div class="w-full space-y-8 border-t border-black">
@@ -81,12 +81,12 @@
               hem obert el servei a un nou espai, el de Tarragona, arribant als
               17 espais en tot el territori. <br />
               <br />
-              La Fundació Alicia ha dut a terme un projecte de millora del
-              servei dels Dinars en Companyia, que ha tingut en compte tant la
-              vessant de nutrició, adaptant-la a les especificitats de les
-              persones grans que hi participen, com la d’organització dels
-              equips i disseny dels espais. Està previst posar en marxa aquest
-              projecte durant l’any 2024.
+              La Fundació ha dut a terme un projecte de millora del servei dels
+              Dinars en Companyia, que ha tingut en compte tant la vessant de
+              nutrició, adaptant-la a les especificitats de les persones grans
+              que hi participen, com la d’organització dels equips i disseny
+              dels espais. Està previst posar en marxa aquest projecte durant
+              l’any 2024.
             </p>
           </div>
         </div>

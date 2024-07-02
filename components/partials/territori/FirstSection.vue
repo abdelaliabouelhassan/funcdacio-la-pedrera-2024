@@ -43,34 +43,33 @@
               intensificat l’ús de les energies renovables, instal·lant plaques
               fotovoltaiques a l’escola Oms i de Prat de Manresa, i a Món Natura
               Delta, a Amposta, que es sumen a la producció Fotovoltaica de
-              l’Hotel Món i a l’edifici de la Fàbrica, a Món Sant Benet. A final
-              d’any es va realitzar l’adquisició del salt hidroelèctric de Món
-              San Benet. <br />
+              l’Hotel Món i a l’edifici de la Fàbrica, a Món Sant Benet. <br />
               <br />
-              Durant l’any 2023 hem produït 499 Mwh, contribuint a la disminució
-              de l’emissió de 130 tones de CO2, generant de manera sostenible i
-              autoproduïda el 9% del total de l’energia elèctrica consumida a la
-              Fundació. <br />
+              A final d’any es va realitzar l’adquisició del salt hidroelèctric
+              de Món San Benet. Durant l’any 2023 hem produït 499 Mwh,
+              contribuint a la disminució de l’emissió de 130 tones de CO2,
+              generant de manera sostenible i autoproduïda el 9% del total de
+              l’energia elèctrica consumida a la Fundació. <br />
               <br />
               A Món Sant Benet s’ha continuat amb el projecte de plaques
-              fotovoltaiques a l’hotel Món i a l’edifici la Fàbrica, a Món Sant
-              Benet on s’han generat 470 Mwh, el 23% de l’energia elèctrica
-              consumida a tot Món Sant Benet, contribuint a la disminució de
-              l’emissió de 117 tones de CO2. <br />
+              fotovoltaiques a l’hotel Món i a l’edifici la Fàbrica on s’han
+              generat 470 Mwh, el 23% de l’energia elèctrica consumida a tot Món
+              Sant Benet, contribuint a la disminució de l’emissió de 117 tones
+              de CO2. <br />
               <br />
-              Durant el 2023, a l’Hotel Món s’ha seguit el procés de consultoria
-              per aconseguir el segell BIOSPHERE, i que reconeix l’aposta per
-              una gestió responsable i respectuosa amb el medi ambient, les
+              Durant el 2023 a l’Hotel Món s’ha seguit el procés de consultoria
+              per aconseguir el segell BIOSPHERE que reconeix l’aposta per una
+              gestió responsable i respectuosa amb el medi ambient, les
               condicions laborals, la cultura popular, els habitants del
               territori i el desenvolupament soci-econòmic de la destinació
-              Barcelona i el seu entorn <br />
+              Barcelona i el seu entorn. <br />
               <br />
               Finalment, s’ha adquirit la turbina hidroelèctrica que hi ha a la
               Fàbrica vella, una turbina en règim fluent de 400 kw de potència
               que permet generar a l’entorn de 800 Mwh anuals, que complementa
               tot el sistema de canal, presa i escala de peixos, fent una
               explotació hidroelèctrica on es prioritza la sostenibilitat i
-              impacte mínim del sistema, a la vegada que es sona continuïtat a
+              l’impacte mínim del sistema, a la vegada que es dona continuïtat a
               l’aprofitament hidràulic d’un antic canal de colònia tèxtil.
             </p>
           </div>
@@ -85,24 +84,25 @@
               contribuir a l’adaptació dels boscos al canvi climàtic, amb
               l’objectiu de reduir el risc d’incendis forestals i desenvolupar
               models de bioeconomia circular. La Fundació disposa d’un important
-              Capital Natural (la Xarxa d’Espais Natura i altres espais
-              gestionats en custòdia del territori), que ens permet assajar i
-              posar en pràctica un ambiciós programa de gestió de boscos. <br />
+              capital natural (la Xarxa d’Espais Natura i altres espais
+              gestionats en custòdia del territori), que permet assajar i posar
+              en pràctica un ambiciós programa de gestió de boscos. <br />
               <br />
-              Així, durant l’any 2023 hem elaborat un Pla d’actuacions 2023-2025
-              als nostres 10 espais forestals per tal d’actualitzar els plans de
-              gestió forestal i realitzar actuacions urgents en més de 380 ha
-              dels nostres boscos. Durant el 2023 s’han executat actuacions als
-              espais de Can Puig de Fitor a les Gavarres, al Congost de
-              Fraguerau al Montsant, al Bosc de Vilalta a les Muntanyes de
-              Prades i a la Muntanya d’Alinyà al Prepirineu de Lleida. <br />
+              Així, durant l’any 2023 es va elaborar un Pla d’actuacions
+              2023-2025 als 10 espais forestals de la Fundació per tal
+              d’actualitzar els plans de gestió forestal i realitzar actuacions
+              urgents en més de 380 ha de boscos. Durant el 2023 s’han executat
+              actuacions als espais de Can Puig de Fitor a les Gavarres, al
+              Congost de Fraguerau al Montsant, al Bosc de Vilalta a les
+              Muntanyes de Prades i a la Muntanya d’Alinyà al Prepirineu de
+              Lleida. <br />
               <br />
               A finals d’any ha estat aprovat un important projecte de
               bioeconomia forestal dins el “Plan de recuperación, transformación
               y resiliència” finançat amb els Fons europeus Next Generation, del
               qual la Fundació ha estat impulsora i coordinadora, anomenat
               “BIO-FOR-PIRI- Incendis forestals al Pirineu: convertir l’amenaça
-              en oportunitat de esenvolupament rural a través de l’economia
+              en oportunitat de desenvolupament rural a través de l’economia
               forestal”. Amb una dotació de més de 2,2 milions d’euros, permetrà
               fer actuacions de prevenció d’incendis i gestió forestal a la
               Muntanya d’Alinyà i a la zona del Pre-pirineu compresa entre l’Alt
@@ -113,7 +113,7 @@
               bioconstrucció. <br />
               <br />
               També dins el projecte LIFE Uncinata inclòs al programa LIFE de la
-              Unió Europea, hem iniciat enguany actuacions a la Muntanya
+              Unió Europea, s’ha iniciat enguany actuacions a la Muntanya
               d’Alinyà per a la conservació i gestió sostenible dels boscos de
               pi negre.
             </p>

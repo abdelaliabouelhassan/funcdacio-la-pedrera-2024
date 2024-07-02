@@ -6,11 +6,11 @@
       >
         <div class="flex flex-col text-center space-y-2">
           <span
-            class="text-Brown font-medium leading-[3.75rem] font-super-grotesk-web text-[8rem]"
+            class="text-[#89562C] font-medium leading-[3.75rem] font-super-grotesk-web text-[8rem]"
             ><Number :number="5.167"
           /></span>
           <span
-            class="text-Brown font-medium leading-[2.5rem] font-super-rotesk-comp pt-7 text-[4rem]"
+            class="text-[#89562C] font-medium leading-[2.5rem] font-super-rotesk-comp pt-7 text-[4rem]"
             >persones</span
           >
         </div>
@@ -42,13 +42,13 @@
           <p class="text-black text-lg font-normal font-super-grotesk-ot">
             La Fundació Catalunya La Pedrera vol millorar l’alimentació de
             tothom, sigui quina sigui la seva situació vital, i especialment de
-            les persones que estan patint un problema de salut. A finals
-            d’octubre de 2022, es va posar en marxa la plataforma web ‘Menjar
-            durant el tractament del càncer’, una eina digital i gratuïta, un
-            espai a la xarxa per ajudar les persones que estan en tractament
-            oncològic, els seus familiars, cuidadors i també personal sanitari,
-            a tenir cura de la seva alimentació durant el procés, sense
-            renunciar a gaudir del menjar. <br />
+            les persones que estan patint un problema de salut. Es va posar en
+            marxa la plataforma web ‘Menjar durant el tractament del càncer’,
+            una eina digital i gratuïta, un espai a la xarxa per ajudar les
+            persones que estan en tractament oncològic, els seus familiars,
+            cuidadors i també personal sanitari, a tenir cura de la seva
+            alimentació durant el procés, sense renunciar a gaudir del menjar.
+            <br />
             <br />
             L’objectiu se centra a ajudar les persones amb càncer a mantenir un
             estat nutricional òptim, explicant les bases de l’alimentació que

@@ -36,27 +36,27 @@ export default {
           {
             label: "Personal d’Estructura",
             backgroundColor: "#9DA17C",
-            data: [10, 16, 19, 17, 19, 45],
+            data: [10, 16, 19, 17, 19, 20],
           },
           {
             label: "MANS",
             backgroundColor: "#80676B",
-            data: [49, 50, 53, 51, 52, 83],
+            data: [49, 50, 53, 51, 52, 54],
           },
           {
             label: "Horts de Sant Benet",
             backgroundColor: "#99B5B6",
-            data: [52, 53, 57, 64, 69, 100],
+            data: [50, 53, 57, 64, 69, 70],
           },
           {
             label: "Topromi",
             backgroundColor: "#D2B569",
-            data: [54, 57, 64, 75, 78, 130],
+            data: [54, 57, 64, 75, 78, 74],
           },
           {
             label: "Molí d’en Puigver",
             backgroundColor: "#DFD3BB",
-            data: [58, 62, 69, 79, 83, 139],
+            data: [58, 62, 69, 78, 82, 88],
           },
         ],
       },

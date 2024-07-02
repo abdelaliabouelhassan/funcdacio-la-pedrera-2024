@@ -22,12 +22,13 @@
               La comunitat de Fellows de la Fundació Catalunya La Pedrera és un
               grup format per estudiants que han participat en diversos
               programes de talent científic de la Fundació. Aquesta comunitat
-              s’ha convertit en una de les més nombroses i actives en el camp de
-              les joves científiques a Catalunya. A l’any 2023, la comunitat ha
+              s’ha convertit en una de les més nombroses i actives entre els
+              joves científiques a Catalunya. A l’any 2023, la comunitat ha
               crescut fins arribar a 924 membres. <br />
               <br />
               Durant tot l’any han organitzat nombroses activitats al voltant
               del món de la ciència, entre les que destaquen: <br />
+
               <br />
               <span class="text-Turquoise font-bold font-super-rotesk-comp">
                 Ambaixad@rs de la Ciència</span
@@ -51,14 +52,14 @@
               <span class="text-Turquoise font-bold font-super-rotesk-comp">
                 Fellows’ Corner</span
               >
-
+              <br /><br />
               La plataforma en línia #FellowsCorner va seguir creixent en
-              perfils activats de membres de la Comunitat de Fellows de la
-              Fundació Catalunya la Pedrera. Aquesta iniciativa ofereix a la
-              Comunitat la possibilitat de rebre i compartir informació,
+              perfils activats de membres de la comunitat de Fellows de la
+              Fundació Catalunya La Pedrera. Aquesta iniciativa ofereix a la
+              comunitat la possibilitat de rebre i compartir informació,
               connectar i col·laborar, mantenir-se al dia d’oportunitats de
               formació i professionals, i estar al corrent del que passa dins la
-              Comunitat.
+              comunitat.
               <br />
               <br />
               <span class="text-Turquoise font-bold font-super-rotesk-comp">
@@ -110,10 +111,10 @@
               >
               <br />
               <br />
-              La Comunitat de Fellows va seguir duent a terme col·laboracions de
-              mentoria, en les quals perfils amb una determinada trajectòria
-              acadèmica o professional guien a altres membres de la Comunitat
-              que es troben en fases més inicials del seu camí.
+              La comunitat de Fellows va seguir duent a terme col·laboracions de
+              mentoria en les quals perfils amb una determinada trajectòria
+              acadèmica o professional guien a altres membres de la comunitat
+              que es troben en fases més inicials del seu camí.
             </p>
           </div>
         </div>

@@ -22,20 +22,17 @@
           <p class="text-black text-lg font-normal font-super-grotesk-ot">
             El projecte d’explotació agroecològica dels Horts de Sant Benet és
             un altre pilar important en el programa d’inserció social i laboral
-            de la Fundació Catalunya La Pedrera. <br />
-            <br />
-            Als Horts de Sant Benet l’any 2023 s’han contractat 12 persones en
-            risc d’exclusió, la majoria joves, derivades dels ajuntaments
-            propers i d’entitats socials <br />
-            <br />
-            del Bages. La major part de la producció s’ha planificat
-            conjuntament amb la cooperativa MANS, i també s’ha venut a la
-            indústria agroalimentària del Bages, com Aneto i Vegetalia, i a
-            botigues d’aquesta mateixa comarca. Els cultius principals han estat
-            la col, el porro, la carbassa, la ceba i la remolatxa. El treball
-            conjunt i de continuïtat amb els serveis socials dels ajuntaments i
-            entitats del Bages ha permès que 4 joves hagin trobat feina al
-            mercat de treball ordinari.
+            de la Fundació Catalunya La Pedrera. Als Horts de Sant Benet l’any
+            2023 s’han contractat 12 persones en risc d’exclusió, la majoria
+            joves, derivades dels ajuntaments propers i d’entitats socials del
+            Bages. La major part de la producció s’ha planificat conjuntament
+            amb la cooperativa MANS, i també s’ha venut a la indústria
+            agroalimentària del Bages, com Aneto i Vegetalia, i a botigues
+            d’aquesta mateixa comarca. Els cultius principals han estat la col,
+            el porro, la carbassa, la ceba i la remolatxa. El treball conjunt i
+            de continuïtat amb els serveis socials dels ajuntaments i entitats
+            del Bages ha permès que 4 joves hagin trobat feina al mercat de
+            treball ordinari.
           </p>
         </div>
       </div>

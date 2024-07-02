@@ -6,11 +6,11 @@
       >
         <div class="flex flex-col text-center space-y-2 w-[16.5rem]">
           <span
-            class="text-[#E46955] font-bold lg:font-medium leading-[3.75rem] sm:font-super-grotesk-web text-[4rem] sm:text-[5rem] lg:text-[7rem]"
+            class="text-Brown font-bold lg:font-medium leading-[3.75rem] sm:font-super-grotesk-web text-[4rem] sm:text-[5rem] lg:text-[7rem]"
             ><Number :number="686.321"
           /></span>
           <span
-            class="text-[#E46955] font-medium leading-[2.5rem] font-super-rotesk-comp text-center pl-0 sm:pl-6 lg:pl-16 lg:pt-4 text-[4rem]"
+            class="text-Brown font-medium leading-[2.5rem] font-super-rotesk-comp text-center pl-0 sm:pl-6 lg:pl-16 lg:pt-4 text-[4rem]"
             >persones</span
           >
         </div>

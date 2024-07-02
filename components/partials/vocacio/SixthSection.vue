@@ -4,7 +4,7 @@
   >
     <div class="flex flex-col items-center gap-y-4 pb-8">
       <p
-        class="max-w-[511px] text-Turquoise font-super-rotesk-comp font-bold text-xl"
+        class="max-w-[511px] text-Turquoise font-super-rotesk-comp font-bold text-xl hidden"
       >
         El programa reforça la seva atenció als i les aprenents amb persones
         voluntàries i essent centre formador d’estudiants universitaris en

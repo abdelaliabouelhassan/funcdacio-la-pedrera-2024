@@ -16,16 +16,16 @@
               cursos de diferents disciplines, ampliant l’objectiu d’estimular
               les vocacions cientificotecnològiques entre estudiants de
               Batxillerat amb interès per la ciència, la tecnologia i la
+              recerca. <br />
+              <br />
+              Al llarg de diversos dissabtes durant el curs acadèmic, més de 293
+              joves han fet sessions teòrico-pràctiques a Centres de Recerca on
+              han pogut descobrir les diverses línies de investigació,
+              interactuar amb perfils professionals referents i conèixer els
+              reptes i funcionament de la disciplina científica que han triat.
+              També dur a terme activitats experimentals vivint una experiència
+              immersiva en la realitat de les professions en el camp de la
               recerca.
-              <br />
-              <br />
-              versos dissabtes, durant el curs acadèmic, més de 293 joves han
-              fet sessions teòrico-pràctiques a Centres de Recerca, on han pogut
-              descobrir les diverses línies de recerca, conèixer i interactuar
-              amb perfils professionals referents, reptes i funcionament de la
-              disciplina científica que han triat, i hi han pogut dur a terme
-              activitats experimentals, vivint una experiència immersiva en la
-              realitat de les professions en el camp de la recerca.
             </p>
           </div>
           <div class="w-full space-y-8 border-t border-black pt-5">
@@ -39,8 +39,7 @@
               col·laboració amb els principals hospitals de l’àrea metropolitana
               de Barcelona i va donar un pas endavant a l’iniciar una rèplica
               d’aquest programa a Madrid, en aliança amb els hospitals de Puerta
-              de Hierro i La Paz.
-              <br />
+              de Hierro i La Paz. <br />
               <br />
               Als 156 joves de Catalunya que van fent 18 sessions als 6
               hospitals catalans implicats (Hospital de Sant Pau, Hospital del
