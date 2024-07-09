@@ -3,17 +3,9 @@
     class="h-screen max-h-[63.6rem] relative flex justify-center items-center"
   >
     <img
-      v-if="width <= 768 && width != null"
-      class="z-0 absolute top-0 left-0 h-full w-full object-cover object-center md:hidden"
+      class="z-0 absolute top-0 left-0 h-full w-full object-cover"
       src="/images/alimentacio/hero-background.webp"
-      alt="hero"
-      srcset=""
-    />
-    <img
-      v-if="width > 768 && width != null"
-      class="hidden z-0 absolute top-0 left-0 h-full w-full object-cover object-left-top md:block"
-      src="/images/alimentacio/hero-background-md.webp"
-      alt="hero"
+      alt=""
       srcset=""
     />
 
@@ -35,12 +27,4 @@
   </section>
 </template>
 
-<script setup>
-const width = ref(null);
-onMounted(() => {
-  width.value = window.innerWidth;
-  window.addEventListener("resize", () => {
-    width.value = window.innerWidth;
-  });
-});
-</script>
+<script setup></script>
