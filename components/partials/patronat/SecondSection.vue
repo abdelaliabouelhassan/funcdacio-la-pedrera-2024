@@ -173,7 +173,7 @@
     </PatronatCard>
     <PatronatCard>
       <template #img>
-        <img src="/images/patronat/Josep-Menéndez-Cabrera.svg" alt="" />
+        <img src="/images/patronat/Josep-Menéndez-Cabrera.png" alt="" />
       </template>
       <template #name> Josep Menéndez Cabrera </template>
       <template #role> PERSONA DE RECONEGUT PRESTIGI </template>

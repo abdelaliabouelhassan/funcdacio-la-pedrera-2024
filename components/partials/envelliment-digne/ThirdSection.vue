@@ -34,13 +34,15 @@
               seves emocions i millorar el seu benestar emocional.
             </p>
           </div>
-          <div class="w-full space-y-2 border-t border-black pt-4">
+          <div class="w-full border-t border-black pt-14">
             <span
-              class="text-Ocre font-bold leading-[3.75rem] font-super-rotesk-comp text-[2rem]"
+              class="text-Ocre font-bold leading-[3.75rem] font-super-rotesk-comp text-[128px]"
               ><Number :number="370"
             /></span>
-            <p class="text-black text-lg font-normal font-super-grotesk-ot">
-              persones s’han beneficiat d’aquest servei.
+            <p class="text-Ocre font-bold font-super-rotesk-comp text-[32px]">
+              persones s’han <br />
+              beneficiat d’aquest <br />
+              servei.
             </p>
           </div>
         </div>

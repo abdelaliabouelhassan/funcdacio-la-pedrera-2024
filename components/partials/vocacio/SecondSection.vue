@@ -73,7 +73,7 @@
               centres de recerca, hospitals i universitats. El BIYSC és ja un
               programa consolidat a nivell internacional com a programa de
               referència i ben posicionat entre els que s’ofereixen per a joves
-              amb alt interès i talent en aquest sector. PERSONES
+              amb alt interès i talent en aquest sector.
             </p>
           </div>
         </div>

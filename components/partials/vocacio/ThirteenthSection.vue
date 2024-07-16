@@ -10,7 +10,7 @@
           alt="article-img-2"
         />
       </div>
-      <div class="w-full md:max-w-[27.5rem] space-y-12 px-4 sm:px-0">
+      <div class="w-full md:max-w-[27.5rem] space-y-2 px-4 sm:px-0">
         <div class="w-full space-y-8 border-t border-black">
           <h1
             class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-8"
@@ -30,12 +30,12 @@
             ciutat amb la participació de 129 músics.
           </p>
         </div>
-        <div class="w-full space-y-8 border-t border-black pt-4 text-Turquoise">
+        <div class="w-full -space-y-2 text-Turquoise">
           <Number
             :number="4.374"
-            class="font-bold font-super-rotesk-comp text-[32px]"
+            class="font-bold font-super-grotesk-web text-[128px]"
           />
-          <p class="text-lg font-normal font-super-rotesk-comp">PERSONES</p>
+          <p class="text-[32px] font-bold font-super-rotesk-comp">PERSONES</p>
         </div>
       </div>
     </div>

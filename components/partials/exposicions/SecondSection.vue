@@ -6,7 +6,7 @@
       >
         <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
           <img
-            src="/images/exposicions/Fundacio_Catalunya.svg"
+            src="/images/exposicions/Fundacio2.svg"
             class="w-full h-full object-cover"
             alt="Fundació2"
           />
@@ -67,25 +67,44 @@
             </h1>
             <p class="text-black text-lg font-normal font-super-rotesk-comp">
               El projecte Plensa: poesia del silenci a La Pedrera ha tingut una
-              especificitat molt especial <br />
-              ja que s’han situat obres de l’artista al llarg de l’edifici així
-              com una obra de gran format  al xamfrà, davant la façana. Aquest
-              fet va portar a filmar els processos del trasllat de les  obres al
-              terrat i a les golfes amb unes grans grues, procés que va ser molt
-              espectacular i singular i cobert per multitud de mitjans. Així
-              mateix, l’entrada de diverses obres més a la sala d’exposicions
-              per la finestra de l’edifici així com el muntatge del gran cap de
-              la Flora a la façana també va ser espectacular i únic, cosa que ha
-              proporcionat un material irrepetible per a explicar l’artista i
-              les seves obres envers el seu projecte expositiu i l’edifici.
-              <br />
-              <br />
-              L’audiovisual curt es mostra a l’exposició i el llarg es va
-              presentar en el context del Festival Internacional DOCS BCN el
-              passat mes de maig.
+              especificitat molt especial ja que s’han situat obres de l’artista
+              al llarg de l’edifici així com una obra de gran format  al xamfrà,
+              davant la façana. Aquest fet va portar a filmar els processos del
+              trasllat de les obres al terrat i a les golfes amb unes grans
+              grues, procés que va ser molt espectacular i singular i cobert per
+              multitud de mitjans. Així mateix, l’entrada de diverses obres més
+              a la sala d’exposicions per la finestra de l’edifici així com el
+              muntatge del gran cap de la Flora a la façana també va ser
+              espectacular i únic, cosa que ha proporcionat un material
+              irrepetible per a explicar l’artista i les seves obres envers el
+              seu projecte expositiu i l’edifici. L’audiovisual curt es mostra a
+              l’exposició i el llarg es va presentar en el context del Festival
+              Internacional DOCS BCN el passat mes de maig.
             </p>
           </div>
+        </div>
+        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
+          <img
+            src="/images/exposicions/Fundacio_Catalunya.svg"
+            class="w-full h-full object-cover"
+            alt="Fundació"
+          />
+        </div>
+      </div>
+    </div>
 
+    <div class="w-full py-16 sm:px-8 md:px-4 lg:px-12">
+      <div
+        class="w-full max-w-[1097px] mx-auto flex md:flex-row flex-col space-y-16 md:space-x-10 md:space-y-0 items-start md:justify-between"
+      >
+        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
+          <img
+            src="/images/exposicions/Fundacio.svg"
+            class="w-full h-full object-cover"
+            alt="Fundació2"
+          />
+        </div>
+        <div class="w-full md:max-w-[27.5rem] space-y-10 px-4 sm:px-0">
           <div class="w-full space-y-8 border-t border-black pt-5">
             <h1
               class="text-black text-[2rem] font-bold font-super-rotesk-comp leading-[1] pt-4"
@@ -122,13 +141,6 @@
               Holanda.
             </p>
           </div>
-        </div>
-        <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
-          <img
-            src="/images/exposicions/Fundacio.svg"
-            class="w-full h-full object-cover"
-            alt="Fundació"
-          />
         </div>
       </div>
     </div>

@@ -20,7 +20,7 @@
           <span class="text-[2rem]">persones</span>
         </div>
       </template>
-      <template #title> VOCACIÓ I TALENT </template>
+      <template #title> VOCACIONS I TALENT </template>
       <template #description>
         Impulsem programes per fomentar l’educació i el talent científic i
         cultural

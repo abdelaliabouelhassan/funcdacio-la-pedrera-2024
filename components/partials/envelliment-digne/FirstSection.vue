@@ -10,7 +10,7 @@
             ><Number :number="4.301"
           /></span>
           <span
-            class="text-Ocre font-medium leading-[2.5rem] font-reenie-beanie text-[4rem] pt-7"
+            class="text-Ocre font-medium leading-[2.5rem] font-super-rotesk-comp text-[4rem] pt-7"
             >persones</span
           >
         </div>
@@ -75,18 +75,18 @@
             </h1>
             <p class="text-black text-lg font-normal font-super-grotesk-ot">
               Un total de 810 persones grans han pogut beneficiar-se l’any 2023
-              del servei dels Dinars en Companyia, que els permet que gaudeixin
-              diàriament d’un àpat equilibrat i saludable, i ho puguin fer
-              conversant i socialitzant amb altres persones. Durant aquest any
-              hem obert el servei a un nou espai, el de Tarragona, arribant als
-              17 espais en tot el territori. <br />
+              del servei dels Dinars, que els permet que gaudeixin diàriament
+              d’un àpat equilibrat i saludable, i ho puguin fer conversant i
+              socialitzant amb altres persones. Durant aquest any hem obert el
+              servei a un nou espai, el de Tarragona, arribant als 17 espais en
+              tot el territori. <br />
               <br />
               La Fundació ha dut a terme un projecte de millora del servei dels
-              Dinars en Companyia, que ha tingut en compte tant la vessant de
-              nutrició, adaptant-la a les especificitats de les persones grans
-              que hi participen, com la d’organització dels equips i disseny
-              dels espais. Està previst posar en marxa aquest projecte durant
-              l’any 2024.
+              Dinars, que ha tingut en compte tant la vessant de nutrició,
+              adaptant-la a les especificitats de les persones grans que hi
+              participen, com la d’organització dels equips i disseny dels
+              espais. Està previst posar en marxa aquest projecte durant l’any
+              2024.
             </p>
           </div>
         </div>

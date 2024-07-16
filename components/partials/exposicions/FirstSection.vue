@@ -7,7 +7,7 @@
         <div class="flex flex-col text-center space-y-2 w-[16.5rem]">
           <span
             class="text-Brown font-bold lg:font-medium leading-[3.75rem] sm:font-super-grotesk-web text-[4rem] sm:text-[5rem] lg:text-[7rem]"
-            ><Number :number="686.321"
+            ><Number :number="1194643" dot_formated
           /></span>
           <span
             class="text-Brown font-medium leading-[2.5rem] font-super-rotesk-comp text-center pl-0 sm:pl-6 lg:pl-16 lg:pt-4 text-[4rem]"
@@ -58,7 +58,7 @@
               l’informalisme català establien un diàleg amb alguns dels
               principals representants internacionals de l’abstracció. <br />
               <br />
-              <span class="text-[#E46955] font-bold">
+              <span class="text-Brown font-bold">
                 El 2023 les exposicions de la Fundació Catalunya La Pedrera van
                 rebre 119.033 visitants
               </span>
@@ -86,7 +86,7 @@
         </div>
         <div class="w-full md:max-w-[37.5rem] h-[40rem] overflow-hidden">
           <img
-            src="/images/exposicions/Fundacio.svg"
+            src="/images/exposicions/Fundacio1.svg"
             class="w-full h-full object-cover"
             alt="Fundació"
           />

@@ -3,7 +3,7 @@
     <!-- table 1 -->
     <div class="overflow-x-auto max-w-[56rem] mx-auto text-xl">
       <h1 class="text-Olive-Green border-b-4 border-Olive-Green">
-        DIMENSIÓ ECONÒMICA 2022
+        DIMENSIÓ ECONÒMICA 2023
       </h1>
       <div class="flex flex-col w-[40.125rem] md:w-full">
         <div
@@ -100,7 +100,7 @@
       class="w-full max-w-[40.125rem] md:max-w-[56rem] mx-auto text-xl mt-16 md:mt-32"
     >
       <h1 class="text-Brown border-b-4 border-Brown">
-        DIMENSIÓ ECONÒMICA 2022
+        DIMENSIÓ ECONÒMICA 2023
       </h1>
       <div class="flex flex-col">
         <div

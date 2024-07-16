@@ -20,7 +20,7 @@
       <h2
         class="text-[2.5rem] font-normal tracking-[0.25rem] max-w-[22.2rem] leading-none sm:text-[4rem] sm:max-w-[28rem] md:text-[6rem] md:max-w-[46.25rem] md:tracking-[0.8rem] lg:text-[8rem]"
       >
-        VOCACIÓ I TALENT
+        VOCACIONS I TALENT
       </h2>
     </div>
   </section>

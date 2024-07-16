@@ -20,11 +20,11 @@
             </h1>
             <p class="text-black text-lg font-normal font-super-grotesk-ot">
               A la Fundació Catalunya La Pedrera treballa per millorar la
-              qualitat de vida de les persones grans mitjançant i per això
-              ofereix un servei d’àpats saludables als seus espais arreu de
-              Catalunya. Els usuaris són persones que volen relacionar-se i
-              sentir-se acompanyades i també persones amb problemes cognitius
-              lleus o moderats que tenen dificultats en la gestió dels àpats.
+              qualitat de vida de les persones grans i per això ofereix un
+              servei d’àpats saludables als seus espais arreu de Catalunya. Els
+              usuaris són persones que volen relacionar-se i sentir-se
+              acompanyades i també persones amb problemes cognitius lleus o
+              moderats que tenen dificultats en la gestió dels àpats.
               <br />
               <br />
               Durant el 2023 i sota la direcció de la Fundació Alícia s’ha
