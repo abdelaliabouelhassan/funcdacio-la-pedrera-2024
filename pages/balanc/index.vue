@@ -22,8 +22,8 @@ import HeroSection from "@/components/partials/balanc/HeroSection.vue";
 import SecondSection from "@/components/partials/balanc/SecondSection.vue";
 import ThirdSection from "@/components/partials/balanc/ThirdSection.vue";
 useSeoMeta({
-  title: "Memòria 2022 - Balanç econòmic",
+  title: "Memòria 2023 - Balanç econòmic",
   description:
-    "Memòria 2022 Fundació Catalunya La Pedrera - Reimaginar la Fundació",
+    "Memòria 2023 Fundació Catalunya La Pedrera - Reimaginar la Fundació",
 });
 </script>

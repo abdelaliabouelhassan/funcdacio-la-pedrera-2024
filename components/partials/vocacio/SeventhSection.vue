@@ -43,7 +43,7 @@
               >
               dissenyada per acompanyar el procés d’innovació pedagògica.
               Tanmateix, es van treballar els nous decrets curriculars amb
-              profunditat conjuntament. <br />
+              profunditat. <br />
               <br />
               L’escola va fer un pas molt important per avançar en la seva
               <span class="font-bold">sostenibilitat</span> energètica i, fruit
